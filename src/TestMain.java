@@ -168,6 +168,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1450(){
+        int[] startTime = {1,2,3}, endTime = {3,2,7};
+        int queryTime = 4;
+        int result = new Solution1450().busyStudent(startTime, endTime, queryTime);
+        System.out.println(result);
+    }
+
     private static void test1470() {
         int[] nums = new int[]{2, 5, 1, 3, 4, 7};
         int n = 3;
@@ -210,8 +217,9 @@ public class TestMain {
 //        test1313();
 //        test1342();
 //        test1365();
-        test1389();
+//        test1389();
 //        test1431();
+        test1450();
 //        test1470();
 //        test1480();
 //        test1486();

@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1108.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1281.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1295.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1313.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1342.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1365.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1389.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1431.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1470.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1480.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1486.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution237.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution535.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution709.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution771.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution804.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution807.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution832.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution938.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution977.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SolutionLCP01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/construct/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/construct/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1281.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1295.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1342.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1365.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1470.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1486.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution535.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution709.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution771.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution804.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution832.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolutionLCP01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1450.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2200">
-              <caret line="212" column="19" selection-start-line="212" selection-start-column="19" selection-end-line="212" selection-end-column="19" />
+            <state relative-caret-position="403">
+              <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#test1#0;class#TestMain#0" />
@@ -98,6 +40,7 @@
                 <element signature="method#test1313#0;class#TestMain#0" />
                 <element signature="method#test1342#0;class#TestMain#0" />
                 <element signature="method#test1365#0;class#TestMain#0" />
+                <element signature="method#test1389#0;class#TestMain#0" />
                 <element signature="method#test1431#0;class#TestMain#0" />
                 <element signature="method#test1470#0;class#TestMain#0" />
                 <element signature="method#test1480#0;class#TestMain#0" />
@@ -144,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution1431.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -153,6 +96,15 @@
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution1450.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -197,7 +149,15 @@
         <option value="$PROJECT_DIR$/src/Solution1313.java" />
         <option value="$PROJECT_DIR$/src/Solution1365.java" />
         <option value="$PROJECT_DIR$/src/Solution1389.java" />
+        <option value="$PROJECT_DIR$/src/Solution1450.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -206,7 +166,9 @@
     <option name="width" value="1120" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -285,15 +247,24 @@
       <workItem from="1578556919135" duration="491000" />
       <workItem from="1581559693260" duration="22000" />
       <workItem from="1593153396754" duration="19675000" />
-      <workItem from="1593251028240" duration="233000" />
+      <workItem from="1593251028240" duration="492000" />
     </task>
+    <task id="LOCAL-00001" summary="新增题">
+      <created>1593251303043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593251303043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20421000" />
+    <option name="totallyTimeSpent" value="20680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -313,7 +284,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.26912183" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.26912183" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -328,6 +299,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增题" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,36 +482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2200">
-          <caret line="212" column="19" selection-start-line="212" selection-start-column="19" selection-end-line="212" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#test1#0;class#TestMain#0" />
-            <element signature="method#test2#0;class#TestMain#0" />
-            <element signature="method#test237#0;class#TestMain#0" />
-            <element signature="method#test535#0;class#TestMain#0" />
-            <element signature="method#test709#0;class#TestMain#0" />
-            <element signature="method#test771#0;class#TestMain#0" />
-            <element signature="method#test804#0;class#TestMain#0" />
-            <element signature="method#test807#0;class#TestMain#0" />
-            <element signature="method#test832#0;class#TestMain#0" />
-            <element signature="method#test938#0;class#TestMain#0" />
-            <element signature="method#test1108#0;class#TestMain#0" />
-            <element signature="method#test1295#0;class#TestMain#0" />
-            <element signature="method#test1313#0;class#TestMain#0" />
-            <element signature="method#test1342#0;class#TestMain#0" />
-            <element signature="method#test1365#0;class#TestMain#0" />
-            <element signature="method#test1431#0;class#TestMain#0" />
-            <element signature="method#test1470#0;class#TestMain#0" />
-            <element signature="method#test1480#0;class#TestMain#0" />
-            <element signature="method#test1486#0;class#TestMain#0" />
-            <element signature="method#testLCP01#0;class#TestMain#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1389.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -572,6 +517,44 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1450.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#test1#0;class#TestMain#0" />
+            <element signature="method#test2#0;class#TestMain#0" />
+            <element signature="method#test237#0;class#TestMain#0" />
+            <element signature="method#test535#0;class#TestMain#0" />
+            <element signature="method#test709#0;class#TestMain#0" />
+            <element signature="method#test771#0;class#TestMain#0" />
+            <element signature="method#test804#0;class#TestMain#0" />
+            <element signature="method#test807#0;class#TestMain#0" />
+            <element signature="method#test832#0;class#TestMain#0" />
+            <element signature="method#test938#0;class#TestMain#0" />
+            <element signature="method#test1108#0;class#TestMain#0" />
+            <element signature="method#test1295#0;class#TestMain#0" />
+            <element signature="method#test1313#0;class#TestMain#0" />
+            <element signature="method#test1342#0;class#TestMain#0" />
+            <element signature="method#test1365#0;class#TestMain#0" />
+            <element signature="method#test1389#0;class#TestMain#0" />
+            <element signature="method#test1431#0;class#TestMain#0" />
+            <element signature="method#test1470#0;class#TestMain#0" />
+            <element signature="method#test1480#0;class#TestMain#0" />
+            <element signature="method#test1486#0;class#TestMain#0" />
+            <element signature="method#testLCP01#0;class#TestMain#0" />
           </folding>
         </state>
       </provider>
