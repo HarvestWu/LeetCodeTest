@@ -1,6 +1,7 @@
 import construct.ListNode;
 import construct.TreeNode;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -182,6 +183,18 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1436(){
+        List<List<String>> paths = new ArrayList<>();
+        List<String> list1 = Arrays.asList("London","New York");
+        List<String> list2 = Arrays.asList("New York","Lima");
+        List<String> list3 = Arrays.asList("Lima","Sao Paulo");
+        paths.add(list1);
+        paths.add(list2);
+        paths.add(list3);
+        String result = new Solution1436().destCity(paths);
+        System.out.println(result);
+    }
+
     private static void test1450() {
         int[] startTime = {1, 2, 3}, endTime = {3, 2, 7};
         int queryTime = 4;
@@ -247,8 +260,9 @@ public class TestMain {
 //        test1365();
 //        test1389();
 //        test1431();
+        test1436();
 //        test1450();
-        test1464();
+//        test1464();
 //        test1470();
 //        test1480();
 //        test1486();
