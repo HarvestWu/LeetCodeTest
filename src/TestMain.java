@@ -137,6 +137,14 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1290(){
+        ListNode node = new ListNode(1);
+        node.next = new ListNode(0);
+        node.next.next = new ListNode(1);
+        int result = new Solution1290().getDecimalValue(node);
+        System.out.println(result);
+    }
+
     private static void test1295() {
         int[] nums = {12, 345, 2, 6, 7896};
         int result = new Solution1295().findNumbers(nums);
@@ -224,8 +232,9 @@ public class TestMain {
 //        test938();
 //        test977();
 //        test1108();
-        test1266();
+//        test1266();
 //        test1281();
+        test1290();
 //        test1295();
 //        test1313();
 //        test1342();
