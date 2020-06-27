@@ -137,7 +137,7 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test1290(){
+    private static void test1290() {
         ListNode node = new ListNode(1);
         node.next = new ListNode(0);
         node.next.next = new ListNode(1);
@@ -189,6 +189,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1464() {
+        int[] nums = {3, 4, 5, 2};
+        int result = new Solution1464().maxProduct(nums);
+        System.out.println(result);
+    }
+
     private static void test1470() {
         int[] nums = new int[]{2, 5, 1, 3, 4, 7};
         int n = 3;
@@ -234,7 +240,7 @@ public class TestMain {
 //        test1108();
 //        test1266();
 //        test1281();
-        test1290();
+//        test1290();
 //        test1295();
 //        test1313();
 //        test1342();
@@ -242,6 +248,7 @@ public class TestMain {
 //        test1389();
 //        test1431();
 //        test1450();
+        test1464();
 //        test1470();
 //        test1480();
 //        test1486();
