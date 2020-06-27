@@ -131,14 +131,14 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test1295(){
-        int[] nums = {12,345,2,6,7896};
+    private static void test1295() {
+        int[] nums = {12, 345, 2, 6, 7896};
         int result = new Solution1295().findNumbers(nums);
         System.out.println(result);
     }
 
-    private static void test1313(){
-        int[] nums = {1,2,3,4};
+    private static void test1313() {
+        int[] nums = {1, 2, 3, 4};
         int[] result = new Solution1313().decompressRLElist(nums);
         System.out.println(Arrays.toString(result));
     }
@@ -149,15 +149,15 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test1365(){
-        int[] nums = new int[]{8,1,2,2,3};
+    private static void test1365() {
+        int[] nums = new int[]{8, 1, 2, 2, 3};
         int[] result = new Solution1365().smallerNumbersThanCurrent(nums);
         System.out.println(Arrays.toString(result));
     }
 
-    private static void test1389(){
-        int[] nums = {0,1,2,3,4}, index = {0,1,2,2,1};
-        int[] result = new Solution1389().createTargetArray(nums,index);
+    private static void test1389() {
+        int[] nums = {0, 1, 2, 3, 4}, index = {0, 1, 2, 2, 1};
+        int[] result = new Solution1389().createTargetArray(nums, index);
         System.out.println(Arrays.toString(result));
     }
 
@@ -168,8 +168,8 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test1450(){
-        int[] startTime = {1,2,3}, endTime = {3,2,7};
+    private static void test1450() {
+        int[] startTime = {1, 2, 3}, endTime = {3, 2, 7};
         int queryTime = 4;
         int result = new Solution1450().busyStudent(startTime, endTime, queryTime);
         System.out.println(result);
@@ -199,6 +199,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void testLCP06() {
+        int[] coins = {2, 3, 10};
+        int result = new SolutionLCP06().minCount(coins);
+        System.out.println(result);
+    }
+
     public static void main(String[] args) {
 //        test1();
 //        test2();
@@ -219,10 +225,11 @@ public class TestMain {
 //        test1365();
 //        test1389();
 //        test1431();
-        test1450();
+//        test1450();
 //        test1470();
 //        test1480();
 //        test1486();
 //        testLCP01();
+        testLCP06();
     }
 }
