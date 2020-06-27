@@ -126,6 +126,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1221() {
+        String s = "RLLLLRRRLR";
+        int result = new Solution1221().balancedStringSplit(s);
+        System.out.println(result);
+    }
+
     private static void test1266() {
         int[][] points = {{1, 1}, {3, 4}, {-1, 0}};
         int result = new Solution1266().minTimeToVisitAllPoints(points);
@@ -183,11 +189,11 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test1436(){
+    private static void test1436() {
         List<List<String>> paths = new ArrayList<>();
-        List<String> list1 = Arrays.asList("London","New York");
-        List<String> list2 = Arrays.asList("New York","Lima");
-        List<String> list3 = Arrays.asList("Lima","Sao Paulo");
+        List<String> list1 = Arrays.asList("London", "New York");
+        List<String> list2 = Arrays.asList("New York", "Lima");
+        List<String> list3 = Arrays.asList("Lima", "Sao Paulo");
         paths.add(list1);
         paths.add(list2);
         paths.add(list3);
@@ -251,6 +257,7 @@ public class TestMain {
 //        test938();
 //        test977();
 //        test1108();
+        test1221();
 //        test1266();
 //        test1281();
 //        test1290();
@@ -260,7 +267,7 @@ public class TestMain {
 //        test1365();
 //        test1389();
 //        test1431();
-        test1436();
+//        test1436();
 //        test1450();
 //        test1464();
 //        test1470();
