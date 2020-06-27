@@ -125,6 +125,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1266() {
+        int[][] points = {{1, 1}, {3, 4}, {-1, 0}};
+        int result = new Solution1266().minTimeToVisitAllPoints(points);
+        System.out.println(result);
+    }
+
     private static void test1281() {
         int n = 4421;
         int result = new Solution1281().subtractProductAndSum(n);
@@ -218,6 +224,7 @@ public class TestMain {
 //        test938();
 //        test977();
 //        test1108();
+        test1266();
 //        test1281();
 //        test1295();
 //        test1313();
@@ -230,6 +237,6 @@ public class TestMain {
 //        test1480();
 //        test1486();
 //        testLCP01();
-        testLCP06();
+//        testLCP06();
     }
 }
