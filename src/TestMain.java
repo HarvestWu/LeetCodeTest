@@ -208,6 +208,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1460() {
+        int[] target = new int[]{1, 2, 3, 4};
+        int[] arr = new int[]{2, 4, 1, 3};
+        boolean result = new Solution1460().canBeEqual(target, arr);
+        System.out.println(result);
+    }
+
     private static void test1464() {
         int[] nums = {3, 4, 5, 2};
         int result = new Solution1464().maxProduct(nums);
@@ -257,7 +264,7 @@ public class TestMain {
 //        test938();
 //        test977();
 //        test1108();
-        test1221();
+//        test1221();
 //        test1266();
 //        test1281();
 //        test1290();
@@ -269,6 +276,7 @@ public class TestMain {
 //        test1431();
 //        test1436();
 //        test1450();
+        test1460();
 //        test1464();
 //        test1470();
 //        test1480();
