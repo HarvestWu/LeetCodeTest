@@ -120,6 +120,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test1021(){
+        String S = "(()())(())";
+        String result = new Solution1021().removeOuterParentheses(S);
+        System.out.println(result);
+    }
+
     private static void test1108() {
         String address = "1.1.1.1";
         String result = new Solution1108().defangIPaddr(address);
@@ -269,12 +275,13 @@ public class TestMain {
 //        test832();
 //        test938();
 //        test977();
+        test1021();
 //        test1108();
 //        test1221();
 //        test1266();
 //        test1281();
 //        test1290();
-        test1299();
+//        test1299();
 //        test1295();
 //        test1313();
 //        test1342();

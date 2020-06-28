@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1299.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1021.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="276" column="19" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+            <state relative-caret-position="201">
+              <caret line="277" column="19" selection-start-line="277" selection-start-column="19" selection-end-line="277" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#test1#0;class#TestMain#0" />
@@ -44,6 +43,7 @@
                 <element signature="method#test1281#0;class#TestMain#0" />
                 <element signature="method#test1290#0;class#TestMain#0" />
                 <element signature="method#test1295#0;class#TestMain#0" />
+                <element signature="method#test1299#0;class#TestMain#0" />
                 <element signature="method#test1313#0;class#TestMain#0" />
                 <element signature="method#test1342#0;class#TestMain#0" />
                 <element signature="method#test1365#0;class#TestMain#0" />
@@ -64,19 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution1299.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution1021.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution1460.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="5" selection-start-line="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -130,8 +121,9 @@
         <option value="$PROJECT_DIR$/src/Solution1436.java" />
         <option value="$PROJECT_DIR$/src/Solution1221.java" />
         <option value="$PROJECT_DIR$/src/Solution1460.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Solution1299.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution1021.java" />
       </list>
     </option>
   </component>
@@ -222,7 +214,7 @@
       <workItem from="1581559693260" duration="22000" />
       <workItem from="1593153396754" duration="19675000" />
       <workItem from="1593251028240" duration="6517000" />
-      <workItem from="1593333815938" duration="1101000" />
+      <workItem from="1593333815938" duration="2131000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -294,16 +286,24 @@
       <option name="project" value="LOCAL" />
       <updated>1593334390969</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="新增1299">
+      <created>1593334934731</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593334934731</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27806000" />
+    <option name="totallyTimeSpent" value="28836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,8 +312,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.26770538" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4631728" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.26770538" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.194051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -321,7 +321,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" visible="true" weight="0.26770538" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.4631728" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -347,7 +347,8 @@
     <MESSAGE value="新增1436" />
     <MESSAGE value="新增1221" />
     <MESSAGE value="新增1460" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增1460" />
+    <MESSAGE value="新增1299" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增1299" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,10 +636,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1299.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="276" column="19" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
+        <state relative-caret-position="201">
+          <caret line="277" column="19" selection-start-line="277" selection-start-column="19" selection-end-line="277" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#test1#0;class#TestMain#0" />
@@ -658,6 +666,7 @@
             <element signature="method#test1281#0;class#TestMain#0" />
             <element signature="method#test1290#0;class#TestMain#0" />
             <element signature="method#test1295#0;class#TestMain#0" />
+            <element signature="method#test1299#0;class#TestMain#0" />
             <element signature="method#test1313#0;class#TestMain#0" />
             <element signature="method#test1342#0;class#TestMain#0" />
             <element signature="method#test1365#0;class#TestMain#0" />
@@ -676,10 +685,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1299.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution1021.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="50">
+          <caret line="5" selection-start-line="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
