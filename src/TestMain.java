@@ -73,7 +73,7 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test617(){
+    private static void test617() {
         TreeNode t1 = new TreeNode(1);
         t1.left = new TreeNode(3);
         t1.right = new TreeNode(2);
@@ -85,7 +85,7 @@ public class TestMain {
         t2.left.right = new TreeNode(4);
         t2.right.right = new TreeNode(7);
 
-        TreeNode result = new Solution617().mergeTrees(t1,t2);
+        TreeNode result = new Solution617().mergeTrees(t1, t2);
         TreeNode.printf(result);
     }
 
@@ -268,6 +268,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test1475() {
+        int[] prices = new int[]{8, 4, 6, 2, 3};
+        int[] result = new Solution1475().finalPrices(prices);
+        System.out.println(Arrays.toString(result));
+    }
+
     private static void test1480() {
         int[] nums = new int[]{1, 2, 3, 4};
         int[] result = new Solution1480().runningSum(nums);
@@ -297,7 +303,7 @@ public class TestMain {
 //        test237();
 //        test461();
 //        test535();
-        test617();
+//        test617();
 //        test771();
 //        test709();
 //        test804();
@@ -324,6 +330,7 @@ public class TestMain {
 //        test1460();
 //        test1464();
 //        test1470();
+        test1475();
 //        test1480();
 //        test1486();
 //        testLCP01();
