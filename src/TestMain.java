@@ -73,6 +73,22 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test617(){
+        TreeNode t1 = new TreeNode(1);
+        t1.left = new TreeNode(3);
+        t1.right = new TreeNode(2);
+        t1.left.left = new TreeNode(5);
+
+        TreeNode t2 = new TreeNode(2);
+        t2.left = new TreeNode(1);
+        t2.right = new TreeNode(3);
+        t2.left.right = new TreeNode(4);
+        t2.right.right = new TreeNode(7);
+
+        TreeNode result = new Solution617().mergeTrees(t1,t2);
+        TreeNode.printf(result);
+    }
+
     private static void test709() {
         String str = "Hello";
         String result = new Solution709().toLowerCase(str);
@@ -279,8 +295,9 @@ public class TestMain {
 //        test1();
 //        test2();
 //        test237();
-        test461();
+//        test461();
 //        test535();
+        test617();
 //        test771();
 //        test709();
 //        test804();
