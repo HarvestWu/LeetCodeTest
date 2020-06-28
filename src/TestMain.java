@@ -217,6 +217,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test1323() {
+        int num = 9669;
+        int result = new Solution1323().maximum69Number(num);
+        System.out.println(result);
+    }
+
     private static void test1342() {
         int num = 14;
         int result = new Solution1342().numberOfSteps(num);
@@ -319,7 +325,7 @@ public class TestMain {
     public static void main(String[] args) {
 //        test1();
 //        test2();
-        test226();
+//        test226();
 //        test237();
 //        test461();
 //        test535();
@@ -341,6 +347,7 @@ public class TestMain {
 //        test1299();
 //        test1295();
 //        test1313();
+        test1323();
 //        test1342();
 //        test1351();
 //        test1365();
