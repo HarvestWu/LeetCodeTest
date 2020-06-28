@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution1252.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,15 +18,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="323" column="19" selection-start-line="323" selection-start-column="19" selection-end-line="323" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#test1#0;class#TestMain#0" />
                 <element signature="method#test2#0;class#TestMain#0" />
+                <element signature="e#1313#1314#0" expanded="true" />
+                <element signature="e#1358#1359#0" expanded="true" />
                 <element signature="method#test237#0;class#TestMain#0" />
                 <element signature="method#test461#0;class#TestMain#0" />
                 <element signature="method#test535#0;class#TestMain#0" />
@@ -42,6 +43,7 @@
                 <element signature="method#test1021#0;class#TestMain#0" />
                 <element signature="method#test1108#0;class#TestMain#0" />
                 <element signature="method#test1221#0;class#TestMain#0" />
+                <element signature="method#test1252#0;class#TestMain#0" />
                 <element signature="method#test1266#0;class#TestMain#0" />
                 <element signature="method#test1281#0;class#TestMain#0" />
                 <element signature="method#test1290#0;class#TestMain#0" />
@@ -68,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution1252.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution226.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="117">
+              <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,8 +83,8 @@
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="300">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -139,13 +141,14 @@
         <option value="$PROJECT_DIR$/src/Solution1299.java" />
         <option value="$PROJECT_DIR$/src/Solution1021.java" />
         <option value="$PROJECT_DIR$/src/Solution1351.java" />
-        <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/src/Solution461.java" />
         <option value="$PROJECT_DIR$/src/Solution617.java" />
         <option value="$PROJECT_DIR$/src/construct/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/Solution1475.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Solution1252.java" />
+        <option value="$PROJECT_DIR$/src/Solution226.java" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
   </component>
@@ -236,7 +239,7 @@
       <workItem from="1581559693260" duration="22000" />
       <workItem from="1593153396754" duration="19675000" />
       <workItem from="1593251028240" duration="6517000" />
-      <workItem from="1593333815938" duration="7162000" />
+      <workItem from="1593333815938" duration="8010000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -350,17 +353,24 @@
       <option name="project" value="LOCAL" />
       <updated>1593339499107</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="新增1252">
+      <created>1593351329898</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593351329898</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33867000" />
+    <option name="totallyTimeSpent" value="34715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17426273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17426273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,7 +379,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.26770538" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.26770538" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.194051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,7 +420,8 @@
     <MESSAGE value="新增461" />
     <MESSAGE value="新增617" />
     <MESSAGE value="新增1475" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增1475" />
+    <MESSAGE value="新增1252" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增1252" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -738,21 +749,37 @@
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="300">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1252.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="323" column="19" selection-start-line="323" selection-start-column="19" selection-end-line="323" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#test1#0;class#TestMain#0" />
             <element signature="method#test2#0;class#TestMain#0" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
             <element signature="method#test237#0;class#TestMain#0" />
             <element signature="method#test461#0;class#TestMain#0" />
             <element signature="method#test535#0;class#TestMain#0" />
@@ -767,6 +794,7 @@
             <element signature="method#test1021#0;class#TestMain#0" />
             <element signature="method#test1108#0;class#TestMain#0" />
             <element signature="method#test1221#0;class#TestMain#0" />
+            <element signature="method#test1252#0;class#TestMain#0" />
             <element signature="method#test1266#0;class#TestMain#0" />
             <element signature="method#test1281#0;class#TestMain#0" />
             <element signature="method#test1290#0;class#TestMain#0" />
@@ -789,13 +817,6 @@
             <element signature="method#testLCP01#0;class#TestMain#0" />
             <element signature="method#testLCP06#0;class#TestMain#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1252.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>

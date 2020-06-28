@@ -48,6 +48,18 @@ public class TestMain {
 
     }
 
+    private static void test226() {
+        TreeNode root = new TreeNode(4);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(7);
+        root.left.left = new TreeNode(1);
+        root.left.right = new TreeNode(3);
+        root.right.left = new TreeNode(6);
+        root.right.right = new TreeNode(9);
+        TreeNode result = new Solution226().invertTree(root);
+        TreeNode.printf(result);
+    }
+
     private static void test237() {
         ListNode node = new ListNode(4);
         node.next = new ListNode(5);
@@ -307,6 +319,7 @@ public class TestMain {
     public static void main(String[] args) {
 //        test1();
 //        test2();
+        test226();
 //        test237();
 //        test461();
 //        test535();
@@ -321,7 +334,7 @@ public class TestMain {
 //        test1021();
 //        test1108();
 //        test1221();
-        test1252();
+//        test1252();
 //        test1266();
 //        test1281();
 //        test1290();
