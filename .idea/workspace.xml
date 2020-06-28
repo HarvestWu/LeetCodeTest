@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution1460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution1299.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1299.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
@@ -19,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="278" column="19" selection-start-line="278" selection-start-column="19" selection-end-line="278" selection-end-column="19" />
+            <state relative-caret-position="652">
+              <caret line="276" column="19" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#test1#0;class#TestMain#0" />
@@ -50,6 +51,7 @@
                 <element signature="method#test1431#0;class#TestMain#0" />
                 <element signature="method#test1436#0;class#TestMain#0" />
                 <element signature="method#test1450#0;class#TestMain#0" />
+                <element signature="method#test1460#0;class#TestMain#0" />
                 <element signature="method#test1464#0;class#TestMain#0" />
                 <element signature="method#test1470#0;class#TestMain#0" />
                 <element signature="method#test1480#0;class#TestMain#0" />
@@ -57,6 +59,15 @@
                 <element signature="method#testLCP01#0;class#TestMain#0" />
                 <element signature="method#testLCP06#0;class#TestMain#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution1299.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -120,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/Solution1221.java" />
         <option value="$PROJECT_DIR$/src/Solution1460.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution1299.java" />
       </list>
     </option>
   </component>
@@ -210,7 +222,7 @@
       <workItem from="1581559693260" duration="22000" />
       <workItem from="1593153396754" duration="19675000" />
       <workItem from="1593251028240" duration="6517000" />
-      <workItem from="1593333815938" duration="533000" />
+      <workItem from="1593333815938" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -275,15 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593267364626</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新增1460">
+      <created>1593334390968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593334390969</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27238000" />
+    <option name="totallyTimeSpent" value="27806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -328,7 +346,8 @@
     <MESSAGE value="新增1464" />
     <MESSAGE value="新增1436" />
     <MESSAGE value="新增1221" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增1221" />
+    <MESSAGE value="新增1460" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增1460" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="278" column="19" selection-start-line="278" selection-start-column="19" selection-end-line="278" selection-end-column="19" />
+        <state relative-caret-position="652">
+          <caret line="276" column="19" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#test1#0;class#TestMain#0" />
@@ -646,6 +665,7 @@
             <element signature="method#test1431#0;class#TestMain#0" />
             <element signature="method#test1436#0;class#TestMain#0" />
             <element signature="method#test1450#0;class#TestMain#0" />
+            <element signature="method#test1460#0;class#TestMain#0" />
             <element signature="method#test1464#0;class#TestMain#0" />
             <element signature="method#test1470#0;class#TestMain#0" />
             <element signature="method#test1480#0;class#TestMain#0" />
@@ -653,6 +673,13 @@
             <element signature="method#testLCP01#0;class#TestMain#0" />
             <element signature="method#testLCP06#0;class#TestMain#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1299.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -158,6 +158,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1299() {
+        int[] arr = new int[]{17, 18, 5, 4, 6, 1};
+        int[] result = new Solution1299().replaceElements(arr);
+        System.out.println(Arrays.toString(result));
+    }
+
     private static void test1313() {
         int[] nums = {1, 2, 3, 4};
         int[] result = new Solution1313().decompressRLElist(nums);
@@ -268,6 +274,7 @@ public class TestMain {
 //        test1266();
 //        test1281();
 //        test1290();
+        test1299();
 //        test1295();
 //        test1313();
 //        test1342();
@@ -276,7 +283,7 @@ public class TestMain {
 //        test1431();
 //        test1436();
 //        test1450();
-        test1460();
+//        test1460();
 //        test1464();
 //        test1470();
 //        test1480();
