@@ -101,6 +101,12 @@ public class TestMain {
         TreeNode.printf(result);
     }
 
+    private static void test657() {
+        String moves = "LLRR";
+        boolean result = new Solution657().judgeCircle(moves);
+        System.out.println(result);
+    }
+
     private static void test709() {
         String str = "Hello";
         String result = new Solution709().toLowerCase(str);
@@ -330,6 +336,7 @@ public class TestMain {
 //        test461();
 //        test535();
 //        test617();
+        test657();
 //        test771();
 //        test709();
 //        test804();
@@ -347,7 +354,7 @@ public class TestMain {
 //        test1299();
 //        test1295();
 //        test1313();
-        test1323();
+//        test1323();
 //        test1342();
 //        test1351();
 //        test1365();
