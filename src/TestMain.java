@@ -120,7 +120,7 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
-    private static void test1021(){
+    private static void test1021() {
         String S = "(()())(())";
         String result = new Solution1021().removeOuterParentheses(S);
         System.out.println(result);
@@ -179,6 +179,12 @@ public class TestMain {
     private static void test1342() {
         int num = 14;
         int result = new Solution1342().numberOfSteps(num);
+        System.out.println(result);
+    }
+
+    private static void test1351() {
+        int[][] grid = new int[][]{{4, 3, 2, -1}, {3, 2, 1, -1}, {1, 1, -1, -2}, {-1, -1, -2, -3}};
+        int result = new Solution1351().countNegatives(grid);
         System.out.println(result);
     }
 
@@ -275,7 +281,7 @@ public class TestMain {
 //        test832();
 //        test938();
 //        test977();
-        test1021();
+//        test1021();
 //        test1108();
 //        test1221();
 //        test1266();
@@ -285,6 +291,7 @@ public class TestMain {
 //        test1295();
 //        test1313();
 //        test1342();
+        test1351();
 //        test1365();
 //        test1389();
 //        test1431();
