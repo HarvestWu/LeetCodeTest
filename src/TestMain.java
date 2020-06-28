@@ -61,6 +61,12 @@ public class TestMain {
         }
     }
 
+    private static void test461() {
+        int x = 1, y = 4;
+        int result = new Solution461().hammingDistance(x, y);
+        System.out.println(result);
+    }
+
     private static void test535() {
         String str = "https://leetcode.com/problems/design-tinyurl";
         String result = new Solution535().decode(new Solution535().encode(str));
@@ -273,6 +279,7 @@ public class TestMain {
 //        test1();
 //        test2();
 //        test237();
+        test461();
 //        test535();
 //        test771();
 //        test709();
@@ -291,7 +298,7 @@ public class TestMain {
 //        test1295();
 //        test1313();
 //        test1342();
-        test1351();
+//        test1351();
 //        test1365();
 //        test1389();
 //        test1431();
