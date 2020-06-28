@@ -160,6 +160,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test1252() {
+        int n = 2, m = 3;
+        int[][] indices = new int[][]{{0, 1}, {1, 1}};
+        int result = new Solution1252().oddCells(n, m, indices);
+        System.out.println(result);
+    }
+
     private static void test1266() {
         int[][] points = {{1, 1}, {3, 4}, {-1, 0}};
         int result = new Solution1266().minTimeToVisitAllPoints(points);
@@ -314,6 +321,7 @@ public class TestMain {
 //        test1021();
 //        test1108();
 //        test1221();
+        test1252();
 //        test1266();
 //        test1281();
 //        test1290();
@@ -330,7 +338,7 @@ public class TestMain {
 //        test1460();
 //        test1464();
 //        test1470();
-        test1475();
+//        test1475();
 //        test1480();
 //        test1486();
 //        testLCP01();
