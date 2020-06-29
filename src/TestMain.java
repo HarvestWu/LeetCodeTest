@@ -217,6 +217,14 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test1304() {
+        int n = 5;
+        int[] result = new Solution1304().sumZero(n);
+        for (int a : result) {
+            System.out.print(a + " ");
+        }
+    }
+
     private static void test1309() {
         String s = "12345678910#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#26#";
         String result = new Solution1309().freqAlphabets(s);
@@ -359,7 +367,8 @@ public class TestMain {
 //        test1290();
 //        test1299();
 //        test1295();
-        test1309();
+        test1304();
+//        test1309();
 //        test1313();
 //        test1323();
 //        test1342();
