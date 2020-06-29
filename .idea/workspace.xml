@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution1309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1370.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="361" column="19" selection-start-line="361" selection-start-column="19" selection-end-line="361" selection-end-column="19" />
+            <state relative-caret-position="367">
+              <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#test1#0;class#TestMain#0" />
@@ -47,6 +48,8 @@
                 <element signature="method#test1290#0;class#TestMain#0" />
                 <element signature="method#test1295#0;class#TestMain#0" />
                 <element signature="method#test1299#0;class#TestMain#0" />
+                <element signature="e#6842#6907#0" />
+                <element signature="method#test1309#0;class#TestMain#0" />
                 <element signature="method#test1313#0;class#TestMain#0" />
                 <element signature="method#test1323#0;class#TestMain#0" />
                 <element signature="method#test1342#0;class#TestMain#0" />
@@ -70,10 +73,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution1309.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution1370.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="192">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution1304.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -138,8 +150,10 @@
         <option value="$PROJECT_DIR$/src/Solution1323.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Solution657.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Solution1309.java" />
+        <option value="$PROJECT_DIR$/src/Solution1304.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution1370.java" />
       </list>
     </option>
   </component>
@@ -232,7 +246,7 @@
       <workItem from="1593251028240" duration="6517000" />
       <workItem from="1593333815938" duration="9772000" />
       <workItem from="1593416283836" duration="50000" />
-      <workItem from="1593427553590" duration="1198000" />
+      <workItem from="1593427553590" duration="4184000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -381,11 +395,25 @@
       <option name="project" value="LOCAL" />
       <updated>1593353668466</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="新增1309">
+      <created>1593428815351</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593428815351</updated>
+    </task>
+    <task id="LOCAL-00023" summary="新增1304">
+      <created>1593429551447</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1593429551447</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37725000" />
+    <option name="totallyTimeSpent" value="40711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -400,8 +428,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.26770538" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.43201134" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.26770538" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.43201134" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -446,7 +474,9 @@
     <MESSAGE value="新增1323" />
     <MESSAGE value="增加根目录README.md" />
     <MESSAGE value="新增657" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增657" />
+    <MESSAGE value="新增1309" />
+    <MESSAGE value="新增1304" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增1304" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -457,13 +487,16 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution1370.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1108.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -819,10 +852,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://F:/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="1623" selection-start-line="1623" selection-end-line="1623" />
+          <folding>
+            <element signature="e#61831#61832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution1304.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="361" column="19" selection-start-line="361" selection-start-column="19" selection-end-line="361" selection-end-column="19" />
+        <state relative-caret-position="367">
+          <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#test1#0;class#TestMain#0" />
@@ -847,6 +911,8 @@
             <element signature="method#test1290#0;class#TestMain#0" />
             <element signature="method#test1295#0;class#TestMain#0" />
             <element signature="method#test1299#0;class#TestMain#0" />
+            <element signature="e#6842#6907#0" />
+            <element signature="method#test1309#0;class#TestMain#0" />
             <element signature="method#test1313#0;class#TestMain#0" />
             <element signature="method#test1323#0;class#TestMain#0" />
             <element signature="method#test1342#0;class#TestMain#0" />
@@ -868,27 +934,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution1370.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="1623" selection-start-line="1623" selection-end-line="1623" />
-          <folding>
-            <element signature="e#61831#61832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="240" selection-start-line="240" selection-end-line="240" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1309.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="192">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>

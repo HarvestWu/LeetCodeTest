@@ -261,6 +261,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test1370(){
+        String s = "aaaabbbbcccc";
+        String result = new Solution1370().sortString(s);
+        System.out.println(result);
+    }
+
     private static void test1389() {
         int[] nums = {0, 1, 2, 3, 4}, index = {0, 1, 2, 2, 1};
         int[] result = new Solution1389().createTargetArray(nums, index);
@@ -367,13 +373,14 @@ public class TestMain {
 //        test1290();
 //        test1299();
 //        test1295();
-        test1304();
+//        test1304();
 //        test1309();
 //        test1313();
 //        test1323();
 //        test1342();
 //        test1351();
 //        test1365();
+        test1370();
 //        test1389();
 //        test1431();
 //        test1436();
