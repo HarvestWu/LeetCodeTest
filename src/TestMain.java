@@ -107,6 +107,17 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test700() {
+        TreeNode root = new TreeNode(4);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(7);
+        root.left.left = new TreeNode(1);
+        root.left.right = new TreeNode(3);
+        int val = 2;
+        TreeNode result = new Solution700().searchBST(root, val);
+        TreeNode.printf(result);
+    }
+
     private static void test709() {
         String str = "Hello";
         String result = new Solution709().toLowerCase(str);
@@ -261,7 +272,7 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
-    private static void test1370(){
+    private static void test1370() {
         String s = "aaaabbbbcccc";
         String result = new Solution1370().sortString(s);
         System.out.println(result);
@@ -357,6 +368,7 @@ public class TestMain {
 //        test535();
 //        test617();
 //        test657();
+        test700();
 //        test771();
 //        test709();
 //        test804();
@@ -380,7 +392,7 @@ public class TestMain {
 //        test1342();
 //        test1351();
 //        test1365();
-        test1370();
+//        test1370();
 //        test1389();
 //        test1431();
 //        test1436();
