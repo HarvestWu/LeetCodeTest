@@ -1,4 +1,5 @@
 import construct.ListNode;
+import construct.Node;
 import construct.TreeNode;
 
 import java.util.ArrayList;
@@ -83,6 +84,18 @@ public class TestMain {
         String str = "https://leetcode.com/problems/design-tinyurl";
         String result = new Solution535().decode(new Solution535().encode(str));
         System.out.println(result);
+    }
+
+    private static void test590() {
+        Node node5 = new Node(6, new ArrayList<>());
+        Node node4 = new Node(5, new ArrayList<>());
+        Node node3 = new Node(4, new ArrayList<>());
+        Node node2 = new Node(2, new ArrayList<>());
+        Node node1 = new Node(3, Arrays.asList(node4, node5));
+        Node root = new Node(1, Arrays.asList(node1, node2, node3));
+        List<Integer> result = new Solution590().postorder(root);
+        System.out.println(result);
+
     }
 
     private static void test617() {
@@ -366,9 +379,10 @@ public class TestMain {
 //        test237();
 //        test461();
 //        test535();
+        test590();
 //        test617();
 //        test657();
-        test700();
+//        test700();
 //        test771();
 //        test709();
 //        test804();
