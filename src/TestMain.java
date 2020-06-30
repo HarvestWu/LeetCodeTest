@@ -67,6 +67,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test14() {
+        String[] str = {"tom", "to", "t"};
+        String result = new Solution14().longestCommonPrefix(str);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -395,7 +401,8 @@ public class TestMain {
 //        test2();
 //        test7();
 //        test9();
-        test13();
+//        test13();
+        test14();
 //        test226();
 //        test237();
 //        test461();
