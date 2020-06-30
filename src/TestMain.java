@@ -111,6 +111,11 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test38(){
+        String result = new Solution38().countAndSay(5);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -446,7 +451,8 @@ public class TestMain {
 //        test26();
 //        test27();
 //        test28();
-        test35();
+//        test35();
+        test38();
 //        test226();
 //        test237();
 //        test461();
