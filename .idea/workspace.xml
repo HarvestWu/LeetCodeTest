@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construct/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construct/ListNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+            <state relative-caret-position="224">
+              <caret line="419" column="14" selection-start-line="419" selection-start-column="14" selection-end-line="419" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#242#579#0" />
@@ -32,6 +32,8 @@
                 <element signature="e#1303#1367#0" />
                 <element signature="e#1454#1519#0" />
                 <element signature="e#1607#1681#0" />
+                <element signature="e#1772#1867#0" />
+                <element signature="e#1960#2034#0" />
                 <element signature="e#1303#1723#0" />
                 <element signature="e#1729#2135#0" />
                 <element signature="e#2141#2302#0" />
@@ -82,10 +84,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solution14.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -105,9 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution1342.java" />
-        <option value="$PROJECT_DIR$/src/Solution1108.java" />
-        <option value="$PROJECT_DIR$/src/construct/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Solution237.java" />
         <option value="$PROJECT_DIR$/src/Solution1.java" />
         <option value="$PROJECT_DIR$/src/Solution2.java" />
@@ -155,6 +185,9 @@
         <option value="$PROJECT_DIR$/src/Solution9.java" />
         <option value="$PROJECT_DIR$/src/Solution13.java" />
         <option value="$PROJECT_DIR$/src/Solution14.java" />
+        <option value="$PROJECT_DIR$/src/Solution20.java" />
+        <option value="$PROJECT_DIR$/src/Solution21.java" />
+        <option value="$PROJECT_DIR$/src/construct/ListNode.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
@@ -185,6 +218,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="construct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,7 +288,7 @@
       <workItem from="1593333815938" duration="9772000" />
       <workItem from="1593416283836" duration="50000" />
       <workItem from="1593427553590" duration="8183000" />
-      <workItem from="1593496507497" duration="5862000" />
+      <workItem from="1593496507497" duration="7553000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -475,11 +514,25 @@
       <option name="project" value="LOCAL" />
       <updated>1593500375928</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="新增14">
+      <created>1593502388096</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1593502388096</updated>
+    </task>
+    <task id="LOCAL-00034" summary="新增20">
+      <created>1593503355414</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1593503355414</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50572000" />
+    <option name="totallyTimeSpent" value="52263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -520,8 +573,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增1464" />
-    <MESSAGE value="新增1436" />
     <MESSAGE value="新增1221" />
     <MESSAGE value="新增1460" />
     <MESSAGE value="新增1299" />
@@ -545,7 +596,9 @@
     <MESSAGE value="新增7" />
     <MESSAGE value="新增9" />
     <MESSAGE value="新增13" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增13" />
+    <MESSAGE value="新增14" />
+    <MESSAGE value="新增20" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -558,7 +611,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TestMain.java</url>
-          <line>119</line>
+          <line>132</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -566,20 +619,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution832.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution807.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution938.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -839,17 +878,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution700.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -884,16 +912,6 @@
             <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/construct/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -942,17 +960,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution14.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="275">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        <state relative-caret-position="224">
+          <caret line="419" column="14" selection-start-line="419" selection-start-column="14" selection-end-line="419" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#242#579#0" />
@@ -960,6 +989,8 @@
             <element signature="e#1303#1367#0" />
             <element signature="e#1454#1519#0" />
             <element signature="e#1607#1681#0" />
+            <element signature="e#1772#1867#0" />
+            <element signature="e#1960#2034#0" />
             <element signature="e#1303#1723#0" />
             <element signature="e#1729#2135#0" />
             <element signature="e#2141#2302#0" />
@@ -1005,6 +1036,31 @@
             <element signature="e#11688#11878#0" />
             <element signature="e#11884#12051#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/construct/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>

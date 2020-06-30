@@ -79,6 +79,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test21(){
+        ListNode l1 = new ListNode(1,new ListNode(2,new ListNode(4,null)));
+        ListNode l2 = new ListNode(1,new ListNode(3,new ListNode(4,null)));
+        ListNode result = new Solution21().mergeTwoLists(l1,l2);
+        ListNode.printf(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -409,7 +416,8 @@ public class TestMain {
 //        test9();
 //        test13();
 //        test14();
-        test20();
+//        test20();
+        test21();
 //        test226();
 //        test237();
 //        test461();
