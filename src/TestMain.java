@@ -49,6 +49,12 @@ public class TestMain {
 
     }
 
+    private static void test7() {
+        int x = 120;
+        int result = new Solution7().reverse(x);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -375,11 +381,12 @@ public class TestMain {
     public static void main(String[] args) {
 //        test1();
 //        test2();
+        test7();
 //        test226();
 //        test237();
 //        test461();
 //        test535();
-        test590();
+//        test590();
 //        test617();
 //        test657();
 //        test700();
