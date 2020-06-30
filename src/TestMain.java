@@ -92,6 +92,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test27() {
+        int[] nums = new int[]{0, 1, 2, 2, 3, 0, 4, 2};
+        int result = new Solution27().removeElement(nums, 2);
+        System.out.println(result);
+
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -424,7 +431,8 @@ public class TestMain {
 //        test14();
 //        test20();
 //        test21();
-        test26();
+//        test26();
+        test27();
 //        test226();
 //        test237();
 //        test461();
