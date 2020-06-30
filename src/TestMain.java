@@ -73,6 +73,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test20() {
+        String s = "{}[]())";
+        boolean result = new Solution20().isValid(s);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -402,7 +408,8 @@ public class TestMain {
 //        test7();
 //        test9();
 //        test13();
-        test14();
+//        test14();
+        test20();
 //        test226();
 //        test237();
 //        test461();
