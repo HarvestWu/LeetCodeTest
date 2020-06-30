@@ -122,6 +122,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test58() {
+        String s = "Hello World";
+        int result = new Solution58().lengthOfLastWord(s);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -459,7 +465,8 @@ public class TestMain {
 //        test28();
 //        test35();
 //        test38();
-        test53();
+//        test53();
+        test58();
 //        test226();
 //        test237();
 //        test461();
