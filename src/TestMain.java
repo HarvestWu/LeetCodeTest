@@ -55,6 +55,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test9() {
+        int x = -121;
+        boolean result = new Solution9().isPalindrome(x);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -381,7 +387,8 @@ public class TestMain {
     public static void main(String[] args) {
 //        test1();
 //        test2();
-        test7();
+//        test7();
+        test9();
 //        test226();
 //        test237();
 //        test461();
