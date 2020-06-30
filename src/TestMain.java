@@ -111,8 +111,14 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test38(){
+    private static void test38() {
         String result = new Solution38().countAndSay(5);
+        System.out.println(result);
+    }
+
+    private static void test53() {
+        int[] nums = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
+        int result = new Solution53().maxSubArray(nums);
         System.out.println(result);
     }
 
@@ -452,7 +458,8 @@ public class TestMain {
 //        test27();
 //        test28();
 //        test35();
-        test38();
+//        test38();
+        test53();
 //        test226();
 //        test237();
 //        test461();
