@@ -61,6 +61,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test13() {
+        String s = "MCMXCIV";
+        int result = new Solution13().romanToInt(s);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -388,7 +394,8 @@ public class TestMain {
 //        test1();
 //        test2();
 //        test7();
-        test9();
+//        test9();
+        test13();
 //        test226();
 //        test237();
 //        test461();
