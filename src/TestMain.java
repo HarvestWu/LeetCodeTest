@@ -79,11 +79,17 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test21(){
-        ListNode l1 = new ListNode(1,new ListNode(2,new ListNode(4,null)));
-        ListNode l2 = new ListNode(1,new ListNode(3,new ListNode(4,null)));
-        ListNode result = new Solution21().mergeTwoLists(l1,l2);
+    private static void test21() {
+        ListNode l1 = new ListNode(1, new ListNode(2, new ListNode(4, null)));
+        ListNode l2 = new ListNode(1, new ListNode(3, new ListNode(4, null)));
+        ListNode result = new Solution21().mergeTwoLists(l1, l2);
         ListNode.printf(result);
+    }
+
+    private static void test26() {
+        int[] nums = new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
+        int result = new Solution26().removeDuplicates(nums);
+        System.out.println(result);
     }
 
     private static void test226() {
@@ -417,7 +423,8 @@ public class TestMain {
 //        test13();
 //        test14();
 //        test20();
-        test21();
+//        test21();
+        test26();
 //        test226();
 //        test237();
 //        test461();
