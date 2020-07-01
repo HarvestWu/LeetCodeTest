@@ -14,25 +14,25 @@ public class Solution28 {
     }
 
     public int strStr1(String haystack, String needle) {
-        int L = needle.length(), n = haystack.length();
-        if (L == 0) {
+        int lh = haystack.length(), ln = needle.length();
+        if (ln == 0) {
             return 0;
         }
-        int pn = 0;
-        while (pn < n - L + 1) {
-            while (pn < n - L + 1 && haystack.charAt(pn) != needle.charAt(0)) {
-                ++pn;
+        int ph = 0;
+        while (ph < lh - ln + 1) {
+            while (ph < lh - ln + 1 && haystack.charAt(ph) != needle.charAt(0)) {
+                ++ph;
             }
-            int currLen = 0, pL = 0;
-            while (pL < L && pn < n && haystack.charAt(pn) == needle.charAt(pL)) {
+            int currLen = 0, pn = 0;
+            while (pn < ln && ph < lh && haystack.charAt(ph) == needle.charAt(pn)) {
+                ++ph;
                 ++pn;
-                ++pL;
                 ++currLen;
             }
-            if (currLen == L) {
-                return pn - L;
+            if (currLen == ln) {
+                return ph - ln;
             }
-            pn = pn - currLen + 1;
+            ph = ph - currLen + 1;
         }
         return -1;
     }
