@@ -5,9 +5,6 @@
 public class Solution28 {
     public int strStr(String haystack, String needle) {
         int lh = haystack.length(), ln = needle.length();
-        if (ln == 0) {
-            return 0;
-        }
         for (int i = 0; i < lh - ln + 1; i++) {
             if (haystack.substring(i, i + ln).equals(needle)) {
                 return i;
@@ -38,5 +35,9 @@ public class Solution28 {
             pn = pn - currLen + 1;
         }
         return -1;
+    }
+
+    public int strStr2(String haystack, String needle) {
+        return haystack.indexOf(needle);
     }
 }
