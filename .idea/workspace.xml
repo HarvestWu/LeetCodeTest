@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution13.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,105 +22,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="121" column="33" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
+            <state relative-caret-position="10875">
+              <caret line="468" column="17" selection-start-line="468" selection-start-column="17" selection-end-line="468" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#242#579#0" />
                 <element signature="e#585#1297#0" />
-                <element signature="e#1303#1367#0" />
-                <element signature="e#1454#1519#0" />
-                <element signature="e#1607#1681#0" />
-                <element signature="e#1772#1867#0" />
-                <element signature="e#1960#2034#0" />
-                <element signature="e#2118#2238#0" />
-                <element signature="e#2413#2510#0" />
-                <element signature="e#2619#2712#0" />
-                <element signature="e#2820#2914#0" />
-                <element signature="e#3008#3093#0" />
-                <element signature="e#3191#3292#0" />
-                <element signature="e#1303#1723#0" />
-                <element signature="e#1729#2135#0" />
-                <element signature="e#2141#2302#0" />
-                <element signature="e#2308#2531#0" />
-                <element signature="e#2537#3021#0" />
-                <element signature="e#3027#3506#0" />
-                <element signature="e#3512#3679#0" />
-                <element signature="e#3685#4043#0" />
-                <element signature="e#4049#4212#0" />
-                <element signature="e#4218#4410#0" />
-                <element signature="e#4416#4618#0" />
-                <element signature="e#4624#4861#0" />
-                <element signature="e#4867#5154#0" />
-                <element signature="e#5160#5712#0" />
-                <element signature="e#5718#5914#0" />
-                <element signature="e#5920#6097#0" />
-                <element signature="e#6103#6279#0" />
-                <element signature="e#6285#6456#0" />
-                <element signature="e#6462#6682#0" />
-                <element signature="e#6688#6887#0" />
-                <element signature="e#6893#7055#0" />
-                <element signature="e#7061#7318#0" />
-                <element signature="e#7324#7501#0" />
-                <element signature="e#7507#7713#0" />
-                <element signature="e#7719#7910#0" />
-                <element signature="e#7916#8134#0" />
-                <element signature="e#8140#8333#0" />
-                <element signature="e#8339#8499#0" />
-                <element signature="e#8505#8661#0" />
-                <element signature="e#8667#8903#0" />
-                <element signature="e#8909#9122#0" />
-                <element signature="e#9128#9295#0" />
-                <element signature="e#9301#9529#0" />
-                <element signature="e#9535#9779#0" />
-                <element signature="e#9785#10246#0" />
-                <element signature="e#10252#10495#0" />
-                <element signature="e#10501#10733#0" />
-                <element signature="e#10739#10906#0" />
-                <element signature="e#10912#11132#0" />
-                <element signature="e#11138#11341#0" />
-                <element signature="e#11347#11542#0" />
-                <element signature="e#11548#11682#0" />
-                <element signature="e#11688#11878#0" />
-                <element signature="e#11884#12051#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution38.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution53.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="18" selection-start-line="18" selection-end-line="40" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <first_editor relative-caret-position="175">
+                <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,10 +46,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution35.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution58.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="400">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="31" selection-start-line="4" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -151,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution807.java" />
         <option value="$PROJECT_DIR$/src/Solution832.java" />
         <option value="$PROJECT_DIR$/src/Solution938.java" />
         <option value="$PROJECT_DIR$/src/Solution977.java" />
@@ -189,7 +133,6 @@
         <option value="$PROJECT_DIR$/database/README.md" />
         <option value="$PROJECT_DIR$/src/Solution7.java" />
         <option value="$PROJECT_DIR$/src/Solution9.java" />
-        <option value="$PROJECT_DIR$/src/Solution13.java" />
         <option value="$PROJECT_DIR$/src/Solution14.java" />
         <option value="$PROJECT_DIR$/src/Solution20.java" />
         <option value="$PROJECT_DIR$/src/Solution21.java" />
@@ -200,8 +143,10 @@
         <option value="$PROJECT_DIR$/src/Solution35.java" />
         <option value="$PROJECT_DIR$/src/Solution38.java" />
         <option value="$PROJECT_DIR$/src/Solution53.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution58.java" />
+        <option value="$PROJECT_DIR$/src/Solution13.java" />
       </list>
     </option>
   </component>
@@ -218,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,6 +180,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +240,9 @@
       <workItem from="1593333815938" duration="9772000" />
       <workItem from="1593416283836" duration="50000" />
       <workItem from="1593427553590" duration="8183000" />
-      <workItem from="1593496507497" duration="12747000" />
+      <workItem from="1593496507497" duration="14032000" />
+      <workItem from="1593526450461" duration="1831000" />
+      <workItem from="1593566933941" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="新增题">
       <created>1593251303043</created>
@@ -577,17 +524,38 @@
       <option name="project" value="LOCAL" />
       <updated>1593509395833</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="新增53">
+      <created>1593509700607</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1593509700607</updated>
+    </task>
+    <task id="LOCAL-00042" summary="新增53">
+      <created>1593509825119</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1593509825119</updated>
+    </task>
+    <task id="LOCAL-00043" summary="新增58">
+      <created>1593510375343</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1593510375343</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57457000" />
+    <option name="totallyTimeSpent" value="61741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1802949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -596,7 +564,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.23371105" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" weight="0.23371105" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865952" weight="0.43201134" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -622,8 +590,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增617" />
-    <MESSAGE value="新增1475" />
     <MESSAGE value="新增1252" />
     <MESSAGE value="新增226" />
     <MESSAGE value="新增1323" />
@@ -647,7 +613,9 @@
     <MESSAGE value="新增28" />
     <MESSAGE value="新增35" />
     <MESSAGE value="新增38" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增38" />
+    <MESSAGE value="新增53" />
+    <MESSAGE value="新增58" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增58" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -660,7 +628,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TestMain.java</url>
-          <line>168</line>
+          <line>174</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
@@ -680,13 +648,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution1480.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1470.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -941,27 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" selection-start-line="19" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1051,73 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="121" column="33" selection-start-line="121" selection-start-column="33" selection-end-line="121" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#242#579#0" />
-            <element signature="e#585#1297#0" />
-            <element signature="e#1303#1367#0" />
-            <element signature="e#1454#1519#0" />
-            <element signature="e#1607#1681#0" />
-            <element signature="e#1772#1867#0" />
-            <element signature="e#1960#2034#0" />
-            <element signature="e#2118#2238#0" />
-            <element signature="e#2413#2510#0" />
-            <element signature="e#2619#2712#0" />
-            <element signature="e#2820#2914#0" />
-            <element signature="e#3008#3093#0" />
-            <element signature="e#3191#3292#0" />
-            <element signature="e#1303#1723#0" />
-            <element signature="e#1729#2135#0" />
-            <element signature="e#2141#2302#0" />
-            <element signature="e#2308#2531#0" />
-            <element signature="e#2537#3021#0" />
-            <element signature="e#3027#3506#0" />
-            <element signature="e#3512#3679#0" />
-            <element signature="e#3685#4043#0" />
-            <element signature="e#4049#4212#0" />
-            <element signature="e#4218#4410#0" />
-            <element signature="e#4416#4618#0" />
-            <element signature="e#4624#4861#0" />
-            <element signature="e#4867#5154#0" />
-            <element signature="e#5160#5712#0" />
-            <element signature="e#5718#5914#0" />
-            <element signature="e#5920#6097#0" />
-            <element signature="e#6103#6279#0" />
-            <element signature="e#6285#6456#0" />
-            <element signature="e#6462#6682#0" />
-            <element signature="e#6688#6887#0" />
-            <element signature="e#6893#7055#0" />
-            <element signature="e#7061#7318#0" />
-            <element signature="e#7324#7501#0" />
-            <element signature="e#7507#7713#0" />
-            <element signature="e#7719#7910#0" />
-            <element signature="e#7916#8134#0" />
-            <element signature="e#8140#8333#0" />
-            <element signature="e#8339#8499#0" />
-            <element signature="e#8505#8661#0" />
-            <element signature="e#8667#8903#0" />
-            <element signature="e#8909#9122#0" />
-            <element signature="e#9128#9295#0" />
-            <element signature="e#9301#9529#0" />
-            <element signature="e#9535#9779#0" />
-            <element signature="e#9785#10246#0" />
-            <element signature="e#10252#10495#0" />
-            <element signature="e#10501#10733#0" />
-            <element signature="e#10739#10906#0" />
-            <element signature="e#10912#11132#0" />
-            <element signature="e#11138#11341#0" />
-            <element signature="e#11347#11542#0" />
-            <element signature="e#11548#11682#0" />
-            <element signature="e#11688#11878#0" />
-            <element signature="e#11884#12051#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution53.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1125,13 +998,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10875">
+          <caret line="468" column="17" selection-start-line="468" selection-start-column="17" selection-end-line="468" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#242#579#0" />
+            <element signature="e#585#1297#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <first_editor relative-caret-position="175">
+            <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution58.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" selection-start-line="4" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
