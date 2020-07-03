@@ -5,30 +5,15 @@ import construct.TreeNode;
  * @Date: 2020-06-26 18:46
  **/
 public class Solution938 {
-
-    private int i = 0;
-    private int[] inor = new int[40000];
-
-    private void inorder(TreeNode root) {
-        if (root != null) {
-            inorder(root.left);
-            inor[i++] = root.val;
-            inorder(root.right);
-        }
-    }
-
     public int rangeSumBST(TreeNode root, int L, int R) {
-        inorder(root);
-        int result = 0;
-        for (int a : inor) {
-            if (a >= L && a <= R) {
-                result += a;
-            }
-            if (a == 0 && result > 0) {
-                break;
-            }
+        if(root == null){
+            return 0;
         }
-        return result;
+        int result = 0;
+        if (root.val >= L && root.val <= R) {
+            result = root.val;
+        }
+        return result + rangeSumBST(root.left,L,R) +rangeSumBST(root.right,L,R);
     }
 
     //深度优先搜索
@@ -51,7 +36,6 @@ public class Solution938 {
             if (node.val < R) {
                 dfs(node.right, L, R);
             }
-
         }
     }
 }
