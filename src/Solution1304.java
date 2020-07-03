@@ -18,4 +18,15 @@ public class Solution1304 {
         }
         return result;
     }
+
+    public int[] sumZero1(int n) {
+        int[] result = new int[n];
+        int sum = 0;
+        for (int i = 1; i < n; i++) {
+            result[i] = i;
+            sum -= i;
+        }
+        result[0] = sum;
+        return result;
+    }
 }
