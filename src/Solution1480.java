@@ -2,7 +2,7 @@
  * @Author: HarvestWu
  * @Date: 2020-06-26 14:37
  **/
-class Solution1480 {
+public class Solution1480 {
     public int[] runningSum(int[] nums) {
         int len = nums.length;
         int[] result = new int[len];
