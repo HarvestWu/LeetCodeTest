@@ -49,6 +49,12 @@ public class TestMain {
 
     }
 
+    private static void test3() {
+        String s = "abcdabcaa";
+        int result = new Solution3().lengthOfLongestSubstring(s);
+        System.out.println(result);
+    }
+
     private static void test7() {
         int x = 120;
         int result = new Solution7().reverse(x);
@@ -126,6 +132,12 @@ public class TestMain {
         String s = "Hello World";
         int result = new Solution58().lengthOfLastWord(s);
         System.out.println(result);
+    }
+
+    private static void test66() {
+        int[] digits = {9, 9, 9, 9};
+        int[] result = new Solution66().plusOne(digits);
+        System.out.println(Arrays.toString(result));
     }
 
     private static void test226() {
@@ -454,6 +466,7 @@ public class TestMain {
     public static void main(String[] args) {
 //        test1();
 //        test2();
+//        test3();
 //        test7();
 //        test9();
 //        test13();
@@ -466,7 +479,8 @@ public class TestMain {
 //        test35();
 //        test38();
 //        test53();
-        test58();
+//        test58();
+        test66();
 //        test226();
 //        test237();
 //        test461();
