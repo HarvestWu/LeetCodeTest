@@ -140,6 +140,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test67() {
+        String a = "1111", b = "111";
+        String result = new Solution67().addBinary(a, b);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -480,7 +486,8 @@ public class TestMain {
 //        test38();
 //        test53();
 //        test58();
-        test66();
+//        test66();
+        test67();
 //        test226();
 //        test237();
 //        test461();
