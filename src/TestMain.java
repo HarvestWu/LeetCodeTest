@@ -146,6 +146,18 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test69(){
+        int x = 2;
+        int result = new Solution69().mySqrt(x);
+        System.out.println(result);
+
+        result = new Solution69().mySqrt1(x);
+        System.out.println(result);
+
+        result = new Solution69().mySqrt2(x);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -487,7 +499,8 @@ public class TestMain {
 //        test53();
 //        test58();
 //        test66();
-        test67();
+//        test67();
+        test69();
 //        test226();
 //        test237();
 //        test461();
