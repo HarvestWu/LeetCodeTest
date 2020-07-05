@@ -146,7 +146,7 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test69(){
+    private static void test69() {
         int x = 2;
         int result = new Solution69().mySqrt(x);
         System.out.println(result);
@@ -155,6 +155,12 @@ public class TestMain {
         System.out.println(result);
 
         result = new Solution69().mySqrt2(x);
+        System.out.println(result);
+    }
+
+    private static void test70() {
+        int n = 5;
+        int result = new Solution70().climbStairs(n);
         System.out.println(result);
     }
 
@@ -500,7 +506,8 @@ public class TestMain {
 //        test58();
 //        test66();
 //        test67();
-        test69();
+//        test69();
+        test70();
 //        test226();
 //        test237();
 //        test461();
