@@ -165,9 +165,16 @@ public class TestMain {
     }
 
     private static void test83() {
-        ListNode head = new ListNode(1, new ListNode(1, new ListNode(2,new ListNode(3,new ListNode(3)))));
+        ListNode head = new ListNode(1, new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(3)))));
         ListNode result = new Solution83().deleteDuplicates(head);
         ListNode.printf(result);
+    }
+
+    private static void test88() {
+        int[] nums1 = {1, 2, 3, 0, 0, 0}, nums2 = {2, 5, 6};
+        int m = 3, n = 3;
+        new Solution88().merge(nums1, m, nums2, n);
+        System.out.println(Arrays.toString(nums1));
     }
 
     private static void test226() {
@@ -514,7 +521,8 @@ public class TestMain {
 //        test67();
 //        test69();
 //        test70();
-        test83();
+//        test83();
+        test88();
 //        test226();
 //        test237();
 //        test461();
