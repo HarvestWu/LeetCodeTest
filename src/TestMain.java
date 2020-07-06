@@ -201,6 +201,14 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test107(){
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        List<List<Integer>> result= new Solution107().levelOrderBottom(root);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -549,7 +557,8 @@ public class TestMain {
 //        test88();
 //        test100();
 //        test101();
-        test104();
+//        test104();
+        test107();
 //        test226();
 //        test237();
 //        test461();
