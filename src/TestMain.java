@@ -164,6 +164,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test83() {
+        ListNode head = new ListNode(1, new ListNode(1, new ListNode(2,new ListNode(3,new ListNode(3)))));
+        ListNode result = new Solution83().deleteDuplicates(head);
+        ListNode.printf(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -507,7 +513,8 @@ public class TestMain {
 //        test66();
 //        test67();
 //        test69();
-        test70();
+//        test70();
+        test83();
 //        test226();
 //        test237();
 //        test461();
