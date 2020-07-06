@@ -185,6 +185,14 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test101() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(2);
+        boolean result = new Solution101().isSymmetric(root);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -531,7 +539,8 @@ public class TestMain {
 //        test70();
 //        test83();
 //        test88();
-        test100();
+//        test100();
+        test101();
 //        test226();
 //        test237();
 //        test461();
