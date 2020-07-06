@@ -193,6 +193,14 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test104(){
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(2);
+        int result = new Solution104().maxDepth(root);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -540,7 +548,8 @@ public class TestMain {
 //        test83();
 //        test88();
 //        test100();
-        test101();
+//        test101();
+        test104();
 //        test226();
 //        test237();
 //        test461();
