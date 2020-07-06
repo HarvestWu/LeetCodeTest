@@ -177,6 +177,14 @@ public class TestMain {
         System.out.println(Arrays.toString(nums1));
     }
 
+    private static void test100() {
+        TreeNode p = new TreeNode(1);
+        p.left = new TreeNode(2);
+        p.right = new TreeNode(3);
+        boolean result = new Solution100().isSameTree(p, p);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -522,7 +530,8 @@ public class TestMain {
 //        test69();
 //        test70();
 //        test83();
-        test88();
+//        test88();
+        test100();
 //        test226();
 //        test237();
 //        test461();
