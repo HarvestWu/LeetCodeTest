@@ -215,6 +215,14 @@ public class TestMain {
         TreeNode.printf(result);
     }
 
+    private static void test110() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        boolean result = new Solution110().isBalanced(root);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -565,7 +573,8 @@ public class TestMain {
 //        test101();
 //        test104();
 //        test107();
-        test108();
+//        test108();
+        test110();
 //        test226();
 //        test237();
 //        test461();
