@@ -193,7 +193,7 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test104(){
+    private static void test104() {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
         root.right = new TreeNode(2);
@@ -201,12 +201,18 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test107(){
+    private static void test107() {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);
-        List<List<Integer>> result= new Solution107().levelOrderBottom(root);
+        List<List<Integer>> result = new Solution107().levelOrderBottom(root);
         System.out.println(result);
+    }
+
+    private static void test108() {
+        int[] nums = {1, 2, 3, 4, 6};
+        TreeNode result = new Solution108().sortedArrayToBST(nums);
+        TreeNode.printf(result);
     }
 
     private static void test226() {
@@ -558,7 +564,8 @@ public class TestMain {
 //        test100();
 //        test101();
 //        test104();
-        test107();
+//        test107();
+        test108();
 //        test226();
 //        test237();
 //        test461();
