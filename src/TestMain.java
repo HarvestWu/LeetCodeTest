@@ -308,6 +308,12 @@ public class TestMain {
         System.out.println(result.val);
     }
 
+    private static void test167() {
+        int[] numbers = {2, 7, 11, 15};
+        int[] result = new Solution167().twoSum(numbers, 9);
+        System.out.println(Arrays.toString(result));
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -670,7 +676,8 @@ public class TestMain {
 //        test136();
 //        test141();
 //        test155();
-        test160();
+//        test160();
+        test167();
 //        test226();
 //        test237();
 //        test461();
