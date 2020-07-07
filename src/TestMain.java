@@ -285,6 +285,17 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test155(){
+        Solution155.MinStack minStack = new Solution155.MinStack();
+        minStack.push(1);
+        minStack.push(2);
+        minStack.push(-1);
+        minStack.push(3);
+        System.out.println(minStack.top());
+        System.out.println(minStack.getMin());
+
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -645,7 +656,8 @@ public class TestMain {
 //        test122();
 //        test125();
 //        test136();
-        test141();
+//        test141();
+        test155();
 //        test226();
 //        test237();
 //        test461();
