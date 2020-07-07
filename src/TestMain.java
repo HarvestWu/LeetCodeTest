@@ -285,7 +285,7 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test155(){
+    private static void test155() {
         Solution155.MinStack minStack = new Solution155.MinStack();
         minStack.push(1);
         minStack.push(2);
@@ -294,6 +294,18 @@ public class TestMain {
         System.out.println(minStack.top());
         System.out.println(minStack.getMin());
 
+    }
+
+    private static void test160() {
+        ListNode headA = new ListNode(1);
+        headA.next = new ListNode(2);
+        ListNode headB = new ListNode(3);
+        ListNode same = new ListNode(4);
+        same.next = new ListNode(5);
+        headA.next.next = same;
+        headB.next = same;
+        ListNode result = new Solution160().getIntersectionNode(headA, headB);
+        System.out.println(result.val);
     }
 
     private static void test226() {
@@ -657,7 +669,8 @@ public class TestMain {
 //        test125();
 //        test136();
 //        test141();
-        test155();
+//        test155();
+        test160();
 //        test226();
 //        test237();
 //        test461();
