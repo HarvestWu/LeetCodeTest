@@ -241,15 +241,21 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test118(){
+    private static void test118() {
         int numRows = 3;
         List<List<Integer>> result = new Solution118().generate(numRows);
         System.out.println(result);
     }
 
-    private static void test119(){
+    private static void test119() {
         int rowIndex = 3;
         List<Integer> result = new Solution119().getRow(rowIndex);
+        System.out.println(result);
+    }
+
+    private static void test121() {
+        int[] prices = {1, 6, 2, 3, 5};
+        int result = new Solution121().maxProfit(prices);
         System.out.println(result);
     }
 
@@ -608,7 +614,8 @@ public class TestMain {
 //        test111();
 //        test112();
 //        test118();
-        test119();
+//        test119();
+        test121();
 //        test226();
 //        test237();
 //        test461();
