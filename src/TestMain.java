@@ -277,6 +277,14 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test141() {
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = head;
+        boolean result = new Solution141().hasCycle(head);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -636,7 +644,8 @@ public class TestMain {
 //        test121();
 //        test122();
 //        test125();
-        test136();
+//        test136();
+        test141();
 //        test226();
 //        test237();
 //        test461();
