@@ -223,6 +223,15 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test111(){
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.right.right = new TreeNode(4);
+        int result = new Solution111().minDepth(root);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -574,7 +583,8 @@ public class TestMain {
 //        test104();
 //        test107();
 //        test108();
-        test110();
+//        test110();
+        test111();
 //        test226();
 //        test237();
 //        test461();
