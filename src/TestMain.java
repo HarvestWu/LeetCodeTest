@@ -271,6 +271,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test136() {
+        int[] nums = {1, 2, 3, 4, 3, 2, 1};
+        int result = new Solution136().singleNumber(nums);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -629,7 +635,8 @@ public class TestMain {
 //        test119();
 //        test121();
 //        test122();
-        test125();
+//        test125();
+        test136();
 //        test226();
 //        test237();
 //        test461();
