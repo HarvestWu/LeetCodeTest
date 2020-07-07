@@ -314,6 +314,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test168() {
+        int n = 28;
+        String result = new Solution168().convertToTitle(n);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -677,7 +683,8 @@ public class TestMain {
 //        test141();
 //        test155();
 //        test160();
-        test167();
+//        test167();
+        test168();
 //        test226();
 //        test237();
 //        test461();

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution168.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="852">
-              <caret line="672" column="18" selection-start-line="672" selection-start-column="18" selection-end-line="672" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="318" selection-start-line="318" selection-end-line="318" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
                 <element signature="e#242#579#0" />
@@ -68,6 +68,8 @@
                 <element signature="e#8143#8226#0" />
                 <element signature="e#8325#8411#0" />
                 <element signature="e#8568#8681#0" />
+                <element signature="e#8875#8962#0" />
+                <element signature="e#9301#9383#0" />
                 <element signature="e#7591#8011#0" />
                 <element signature="e#8017#8423#0" />
                 <element signature="e#8330#8417#1" />
@@ -121,10 +123,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution160.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution168.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -144,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution590.java" />
-        <option value="$PROJECT_DIR$/src/construct/Node.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/database/README.md" />
         <option value="$PROJECT_DIR$/src/Solution7.java" />
@@ -194,7 +194,9 @@
         <option value="$PROJECT_DIR$/src/Solution141.java" />
         <option value="$PROJECT_DIR$/src/Solution155.java" />
         <option value="$PROJECT_DIR$/src/Solution160.java" />
+        <option value="$PROJECT_DIR$/src/Solution167.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/Solution168.java" />
       </list>
     </option>
   </component>
@@ -310,21 +312,7 @@
       <workItem from="1594042400675" duration="10636000" />
       <workItem from="1594085825051" duration="6985000" />
       <workItem from="1594107622135" duration="3255000" />
-      <workItem from="1594114907031" duration="9590000" />
-    </task>
-    <task id="LOCAL-00029" summary="新增178">
-      <created>1593437092987</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1593437092987</updated>
-    </task>
-    <task id="LOCAL-00030" summary="新增7">
-      <created>1593497555122</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1593497555122</updated>
+      <workItem from="1594114907031" duration="12917000" />
     </task>
     <task id="LOCAL-00031" summary="新增9">
       <created>1593498447792</created>
@@ -655,11 +643,25 @@
       <option name="project" value="LOCAL" />
       <updated>1594130101215</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="新增160">
+      <created>1594131541527</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1594131541527</updated>
+    </task>
+    <task id="LOCAL-00079" summary="新增167">
+      <created>1594132347996</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1594132347996</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137169000" />
+    <option name="totallyTimeSpent" value="140496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -673,7 +675,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" weight="0.04249292" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" visible="true" weight="0.31161472" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -700,8 +702,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加1464解法" />
-    <MESSAGE value="修改1480" />
     <MESSAGE value="新增3" />
     <MESSAGE value="新增66" />
     <MESSAGE value="新增67" />
@@ -725,7 +725,9 @@
     <MESSAGE value="新增136" />
     <MESSAGE value="新增141" />
     <MESSAGE value="新增155" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增155" />
+    <MESSAGE value="新增160" />
+    <MESSAGE value="新增167" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增167" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -740,20 +742,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution1309.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1313.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1323.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1143,10 +1131,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution167.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution160.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="672" column="18" selection-start-line="672" selection-start-column="18" selection-end-line="672" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
             <element signature="e#242#579#0" />
@@ -1189,6 +1191,8 @@
             <element signature="e#8143#8226#0" />
             <element signature="e#8325#8411#0" />
             <element signature="e#8568#8681#0" />
+            <element signature="e#8875#8962#0" />
+            <element signature="e#9301#9383#0" />
             <element signature="e#7591#8011#0" />
             <element signature="e#8017#8423#0" />
             <element signature="e#8330#8417#1" />
@@ -1240,10 +1244,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution160.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution168.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
