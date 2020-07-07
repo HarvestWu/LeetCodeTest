@@ -265,6 +265,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test125() {
+        String s = "A man, a plan, a canal: Panama";
+        boolean result = new Solution125().isPalindrome(s);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -622,7 +628,8 @@ public class TestMain {
 //        test118();
 //        test119();
 //        test121();
-        test122();
+//        test122();
+        test125();
 //        test226();
 //        test237();
 //        test461();
