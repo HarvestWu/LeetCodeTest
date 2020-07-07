@@ -320,6 +320,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test169() {
+        int[] nums = {2, 2, 1, 1, 1, 2, 2};
+        int result = new Solution169().majorityElement(nums);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -684,7 +690,8 @@ public class TestMain {
 //        test155();
 //        test160();
 //        test167();
-        test168();
+//        test168();
+        test169();
 //        test226();
 //        test237();
 //        test461();
