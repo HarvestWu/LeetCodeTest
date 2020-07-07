@@ -259,6 +259,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test122() {
+        int[] prices = {1, 6, 2, 3, 5};
+        int result = new Solution122().maxProfit(prices);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -615,7 +621,8 @@ public class TestMain {
 //        test112();
 //        test118();
 //        test119();
-        test121();
+//        test121();
+        test122();
 //        test226();
 //        test237();
 //        test461();

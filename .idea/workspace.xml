@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2656">
-              <caret line="617" column="18" selection-start-line="617" selection-start-column="18" selection-end-line="617" selection-end-column="18" />
+            <state relative-caret-position="2663">
+              <caret line="624" column="18" selection-start-line="624" selection-start-column="18" selection-end-line="624" selection-end-column="18" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
                 <element signature="e#242#579#0" />
@@ -62,6 +63,7 @@
                 <element signature="e#6940#7237#0" />
                 <element signature="e#7243#7414#0" />
                 <element signature="e#7420#7585#0" />
+                <element signature="e#7591#7672#0" />
                 <element signature="e#7591#8011#0" />
                 <element signature="e#8017#8423#0" />
                 <element signature="e#8330#8417#1" />
@@ -114,60 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution112.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution121.java">
+        <entry file="file://$PROJECT_DIR$/src/Solution122.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution119.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution118.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="30" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -187,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution226.java" />
         <option value="$PROJECT_DIR$/src/Solution1323.java" />
         <option value="$PROJECT_DIR$/src/Solution657.java" />
         <option value="$PROJECT_DIR$/src/Solution1309.java" />
@@ -236,8 +188,9 @@
         <option value="$PROJECT_DIR$/src/Solution119.java" />
         <option value="$PROJECT_DIR$/src/Solution112.java" />
         <option value="$PROJECT_DIR$/src/TeST.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Solution121.java" />
+        <option value="$PROJECT_DIR$/src/Solution122.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
   </component>
@@ -352,14 +305,7 @@
       <workItem from="1594042400675" duration="10636000" />
       <workItem from="1594085825051" duration="6985000" />
       <workItem from="1594107622135" duration="3255000" />
-      <workItem from="1594114907031" duration="1153000" />
-    </task>
-    <task id="LOCAL-00023" summary="新增1304">
-      <created>1593429551447</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1593429551447</updated>
+      <workItem from="1594114907031" duration="2166000" />
     </task>
     <task id="LOCAL-00024" summary="新增1370">
       <created>1593433398604</created>
@@ -697,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594107791497</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="新增121">
+      <created>1594116074107</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1594116074108</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128732000" />
+    <option name="totallyTimeSpent" value="129745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -742,7 +695,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改28" />
     <MESSAGE value="修改35" />
     <MESSAGE value="修改938" />
     <MESSAGE value="修改977" />
@@ -767,7 +719,8 @@
     <MESSAGE value="新增112" />
     <MESSAGE value="新增118" />
     <MESSAGE value="新增119" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增119" />
+    <MESSAGE value="新增121" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增121" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -782,13 +735,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution1266.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1281.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1135,16 +1081,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TeST.java" />
-    <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution119.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -1165,6 +1101,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution112.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1176,10 +1119,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2656">
-          <caret line="617" column="18" selection-start-line="617" selection-start-column="18" selection-end-line="617" selection-end-column="18" />
+        <state relative-caret-position="2663">
+          <caret line="624" column="18" selection-start-line="624" selection-start-column="18" selection-end-line="624" selection-end-column="18" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
             <element signature="e#242#579#0" />
@@ -1216,6 +1169,7 @@
             <element signature="e#6940#7237#0" />
             <element signature="e#7243#7414#0" />
             <element signature="e#7420#7585#0" />
+            <element signature="e#7591#7672#0" />
             <element signature="e#7591#8011#0" />
             <element signature="e#8017#8423#0" />
             <element signature="e#8330#8417#1" />
@@ -1267,10 +1221,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution121.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
