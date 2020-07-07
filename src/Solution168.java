@@ -3,6 +3,7 @@
  * @Date: 2020-07-07 22:36
  **/
 public class Solution168 {
+
     public String convertToTitle(int n) {
         StringBuilder result = new StringBuilder();
         while (n > 0) {
