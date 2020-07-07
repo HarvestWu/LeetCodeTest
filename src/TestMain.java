@@ -241,6 +241,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test118(){
+        int numRows = 3;
+        List<List<Integer>> result = new Solution118().generate(numRows);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -594,7 +600,8 @@ public class TestMain {
 //        test108();
 //        test110();
 //        test111();
-        test112();
+//        test112();
+        test118();
 //        test226();
 //        test237();
 //        test461();
