@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solution168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution171.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
     </list>
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="318" selection-start-line="318" selection-end-line="318" />
+            <state relative-caret-position="147">
+              <caret line="329" column="21" selection-start-line="329" selection-start-column="21" selection-end-line="329" selection-end-column="21" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
                 <element signature="e#242#579#0" />
@@ -70,6 +70,8 @@
                 <element signature="e#8568#8681#0" />
                 <element signature="e#8875#8962#0" />
                 <element signature="e#9301#9383#0" />
+                <element signature="e#9498#9564#0" />
+                <element signature="e#9654#9738#0" />
                 <element signature="e#7591#8011#0" />
                 <element signature="e#8017#8423#0" />
                 <element signature="e#8330#8417#1" />
@@ -122,11 +124,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Solution168.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution169.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
+              <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution168.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution171.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution167.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution160.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -146,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/database/README.md" />
         <option value="$PROJECT_DIR$/src/Solution7.java" />
         <option value="$PROJECT_DIR$/src/Solution9.java" />
         <option value="$PROJECT_DIR$/src/Solution14.java" />
@@ -195,8 +231,10 @@
         <option value="$PROJECT_DIR$/src/Solution155.java" />
         <option value="$PROJECT_DIR$/src/Solution160.java" />
         <option value="$PROJECT_DIR$/src/Solution167.java" />
-        <option value="$PROJECT_DIR$/src/TestMain.java" />
         <option value="$PROJECT_DIR$/src/Solution168.java" />
+        <option value="$PROJECT_DIR$/src/Solution169.java" />
+        <option value="$PROJECT_DIR$/src/Solution171.java" />
+        <option value="$PROJECT_DIR$/src/TestMain.java" />
       </list>
     </option>
   </component>
@@ -312,28 +350,7 @@
       <workItem from="1594042400675" duration="10636000" />
       <workItem from="1594085825051" duration="6985000" />
       <workItem from="1594107622135" duration="3255000" />
-      <workItem from="1594114907031" duration="12917000" />
-    </task>
-    <task id="LOCAL-00031" summary="新增9">
-      <created>1593498447792</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1593498447792</updated>
-    </task>
-    <task id="LOCAL-00032" summary="新增13">
-      <created>1593500375928</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1593500375928</updated>
-    </task>
-    <task id="LOCAL-00033" summary="新增14">
-      <created>1593502388096</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1593502388096</updated>
+      <workItem from="1594114907031" duration="14846000" />
     </task>
     <task id="LOCAL-00034" summary="新增20">
       <created>1593503355414</created>
@@ -657,15 +674,35 @@
       <option name="project" value="LOCAL" />
       <updated>1594132347996</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="新增168">
+      <created>1594134859407</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134859407</updated>
+    </task>
+    <task id="LOCAL-00081" summary="新增168">
+      <created>1594134898554</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134898554</updated>
+    </task>
+    <task id="LOCAL-00082" summary="新增169">
+      <created>1594135880614</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1594135880614</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140496000" />
+    <option name="totallyTimeSpent" value="142425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1300268" />
       <window_info id="Image Layers" order="1" />
@@ -675,7 +712,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" visible="true" weight="0.31161472" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" weight="0.31161472" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -694,7 +731,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info active="true" anchor="right" id="Run" order="9" sideWeight="0.4953083" visible="true" weight="0.16152816" />
+      <window_info anchor="right" id="Run" order="9" sideWeight="0.4953083" weight="0.16152816" />
       <window_info anchor="right" id="Structure" order="10" sideWeight="0.50141644" weight="0.28954422" />
     </layout>
   </component>
@@ -702,8 +739,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增3" />
-    <MESSAGE value="新增66" />
     <MESSAGE value="新增67" />
     <MESSAGE value="新增69" />
     <MESSAGE value="新增70" />
@@ -727,7 +762,9 @@
     <MESSAGE value="新增155" />
     <MESSAGE value="新增160" />
     <MESSAGE value="新增167" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增167" />
+    <MESSAGE value="新增168" />
+    <MESSAGE value="新增169" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增169" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -742,20 +779,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution1323.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1342.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution1351.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -1145,10 +1168,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution168.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        <state relative-caret-position="147">
+          <caret line="329" column="21" selection-start-line="329" selection-start-column="21" selection-end-line="329" selection-end-column="21" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
             <element signature="e#242#579#0" />
@@ -1193,6 +1230,8 @@
             <element signature="e#8568#8681#0" />
             <element signature="e#8875#8962#0" />
             <element signature="e#9301#9383#0" />
+            <element signature="e#9498#9564#0" />
+            <element signature="e#9654#9738#0" />
             <element signature="e#7591#8011#0" />
             <element signature="e#8017#8423#0" />
             <element signature="e#8330#8417#1" />
@@ -1244,10 +1283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution168.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution171.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="1" />
+          <caret line="4" selection-start-line="4" selection-end-line="14" />
         </state>
       </provider>
     </entry>

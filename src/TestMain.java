@@ -326,6 +326,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test171() {
+        String s = "A";
+        int result = new Solution171().titleToNumber(s);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -691,7 +697,8 @@ public class TestMain {
 //        test160();
 //        test167();
 //        test168();
-        test169();
+//        test169();
+        test171();
 //        test226();
 //        test237();
 //        test461();
