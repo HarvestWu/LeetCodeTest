@@ -332,6 +332,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test172() {
+        int n = 1808548329;
+        int result = new Solution172().trailingZeroes(n);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -656,6 +662,7 @@ public class TestMain {
     }
 
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
 //        test1();
 //        test2();
 //        test3();
@@ -698,7 +705,8 @@ public class TestMain {
 //        test167();
 //        test168();
 //        test169();
-        test171();
+//        test171();
+        test172();
 //        test226();
 //        test237();
 //        test461();
@@ -743,5 +751,7 @@ public class TestMain {
 //        test1486();
 //        testLCP01();
 //        testLCP06();
+        long end = System.currentTimeMillis();
+        System.out.println("RunTime: " + (end - start) + "ms");
     }
 }
