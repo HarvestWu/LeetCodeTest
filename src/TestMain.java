@@ -338,6 +338,11 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test189(){
+        int[] nums = {1,2,3,4,5,6,7};
+        new Solution189().rotate(nums,2);
+        System.out.println(Arrays.toString(nums));
+    }
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -706,7 +711,8 @@ public class TestMain {
 //        test168();
 //        test169();
 //        test171();
-        test172();
+//        test172();
+        test189();
 //        test226();
 //        test237();
 //        test461();
