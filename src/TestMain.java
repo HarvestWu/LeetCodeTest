@@ -350,6 +350,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test191() {
+        int n = -3;
+        int result = new Solution191().hammingWeight(n);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -720,7 +726,8 @@ public class TestMain {
 //        test171();
 //        test172();
 //        test189();
-        test190();
+//        test190();
+        test191();
 //        test226();
 //        test237();
 //        test461();
