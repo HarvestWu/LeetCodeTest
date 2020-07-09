@@ -89,6 +89,12 @@ public class TestMain {
         System.out.println(queue.empty());
     }
 
+    private static void test234() {
+        ListNode head = new ListNode(1, new ListNode(2, new ListNode(2, new ListNode(1))));
+        boolean result = new Solution234().isPalindrome(head);
+        System.out.println(result);
+    }
+
     private static void test237() {
         ListNode node = new ListNode(4);
         node.next = new ListNode(5);
@@ -114,7 +120,8 @@ public class TestMain {
 //        test225();
 //        test226();
 //        test231();
-        test232();
+//        test232();
+        test234();
 //        test237();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");

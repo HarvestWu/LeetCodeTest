@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top201to400/Solution231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top201to400/Solution234.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/top201to400/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top201to400/TestMain.java" afterDir="false" />
     </list>
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+            <state relative-caret-position="242">
+              <caret line="92" column="86" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="86" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
                 <element signature="method#test202#0;class#TestMain#0" />
@@ -37,6 +37,8 @@
                 <element signature="method#test217#1;class#TestMain#0" />
                 <element signature="method#test225#0;class#TestMain#0" />
                 <element signature="method#test226#0;class#TestMain#0" />
+                <element signature="method#test231#0;class#TestMain#0" />
+                <element signature="method#test232#0;class#TestMain#0" />
                 <element signature="method#test237#0;class#TestMain#0" />
               </folding>
             </state>
@@ -44,10 +46,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution231.java">
+        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution234.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="-619">
+              <caret line="29" selection-start-line="29" selection-end-line="74" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution100.java" />
-        <option value="$PROJECT_DIR$/src/Solution101.java" />
         <option value="$PROJECT_DIR$/src/Solution104.java" />
         <option value="$PROJECT_DIR$/src/Solution107.java" />
         <option value="$PROJECT_DIR$/src/Solution108.java" />
@@ -126,8 +129,10 @@
         <option value="$PROJECT_DIR$/src/top201to400/Solution217.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution219.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution225.java" />
-        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution231.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/Solution232.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/Solution234.java" />
       </list>
     </option>
   </component>
@@ -270,21 +275,7 @@
       <workItem from="1594114907031" duration="14846000" />
       <workItem from="1594211485290" duration="11209000" />
       <workItem from="1594261801674" duration="4976000" />
-      <workItem from="1594289708331" duration="10755000" />
-    </task>
-    <task id="LOCAL-00050" summary="修改977">
-      <created>1593736988500</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1593736988501</updated>
-    </task>
-    <task id="LOCAL-00051" summary="增加1295解法">
-      <created>1593783286208</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1593783286208</updated>
+      <workItem from="1594289708331" duration="14027000" />
     </task>
     <task id="LOCAL-00052" summary="增加1304解法">
       <created>1593783965334</created>
@@ -615,11 +606,25 @@
       <option name="project" value="LOCAL" />
       <updated>1594303355413</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="新增231">
+      <created>1594304805397</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1594304805397</updated>
+    </task>
+    <task id="LOCAL-00100" summary="新增232">
+      <created>1594305800161</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1594305800161</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169365000" />
+    <option name="totallyTimeSpent" value="172637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -633,7 +638,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" weight="0.5339943" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49798927" weight="0.24645892" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -691,8 +696,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增121" />
-    <MESSAGE value="新增122" />
     <MESSAGE value="新增125" />
     <MESSAGE value="新增136" />
     <MESSAGE value="新增141" />
@@ -716,30 +719,11 @@
     <MESSAGE value="新增217" />
     <MESSAGE value="新增219" />
     <MESSAGE value="新增225" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增225" />
+    <MESSAGE value="新增231" />
+    <MESSAGE value="新增232" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增232" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution771.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution804.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution807.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution832.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -1178,24 +1162,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution231.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution226.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top201to400/Solution225.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="50" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        <state relative-caret-position="242">
+          <caret line="92" column="86" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="86" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
             <element signature="method#test202#0;class#TestMain#0" />
@@ -1207,15 +1214,20 @@
             <element signature="method#test217#1;class#TestMain#0" />
             <element signature="method#test225#0;class#TestMain#0" />
             <element signature="method#test226#0;class#TestMain#0" />
+            <element signature="method#test231#0;class#TestMain#0" />
+            <element signature="method#test232#0;class#TestMain#0" />
             <element signature="method#test237#0;class#TestMain#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution231.java">
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution234.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="25" selection-start-line="25" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="-619">
+          <caret line="29" selection-start-line="29" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
