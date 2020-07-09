@@ -9,10 +9,16 @@ import construct.TreeNode;
  **/
 public class TestMain {
 
-    private static void test202(){
+    private static void test202() {
         int n = 19;
         boolean result = new Solution202().isHappy(n);
         System.out.println(result);
+    }
+
+    private static void test203() {
+        ListNode head = new ListNode(3, new ListNode(4, new ListNode(5, new ListNode(4))));
+        ListNode result = new Solution203().removeElements(head, 4);
+        ListNode.printf(result);
     }
 
     private static void test226() {
@@ -42,7 +48,8 @@ public class TestMain {
 
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
-        test202();
+//        test202();
+        test203();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
