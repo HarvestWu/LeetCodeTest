@@ -51,6 +51,16 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test225() {
+        Solution225.MyStack stack = new Solution225.MyStack();
+        stack.push(1);
+        stack.push(2);
+        System.out.println(stack.pop());
+        System.out.println(stack.top());
+        System.out.println(stack.empty());
+
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -84,7 +94,8 @@ public class TestMain {
 //        test205();
 //        test206();
 //        test217();
-        test219();
+//        test219();
+        test225();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
