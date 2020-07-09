@@ -39,9 +39,15 @@ public class TestMain {
         ListNode.printf(result);
     }
 
-    private static void test217(){
-        int[] nums = {1,4,7,2,5,8,2};
+    private static void test217() {
+        int[] nums = {1, 4, 7, 2, 5, 8, 2};
         boolean result = new Solution217().containsDuplicate(nums);
+        System.out.println(result);
+    }
+
+    private static void test219() {
+        int[] nums = {99, 99};
+        boolean result = new Solution219().containsNearbyDuplicate(nums, 2);
         System.out.println(result);
     }
 
@@ -77,7 +83,8 @@ public class TestMain {
 //        test204();
 //        test205();
 //        test206();
-        test217();
+//        test217();
+        test219();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
