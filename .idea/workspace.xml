@@ -2,16 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LCP/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top1001to1200/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top1201to1400/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top1401to1600/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top200/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top201to400/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top401to600/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top601to800/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top801to1000/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/note.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1266.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1281.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1290.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1295.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1299.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1313.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1342.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1365.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1389.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1431.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1436.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1450.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1460.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1464.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1470.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1480.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution1486.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution237.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution535.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution709.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution771.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution804.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution807.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution832.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution938.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution977.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SolutionLCP01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SolutionLCP06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top201to400/Solution202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top201to400/Solution202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top201to400/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top201to400/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,316 +58,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3525">
-              <caret line="544" column="35" selection-start-line="544" selection-start-column="35" selection-end-line="544" selection-end-column="35" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="e#634#971#0" />
-                <element signature="e#977#1689#0" />
-                <element signature="e#1237#1277#0" />
-                <element signature="e#1589#1682#1" />
-                <element signature="e#1695#1864#0" />
-                <element signature="e#1870#2011#0" />
-                <element signature="e#2017#2168#0" />
-                <element signature="e#2174#2329#0" />
-                <element signature="e#2335#2517#0" />
-                <element signature="e#2523#2679#0" />
-                <element signature="e#2685#2978#0" />
-                <element signature="e#2984#3180#0" />
-                <element signature="e#3186#3377#0" />
-                <element signature="e#3383#3569#0" />
-                <element signature="e#3575#3752#0" />
-                <element signature="e#3758#3887#0" />
-                <element signature="e#3893#4085#0" />
-                <element signature="e#4091#4256#0" />
-                <element signature="e#4262#4445#0" />
-                <element signature="e#4451#4619#0" />
-                <element signature="e#4625#4931#0" />
-                <element signature="e#4937#5082#0" />
-                <element signature="e#5088#5333#0" />
-                <element signature="e#5339#5566#0" />
-                <element signature="e#5572#5813#0" />
-                <element signature="e#5819#6070#0" />
-                <element signature="e#6076#6320#0" />
-                <element signature="e#6326#6594#0" />
-                <element signature="e#6600#6776#0" />
-                <element signature="e#6782#7032#0" />
-                <element signature="e#7038#7326#0" />
-                <element signature="e#7332#7629#0" />
-                <element signature="e#7635#7807#0" />
-                <element signature="e#7813#7979#0" />
-                <element signature="e#7985#8156#0" />
-                <element signature="e#8162#8333#0" />
-                <element signature="e#8339#8525#0" />
-                <element signature="e#8531#8707#0" />
-                <element signature="e#8713#8954#0" />
-                <element signature="e#8960#9262#0" />
-                <element signature="e#9268#9683#0" />
-                <element signature="e#9689#9880#0" />
-                <element signature="e#9886#10040#0" />
-                <element signature="e#10046#10225#0" />
-                <element signature="e#10231#10385#0" />
-                <element signature="e#10391#10550#0" />
-                <element signature="e#10556#10731#0" />
-                <element signature="e#10737#10885#0" />
-                <element signature="e#10891#11041#0" />
-                <element signature="e#11047#11208#0" />
-                <element signature="e#11214#11634#0" />
-                <element signature="e#11640#12046#0" />
-                <element signature="e#11953#12040#1" />
-                <element signature="e#12052#12213#0" />
-                <element signature="e#12219#12442#0" />
-                <element signature="e#12448#12932#0" />
-                <element signature="e#12938#13417#0" />
-                <element signature="e#13423#13590#0" />
-                <element signature="e#13596#13954#0" />
-                <element signature="e#13960#14123#0" />
-                <element signature="e#14129#14321#0" />
-                <element signature="e#14327#14529#0" />
-                <element signature="e#14535#14772#0" />
-                <element signature="e#14778#15065#0" />
-                <element signature="e#15071#15623#0" />
-                <element signature="e#15629#15825#0" />
-                <element signature="e#15831#16008#0" />
-                <element signature="e#16014#16190#0" />
-                <element signature="e#16196#16367#0" />
-                <element signature="e#16373#16593#0" />
-                <element signature="e#16599#16798#0" />
-                <element signature="e#16804#16966#0" />
-                <element signature="e#16972#17229#0" />
-                <element signature="e#17235#17412#0" />
-                <element signature="e#17418#17624#0" />
-                <element signature="e#17630#17821#0" />
-                <element signature="e#17765#17815#1" />
-                <element signature="e#17827#18045#0" />
-                <element signature="e#18051#18244#0" />
-                <element signature="e#18250#18410#0" />
-                <element signature="e#18416#18572#0" />
-                <element signature="e#18578#18814#0" />
-                <element signature="e#18820#19033#0" />
-                <element signature="e#19039#19206#0" />
-                <element signature="e#19212#19440#0" />
-                <element signature="e#19446#19690#0" />
-                <element signature="e#19696#20157#0" />
-                <element signature="e#20163#20406#0" />
-                <element signature="e#20412#20644#0" />
-                <element signature="e#20650#20817#0" />
-                <element signature="e#20823#21043#0" />
-                <element signature="e#21049#21252#0" />
-                <element signature="e#21258#21453#0" />
-                <element signature="e#21459#21593#0" />
-                <element signature="e#21599#21789#0" />
-                <element signature="e#21795#21962#0" />
-                <element signature="e#21968#24108#0" />
-                <element signature="e#22058#22076#0" />
-                <element signature="e#23037#23057#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top200/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3925">
-              <caret line="418" lean-forward="true" selection-start-line="418" selection-end-line="418" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="e#634#971#0" />
-                <element signature="e#977#1689#0" />
-                <element signature="e#1237#1277#0" />
-                <element signature="e#1589#1682#1" />
-                <element signature="e#1695#1864#0" />
-                <element signature="e#1870#2011#0" />
-                <element signature="e#2017#2168#0" />
-                <element signature="e#2174#2329#0" />
-                <element signature="e#2335#2517#0" />
-                <element signature="e#2523#2679#0" />
-                <element signature="e#2685#2978#0" />
-                <element signature="e#2984#3180#0" />
-                <element signature="e#3186#3377#0" />
-                <element signature="e#3383#3569#0" />
-                <element signature="e#3575#3752#0" />
-                <element signature="e#3758#3887#0" />
-                <element signature="e#3893#4085#0" />
-                <element signature="e#4091#4256#0" />
-                <element signature="e#4262#4445#0" />
-                <element signature="e#4451#4619#0" />
-                <element signature="e#4625#4931#0" />
-                <element signature="e#4937#5082#0" />
-                <element signature="e#5088#5333#0" />
-                <element signature="e#5339#5566#0" />
-                <element signature="e#5572#5813#0" />
-                <element signature="e#5819#6070#0" />
-                <element signature="e#6076#6320#0" />
-                <element signature="e#6326#6594#0" />
-                <element signature="e#6600#6776#0" />
-                <element signature="e#6782#7032#0" />
-                <element signature="e#7038#7326#0" />
-                <element signature="e#7332#7629#0" />
-                <element signature="e#7635#7807#0" />
-                <element signature="e#7813#7979#0" />
-                <element signature="e#7985#8156#0" />
-                <element signature="e#8162#8333#0" />
-                <element signature="e#8339#8525#0" />
-                <element signature="e#8531#8707#0" />
-                <element signature="e#8713#8954#0" />
-                <element signature="e#8960#9262#0" />
-                <element signature="e#9268#9683#0" />
-                <element signature="e#9689#9880#0" />
-                <element signature="e#9886#10040#0" />
-                <element signature="e#10046#10225#0" />
-                <element signature="e#10231#10385#0" />
-                <element signature="e#10391#10550#0" />
-                <element signature="e#10556#10731#0" />
-                <element signature="e#10737#10885#0" />
-                <element signature="e#10891#11041#0" />
-                <element signature="e#11047#11208#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            <state relative-caret-position="200">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
-                <element signature="e#11172#11592#0" />
-                <element signature="e#11598#12004#0" />
-                <element signature="e#11911#11998#1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top401to600/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="e#11978#12139#0" />
-                <element signature="e#12145#12368#0" />
-                <element signature="e#12374#12858#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top601to800/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="e#12938#13417#0" />
-                <element signature="e#13423#13590#0" />
-                <element signature="e#13596#13954#0" />
-                <element signature="e#13960#14123#0" />
-                <element signature="e#14129#14321#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top801to1000/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="method#test804#0;class#TestMain#0" />
-                <element signature="method#test807#0;class#TestMain#0" />
-                <element signature="method#test832#0;class#TestMain#0" />
-                <element signature="method#test938#0;class#TestMain#0" />
-                <element signature="method#test977#0;class#TestMain#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top1001to1200/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="method#test1021#0;class#TestMain#0" />
-                <element signature="method#test1108#0;class#TestMain#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top1201to1400/TestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="130" column="21" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="method#test1221#0;class#TestMain#0" />
-                <element signature="method#test1252#0;class#TestMain#0" />
-                <element signature="method#test1266#0;class#TestMain#0" />
-                <element signature="method#test1281#0;class#TestMain#0" />
-                <element signature="method#test1290#0;class#TestMain#0" />
-                <element signature="method#test1295#0;class#TestMain#0" />
-                <element signature="method#test1299#0;class#TestMain#0" />
-                <element signature="method#test1304#0;class#TestMain#0" />
-                <element signature="e#3850#3900#1" />
-                <element signature="method#test1309#0;class#TestMain#0" />
-                <element signature="method#test1313#0;class#TestMain#0" />
-                <element signature="method#test1323#0;class#TestMain#0" />
-                <element signature="method#test1342#0;class#TestMain#0" />
-                <element signature="method#test1351#0;class#TestMain#0" />
-                <element signature="method#test1365#0;class#TestMain#0" />
-                <element signature="method#test1370#0;class#TestMain#0" />
-                <element signature="method#test1389#0;class#TestMain#0" />
+                <element signature="method#test226#0;class#TestMain#0" />
+                <element signature="method#test237#0;class#TestMain#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top1401to1600/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution202.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+            <state relative-caret-position="475">
+              <caret line="19" selection-start-line="19" selection-end-line="26" selection-end-column="5" />
               <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="method#test1431#0;class#TestMain#0" />
-                <element signature="method#test1436#0;class#TestMain#0" />
-                <element signature="method#test1450#0;class#TestMain#0" />
-                <element signature="method#test1460#0;class#TestMain#0" />
-                <element signature="method#test1464#0;class#TestMain#0" />
-                <element signature="method#test1470#0;class#TestMain#0" />
-                <element signature="method#test1475#0;class#TestMain#0" />
-                <element signature="method#test1480#0;class#TestMain#0" />
-                <element signature="method#test1486#0;class#TestMain#0" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LCP/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution237.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-              <folding>
-                <element signature="docComment;class#TestMain#0" />
-                <element signature="method#testLCP01#0;class#TestMain#0" />
-                <element signature="method#testLCP06#0;class#TestMain#0" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/note.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -368,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution1464.java" />
         <option value="$PROJECT_DIR$/src/Solution1480.java" />
         <option value="$PROJECT_DIR$/src/Solution3.java" />
         <option value="$PROJECT_DIR$/src/Solution66.java" />
@@ -409,9 +166,7 @@
         <option value="$PROJECT_DIR$/src/top200_400/Solution202.java" />
         <option value="$PROJECT_DIR$/src/top201_400/Solution202.java" />
         <option value="$PROJECT_DIR$/src/TestMain.java" />
-        <option value="$PROJECT_DIR$/src/top201to400/Solution202.java" />
         <option value="$PROJECT_DIR$/src/top200/TestMain.java" />
-        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top401to600/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top601to800/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top801to1000/TestMain.java" />
@@ -419,6 +174,9 @@
         <option value="$PROJECT_DIR$/src/LCP/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top1201to1400/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top1401to1600/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/note.txt" />
+        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/Solution202.java" />
       </list>
     </option>
   </component>
@@ -448,6 +206,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="top201to400" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -491,7 +255,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestMain (1)">
+    <configuration name="TestMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top201to400.TestMain" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top201to400.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestMain" />
       <module name="LeetCode" />
@@ -501,6 +278,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMain (1)" />
         <item itemvalue="Application.TestMain" />
       </list>
     </recent_temporary>
@@ -540,14 +318,7 @@
       <workItem from="1594107622135" duration="3255000" />
       <workItem from="1594114907031" duration="14846000" />
       <workItem from="1594211485290" duration="11209000" />
-      <workItem from="1594261801674" duration="2800000" />
-    </task>
-    <task id="LOCAL-00041" summary="新增53">
-      <created>1593509700607</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1593509700607</updated>
+      <workItem from="1594261801674" duration="4048000" />
     </task>
     <task id="LOCAL-00042" summary="新增53">
       <created>1593509825119</created>
@@ -885,16 +656,24 @@
       <option name="project" value="LOCAL" />
       <updated>1594264134751</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="调整目录结构">
+      <created>1594264695531</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1594264695531</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156434000" />
+    <option name="totallyTimeSpent" value="157682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19571045" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19571045" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -921,7 +700,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Run" order="9" sideWeight="0.4953083" weight="0.37198392" />
+      <window_info active="true" anchor="right" id="Run" order="9" sideWeight="0.4953083" visible="true" weight="0.37198392" />
       <window_info anchor="right" id="Structure" order="10" sideWeight="0.50141644" weight="0.28954422" />
     </layout>
     <layout-to-restore>
@@ -987,26 +766,7 @@
     <MESSAGE value="调整目录结构" />
     <option name="LAST_COMMIT_MESSAGE" value="调整目录结构" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestMain.java</url>
-          <line>545</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top200/Solution26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top200/Solution14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -1015,13 +775,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top201to400/Solution226.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution237.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
@@ -1280,13 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution202.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3525">
@@ -1396,6 +1142,119 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/top401to600/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="e#11978#12139#0" />
+            <element signature="e#12145#12368#0" />
+            <element signature="e#12374#12858#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top601to800/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="e#12938#13417#0" />
+            <element signature="e#13423#13590#0" />
+            <element signature="e#13596#13954#0" />
+            <element signature="e#13960#14123#0" />
+            <element signature="e#14129#14321#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top801to1000/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="method#test804#0;class#TestMain#0" />
+            <element signature="method#test807#0;class#TestMain#0" />
+            <element signature="method#test832#0;class#TestMain#0" />
+            <element signature="method#test938#0;class#TestMain#0" />
+            <element signature="method#test977#0;class#TestMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LCP/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="method#testLCP01#0;class#TestMain#0" />
+            <element signature="method#testLCP06#0;class#TestMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top1201to1400/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="130" column="21" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="method#test1221#0;class#TestMain#0" />
+            <element signature="method#test1252#0;class#TestMain#0" />
+            <element signature="method#test1266#0;class#TestMain#0" />
+            <element signature="method#test1281#0;class#TestMain#0" />
+            <element signature="method#test1290#0;class#TestMain#0" />
+            <element signature="method#test1295#0;class#TestMain#0" />
+            <element signature="method#test1299#0;class#TestMain#0" />
+            <element signature="method#test1304#0;class#TestMain#0" />
+            <element signature="e#3850#3900#1" />
+            <element signature="method#test1309#0;class#TestMain#0" />
+            <element signature="method#test1313#0;class#TestMain#0" />
+            <element signature="method#test1323#0;class#TestMain#0" />
+            <element signature="method#test1342#0;class#TestMain#0" />
+            <element signature="method#test1351#0;class#TestMain#0" />
+            <element signature="method#test1365#0;class#TestMain#0" />
+            <element signature="method#test1370#0;class#TestMain#0" />
+            <element signature="method#test1389#0;class#TestMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top1401to1600/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="method#test1431#0;class#TestMain#0" />
+            <element signature="method#test1436#0;class#TestMain#0" />
+            <element signature="method#test1450#0;class#TestMain#0" />
+            <element signature="method#test1460#0;class#TestMain#0" />
+            <element signature="method#test1464#0;class#TestMain#0" />
+            <element signature="method#test1470#0;class#TestMain#0" />
+            <element signature="method#test1475#0;class#TestMain#0" />
+            <element signature="method#test1480#0;class#TestMain#0" />
+            <element signature="method#test1486#0;class#TestMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top1001to1200/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;class#TestMain#0" />
+            <element signature="method#test1021#0;class#TestMain#0" />
+            <element signature="method#test1108#0;class#TestMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top200/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3925">
@@ -1456,128 +1315,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution237.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        <state relative-caret-position="200">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
-            <element signature="e#11172#11592#0" />
-            <element signature="e#11598#12004#0" />
-            <element signature="e#11911#11998#1" />
+            <element signature="method#test226#0;class#TestMain#0" />
+            <element signature="method#test237#0;class#TestMain#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top401to600/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution202.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+        <state relative-caret-position="475">
+          <caret line="19" selection-start-line="19" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="e#11978#12139#0" />
-            <element signature="e#12145#12368#0" />
-            <element signature="e#12374#12858#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top601to800/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="e#12938#13417#0" />
-            <element signature="e#13423#13590#0" />
-            <element signature="e#13596#13954#0" />
-            <element signature="e#13960#14123#0" />
-            <element signature="e#14129#14321#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="method#test804#0;class#TestMain#0" />
-            <element signature="method#test807#0;class#TestMain#0" />
-            <element signature="method#test832#0;class#TestMain#0" />
-            <element signature="method#test938#0;class#TestMain#0" />
-            <element signature="method#test977#0;class#TestMain#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top1001to1200/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="method#test1021#0;class#TestMain#0" />
-            <element signature="method#test1108#0;class#TestMain#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LCP/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="method#testLCP01#0;class#TestMain#0" />
-            <element signature="method#testLCP06#0;class#TestMain#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top1201to1400/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="130" column="21" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="method#test1221#0;class#TestMain#0" />
-            <element signature="method#test1252#0;class#TestMain#0" />
-            <element signature="method#test1266#0;class#TestMain#0" />
-            <element signature="method#test1281#0;class#TestMain#0" />
-            <element signature="method#test1290#0;class#TestMain#0" />
-            <element signature="method#test1295#0;class#TestMain#0" />
-            <element signature="method#test1299#0;class#TestMain#0" />
-            <element signature="method#test1304#0;class#TestMain#0" />
-            <element signature="e#3850#3900#1" />
-            <element signature="method#test1309#0;class#TestMain#0" />
-            <element signature="method#test1313#0;class#TestMain#0" />
-            <element signature="method#test1323#0;class#TestMain#0" />
-            <element signature="method#test1342#0;class#TestMain#0" />
-            <element signature="method#test1351#0;class#TestMain#0" />
-            <element signature="method#test1365#0;class#TestMain#0" />
-            <element signature="method#test1370#0;class#TestMain#0" />
-            <element signature="method#test1389#0;class#TestMain#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top1401to1600/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
-          <folding>
-            <element signature="docComment;class#TestMain#0" />
-            <element signature="method#test1431#0;class#TestMain#0" />
-            <element signature="method#test1436#0;class#TestMain#0" />
-            <element signature="method#test1450#0;class#TestMain#0" />
-            <element signature="method#test1460#0;class#TestMain#0" />
-            <element signature="method#test1464#0;class#TestMain#0" />
-            <element signature="method#test1470#0;class#TestMain#0" />
-            <element signature="method#test1475#0;class#TestMain#0" />
-            <element signature="method#test1480#0;class#TestMain#0" />
-            <element signature="method#test1486#0;class#TestMain#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

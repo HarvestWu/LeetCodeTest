@@ -9,6 +9,12 @@ import construct.TreeNode;
  **/
 public class TestMain {
 
+    private static void test202(){
+        int n = 19;
+        boolean result = new Solution202().isHappy(n);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -36,6 +42,7 @@ public class TestMain {
 
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
+        test202();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
