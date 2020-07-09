@@ -95,6 +95,15 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test235() {
+        TreeNode root = new TreeNode(8);
+        root.left = new TreeNode(5);
+        root.left.right = new TreeNode(6);
+        root.right = new TreeNode(9);
+        TreeNode result = new Solution235().lowestCommonAncestor(root, root.left.right, root.right);
+        System.out.println(result.val);
+    }
+
     private static void test237() {
         ListNode node = new ListNode(4);
         node.next = new ListNode(5);
@@ -121,7 +130,8 @@ public class TestMain {
 //        test226();
 //        test231();
 //        test232();
-        test234();
+//        test234();
+        test235();
 //        test237();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
