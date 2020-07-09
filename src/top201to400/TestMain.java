@@ -79,6 +79,16 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test232() {
+        Solution232.MyQueue queue = new Solution232.MyQueue();
+        queue.push(1);
+        queue.push(2);
+        System.out.println(queue.peek());
+        System.out.println(queue.pop());
+
+        System.out.println(queue.empty());
+    }
+
     private static void test237() {
         ListNode node = new ListNode(4);
         node.next = new ListNode(5);
@@ -103,7 +113,8 @@ public class TestMain {
 //        test219();
 //        test225();
 //        test226();
-        test231();
+//        test231();
+        test232();
 //        test237();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
