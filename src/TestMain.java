@@ -356,6 +356,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test198() {
+        int[] nums = {2, 7, 9, 3, 1};
+        int result = new Solution198().rob(nums);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -727,7 +733,8 @@ public class TestMain {
 //        test172();
 //        test189();
 //        test190();
-        test191();
+//        test191();
+        test198();
 //        test226();
 //        test237();
 //        test461();
