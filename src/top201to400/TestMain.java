@@ -39,6 +39,12 @@ public class TestMain {
         ListNode.printf(result);
     }
 
+    private static void test217(){
+        int[] nums = {1,4,7,2,5,8,2};
+        boolean result = new Solution217().containsDuplicate(nums);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -70,7 +76,8 @@ public class TestMain {
 //        test203();
 //        test204();
 //        test205();
-        test206();
+//        test206();
+        test217();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
