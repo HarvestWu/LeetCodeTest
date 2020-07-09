@@ -73,6 +73,12 @@ public class TestMain {
         TreeNode.printf(result);
     }
 
+    private static void test231() {
+        int n = 12;
+        boolean result = new Solution231().isPowerOfTwo(n);
+        System.out.println(result);
+    }
+
     private static void test237() {
         ListNode node = new ListNode(4);
         node.next = new ListNode(5);
@@ -95,8 +101,9 @@ public class TestMain {
 //        test206();
 //        test217();
 //        test219();
-        test225();
+//        test225();
 //        test226();
+        test231();
 //        test237();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
