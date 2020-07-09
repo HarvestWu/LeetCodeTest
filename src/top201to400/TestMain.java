@@ -21,6 +21,12 @@ public class TestMain {
         ListNode.printf(result);
     }
 
+    private static void test204(){
+        int n = 10;
+        int result = new Solution204().countPrimes(n);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -49,7 +55,8 @@ public class TestMain {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
-        test203();
+//        test203();
+        test204();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
