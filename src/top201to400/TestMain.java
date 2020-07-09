@@ -21,16 +21,22 @@ public class TestMain {
         ListNode.printf(result);
     }
 
-    private static void test204(){
+    private static void test204() {
         int n = 10;
         int result = new Solution204().countPrimes(n);
         System.out.println(result);
     }
 
-    private static void test205(){
+    private static void test205() {
         String s = "ab", t = "ca";
-        boolean result = new Solution205().isIsomorphic(s,t);
+        boolean result = new Solution205().isIsomorphic(s, t);
         System.out.println(result);
+    }
+
+    private static void test206() {
+        ListNode head = new ListNode(1, new ListNode(2, new ListNode(3)));
+        ListNode result = new Solution206().reverseList(head);
+        ListNode.printf(result);
     }
 
     private static void test226() {
@@ -63,7 +69,8 @@ public class TestMain {
 //        test202();
 //        test203();
 //        test204();
-        test205();
+//        test205();
+        test206();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
