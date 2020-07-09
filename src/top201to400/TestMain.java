@@ -27,6 +27,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test205(){
+        String s = "ab", t = "ca";
+        boolean result = new Solution205().isIsomorphic(s,t);
+        System.out.println(result);
+    }
+
     private static void test226() {
         TreeNode root = new TreeNode(4);
         root.left = new TreeNode(2);
@@ -56,7 +62,8 @@ public class TestMain {
         long start = System.currentTimeMillis();
 //        test202();
 //        test203();
-        test204();
+//        test204();
+        test205();
 //        test226();
 //        test237();
         long end = System.currentTimeMillis();
