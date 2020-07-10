@@ -140,6 +140,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test263() {
+        int n = 90;
+        boolean result = new Solution263().isUgly(n);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -164,7 +170,8 @@ public class TestMain {
 //        test237();
 //        test242();
 //        test257();
-        test258();
+//        test258();
+        test263();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
