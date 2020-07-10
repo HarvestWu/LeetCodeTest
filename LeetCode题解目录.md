@@ -1,8 +1,8 @@
-最新更新于2020.07.10.
+**最新更新于2020.07.10.**
 
-前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
+- 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
-前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
+- 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
 **已解决 105/1706** - **简单 100** **中等 5** **困难 0**
 

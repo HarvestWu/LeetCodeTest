@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode题解目录.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode题解目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode题解目录.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +57,8 @@
         <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2925">
-                <caret line="117" column="82" selection-start-line="117" selection-start-column="82" selection-end-line="117" selection-end-column="82" />
+              <first_editor relative-caret-position="100">
+                <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -283,14 +282,7 @@
       <workItem from="1594211485290" duration="11209000" />
       <workItem from="1594261801674" duration="4976000" />
       <workItem from="1594289708331" duration="15460000" />
-      <workItem from="1594347185843" duration="2207000" />
-    </task>
-    <task id="LOCAL-00054" summary="修改1480">
-      <created>1593870233322</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1593870233322</updated>
+      <workItem from="1594347185843" duration="2507000" />
     </task>
     <task id="LOCAL-00055" summary="新增3">
       <created>1593872538249</created>
@@ -628,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594309330675</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="更新目录">
+      <created>1594349416612</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1594349416612</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176277000" />
+    <option name="totallyTimeSpent" value="176577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -704,7 +703,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增141" />
     <MESSAGE value="新增155" />
     <MESSAGE value="新增160" />
     <MESSAGE value="新增167" />
@@ -729,7 +727,8 @@
     <MESSAGE value="新增232" />
     <MESSAGE value="新增234" />
     <MESSAGE value="新增235" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增235" />
+    <MESSAGE value="更新目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新目录" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/top1001to1200/Solution1021.java">
@@ -1235,8 +1234,8 @@
     <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2925">
-            <caret line="117" column="82" selection-start-line="117" selection-start-column="82" selection-end-line="117" selection-end-column="82" />
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
