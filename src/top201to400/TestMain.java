@@ -3,6 +3,8 @@ package top201to400;
 import construct.ListNode;
 import construct.TreeNode;
 
+import java.util.List;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-01-09 16:03
@@ -123,6 +125,15 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test257() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.left.right = new TreeNode(5);
+        List<String> result = new Solution257().binaryTreePaths(root);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -145,7 +156,8 @@ public class TestMain {
 //        test234();
 //        test235();
 //        test237();
-        test242();
+//        test242();
+        test257();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
