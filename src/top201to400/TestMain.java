@@ -117,6 +117,12 @@ public class TestMain {
         }
     }
 
+    private static void test242() {
+        String s = "hello", t = "ohell";
+        boolean result = new Solution242().isAnagram(s, t);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -139,7 +145,8 @@ public class TestMain {
 //        test234();
 //        test235();
 //        test237();
-        test309();
+        test242();
+//        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
