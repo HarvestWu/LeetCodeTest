@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top201to400/Solution234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode题解目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/HarvestWu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/top201to400/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top201to400/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="92" column="86" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="86" />
+            <state relative-caret-position="1500">
+              <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
               <folding>
                 <element signature="docComment;class#TestMain#0" />
                 <element signature="method#test202#0;class#TestMain#0" />
@@ -34,25 +34,43 @@
                 <element signature="method#test205#0;class#TestMain#0" />
                 <element signature="method#test206#0;class#TestMain#0" />
                 <element signature="method#test217#0;class#TestMain#0" />
-                <element signature="method#test217#1;class#TestMain#0" />
                 <element signature="method#test225#0;class#TestMain#0" />
                 <element signature="method#test226#0;class#TestMain#0" />
                 <element signature="method#test231#0;class#TestMain#0" />
                 <element signature="method#test232#0;class#TestMain#0" />
+                <element signature="method#test234#0;class#TestMain#0" />
                 <element signature="method#test237#0;class#TestMain#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution234.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top201to400/Solution235.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-619">
-              <caret line="29" selection-start-line="29" selection-end-line="74" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2925">
+                <caret line="117" column="82" selection-start-line="117" selection-start-column="82" selection-end-line="117" selection-end-column="82" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -82,8 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution104.java" />
-        <option value="$PROJECT_DIR$/src/Solution107.java" />
         <option value="$PROJECT_DIR$/src/Solution108.java" />
         <option value="$PROJECT_DIR$/src/Solution110.java" />
         <option value="$PROJECT_DIR$/src/Solution111.java" />
@@ -131,8 +147,10 @@
         <option value="$PROJECT_DIR$/src/top201to400/Solution225.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution231.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution232.java" />
-        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
         <option value="$PROJECT_DIR$/src/top201to400/Solution234.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/top201to400/Solution235.java" />
+        <option value="$PROJECT_DIR$/LeetCode题解目录.md" />
       </list>
     </option>
   </component>
@@ -151,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,23 +178,10 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top201to400" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,21 +282,8 @@
       <workItem from="1594114907031" duration="14846000" />
       <workItem from="1594211485290" duration="11209000" />
       <workItem from="1594261801674" duration="4976000" />
-      <workItem from="1594289708331" duration="14027000" />
-    </task>
-    <task id="LOCAL-00052" summary="增加1304解法">
-      <created>1593783965334</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1593783965334</updated>
-    </task>
-    <task id="LOCAL-00053" summary="增加1464解法">
-      <created>1593869373841</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1593869373842</updated>
+      <workItem from="1594289708331" duration="15460000" />
+      <workItem from="1594347185843" duration="2207000" />
     </task>
     <task id="LOCAL-00054" summary="修改1480">
       <created>1593870233322</created>
@@ -620,17 +614,31 @@
       <option name="project" value="LOCAL" />
       <updated>1594305800161</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="新增234">
+      <created>1594307925819</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1594307925819</updated>
+    </task>
+    <task id="LOCAL-00102" summary="新增235">
+      <created>1594309330675</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1594309330675</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172637000" />
+    <option name="totallyTimeSpent" value="176277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.12935656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.056300268" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -657,7 +665,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info active="true" anchor="right" id="Run" order="9" sideWeight="0.4953083" visible="true" weight="0.17426273" />
+      <window_info anchor="right" id="Run" order="9" sideWeight="0.4953083" weight="0.17426273" />
       <window_info anchor="right" id="Structure" order="10" sideWeight="0.50141644" weight="0.28954422" />
     </layout>
     <layout-to-restore>
@@ -696,8 +704,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增125" />
-    <MESSAGE value="新增136" />
     <MESSAGE value="新增141" />
     <MESSAGE value="新增155" />
     <MESSAGE value="新增160" />
@@ -721,30 +727,11 @@
     <MESSAGE value="新增225" />
     <MESSAGE value="新增231" />
     <MESSAGE value="新增232" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增232" />
+    <MESSAGE value="新增234" />
+    <MESSAGE value="新增235" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增235" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution832.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution938.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution977.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top1001to1200/Solution1021.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1199,10 +1186,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top201to400/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="92" column="86" selection-start-line="92" selection-start-column="86" selection-end-line="92" selection-end-column="86" />
+        <state relative-caret-position="1500">
+          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
           <folding>
             <element signature="docComment;class#TestMain#0" />
             <element signature="method#test202#0;class#TestMain#0" />
@@ -1211,23 +1208,37 @@
             <element signature="method#test205#0;class#TestMain#0" />
             <element signature="method#test206#0;class#TestMain#0" />
             <element signature="method#test217#0;class#TestMain#0" />
-            <element signature="method#test217#1;class#TestMain#0" />
             <element signature="method#test225#0;class#TestMain#0" />
             <element signature="method#test226#0;class#TestMain#0" />
             <element signature="method#test231#0;class#TestMain#0" />
             <element signature="method#test232#0;class#TestMain#0" />
+            <element signature="method#test234#0;class#TestMain#0" />
             <element signature="method#test237#0;class#TestMain#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution234.java">
+    <entry file="file://$PROJECT_DIR$/src/construct/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-619">
-          <caret line="29" selection-start-line="29" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top201to400/Solution235.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2925">
+            <caret line="117" column="82" selection-start-line="117" selection-start-column="82" selection-end-line="117" selection-end-column="82" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
