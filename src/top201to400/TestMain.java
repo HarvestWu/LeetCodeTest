@@ -172,6 +172,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test292() {
+        int n = 8;
+        boolean result = new Solution292().canWinNim(n);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -201,7 +207,8 @@ public class TestMain {
 //        test268();
 //        test278();
 //        test283();
-        test290();
+//        test290();
+        test292();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
