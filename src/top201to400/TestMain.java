@@ -146,6 +146,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test268(){
+        int[] nums = {0,1,2,3,5,6,7,8,9};
+        int result = new Solution268().missingNumber(nums);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -171,7 +177,8 @@ public class TestMain {
 //        test242();
 //        test257();
 //        test258();
-        test263();
+//        test263();
+        test268();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");

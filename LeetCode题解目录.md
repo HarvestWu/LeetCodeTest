@@ -74,6 +74,12 @@
 | [LeetCode 234. 回文链表](https://blog.csdn.net/HarvestWu/article/details/107239568) |
 | [LeetCode 235. 二叉搜索树的最近公共祖先](https://blog.csdn.net/HarvestWu/article/details/107240140) |
 | [LeetCode 237. 删除链表中的节点](https://blog.csdn.net/HarvestWu/article/details/107069822) |
+| [LeetCode 242. 有效的字母异位词](https://blog.csdn.net/HarvestWu/article/details/107270327) |
+| [LeetCode 257. 二叉树的所有路径](https://blog.csdn.net/HarvestWu/article/details/107270915) |
+| [LeetCode 258. 各位相加](https://blog.csdn.net/HarvestWu/article/details/107271370) |
+| [LeetCode 263. 丑数](https://blog.csdn.net/HarvestWu/article/details/107272646)|
+| [LeetCode 268. 缺失数字](https://blog.csdn.net/HarvestWu/article/details/107286773) |
+| [LeetCode 309. 最佳买卖股票时机含冷冻期](https://blog.csdn.net/HarvestWu/article/details/107265325) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
