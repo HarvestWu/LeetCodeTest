@@ -178,6 +178,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test299() {
+        String secret = "1122", guess = "1222";
+        String result = new Solution299().getHint(secret, guess);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -208,7 +214,8 @@ public class TestMain {
 //        test278();
 //        test283();
 //        test290();
-        test292();
+//        test292();
+        test299();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
