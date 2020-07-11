@@ -146,9 +146,15 @@ public class TestMain {
         System.out.println(result);
     }
 
-    private static void test268(){
-        int[] nums = {0,1,2,3,5,6,7,8,9};
+    private static void test268() {
+        int[] nums = {0, 1, 2, 3, 5, 6, 7, 8, 9};
         int result = new Solution268().missingNumber(nums);
+        System.out.println(result);
+    }
+
+    private static void test278() {
+        int n = 5;
+        int result = new Solution278().firstBadVersion(n);
         System.out.println(result);
     }
 
@@ -178,7 +184,8 @@ public class TestMain {
 //        test257();
 //        test258();
 //        test263();
-        test268();
+//        test268();
+        test278();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");

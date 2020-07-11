@@ -79,6 +79,7 @@
 | [LeetCode 258. 各位相加](https://blog.csdn.net/HarvestWu/article/details/107271370) |
 | [LeetCode 263. 丑数](https://blog.csdn.net/HarvestWu/article/details/107272646)|
 | [LeetCode 268. 缺失数字](https://blog.csdn.net/HarvestWu/article/details/107286773) |
+| [LeetCode 278. 第一个错误的版本](https://blog.csdn.net/HarvestWu/article/details/107287415) |
 | [LeetCode 309. 最佳买卖股票时机含冷冻期](https://blog.csdn.net/HarvestWu/article/details/107265325) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
