@@ -184,6 +184,13 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test303() {
+        int[] nums = {1, 2, 3, 4, 5};
+        Solution303.NumArray numArray = new Solution303.NumArray(nums);
+        System.out.println(numArray.sumRange(1, 2));
+        System.out.println(numArray.sumRange(2, 3));
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -215,7 +222,8 @@ public class TestMain {
 //        test283();
 //        test290();
 //        test292();
-        test299();
+//        test299();
+        test303();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
