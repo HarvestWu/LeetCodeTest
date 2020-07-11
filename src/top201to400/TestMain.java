@@ -3,6 +3,7 @@ package top201to400;
 import construct.ListNode;
 import construct.TreeNode;
 
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -158,6 +159,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test283() {
+        int[] nums = {1, 2, 0, 4, 5, 0, 1};
+        new Solution283().moveZeroes(nums);
+        System.out.println(Arrays.toString(nums));
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -185,7 +192,8 @@ public class TestMain {
 //        test258();
 //        test263();
 //        test268();
-        test278();
+//        test278();
+        test283();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
