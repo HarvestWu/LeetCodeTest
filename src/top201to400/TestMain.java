@@ -165,6 +165,13 @@ public class TestMain {
         System.out.println(Arrays.toString(nums));
     }
 
+    private static void test290() {
+        String pattern = "abba";
+        String str = "cat dog dog cat";
+        boolean result = new Solution290().wordPattern(pattern, str);
+        System.out.println(result);
+    }
+
     private static void test309() {
         int[] prices = {2, 1, 4};
         int result = new Solution309().maxProfit(prices);
@@ -193,7 +200,8 @@ public class TestMain {
 //        test263();
 //        test268();
 //        test278();
-        test283();
+//        test283();
+        test290();
 //        test309();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");

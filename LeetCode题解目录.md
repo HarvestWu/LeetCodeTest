@@ -1,10 +1,10 @@
-**最新更新于2020.07.10.**
+**最新更新于2020.07.11.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 105/1706** - **简单 100** **中等 5** **困难 0**
+**已解决 114/1706** - **简单 108** **中等 6** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -81,6 +81,7 @@
 | [LeetCode 268. 缺失数字](https://blog.csdn.net/HarvestWu/article/details/107286773) |
 | [LeetCode 278. 第一个错误的版本](https://blog.csdn.net/HarvestWu/article/details/107287415) |
 | [LeetCode 283. 移动零](https://blog.csdn.net/HarvestWu/article/details/107288404) |
+| [LeetCode 290. 单词规律](https://blog.csdn.net/HarvestWu/article/details/107288431) |
 | [LeetCode 309. 最佳买卖股票时机含冷冻期](https://blog.csdn.net/HarvestWu/article/details/107265325) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
