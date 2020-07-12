@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 15:00
  **/
 public class Solution14 {
+
+    @Test
+    public void test14() {
+        String[] str = {"tom", "to", "t"};
+        String result = longestCommonPrefix(str);
+        System.out.println(result);
+    }
+
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";

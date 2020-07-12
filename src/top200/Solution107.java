@@ -1,6 +1,7 @@
 package top200;
 
 import construct.TreeNode;
+import org.junit.Test;
 
 import java.util.*;
 
@@ -9,6 +10,16 @@ import java.util.*;
  * @Date: 2020-07-06 22:55
  **/
 public class Solution107 {
+
+    @Test
+    public void test107() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        List<List<Integer>> result = levelOrderBottom(root);
+        System.out.println(result);
+    }
+
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         int num = 1, count = 0;
         Queue<TreeNode> tn = new LinkedList<>();

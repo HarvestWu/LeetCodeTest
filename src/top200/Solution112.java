@@ -1,12 +1,24 @@
 package top200;
 
 import construct.TreeNode;
+import org.junit.Test;
 
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-07 10:05
  **/
 public class Solution112 {
+
+    @Test
+    public void test112() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.right.right = new TreeNode(4);
+        boolean result = hasPathSum(root, 8);
+        System.out.println(result);
+    }
+
     public boolean hasPathSum(TreeNode root, int sum) {
         return sum(root, sum, 0);
     }

@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 13:56
  **/
 public class Solution7 {
+
+    @Test
+    public void test7() {
+        int x = 120;
+        int result = reverse(x);
+        System.out.println(result);
+    }
+
     public int reverse(int x) {
         int result = 0;
         while (x != 0) {

@@ -1,5 +1,8 @@
 package top200;
 
+import org.junit.Test;
+
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,6 +11,18 @@ import java.util.Map;
  * @Date: 2020-06-26 16:18
  **/
 public class Solution1 {
+
+    @Test
+    public void test1() {
+        int[] nums = new int[]{2, 7, 11, 15};
+        int target = 9;
+        int[] result = twoSum(nums, target);
+        System.out.println(Arrays.toString(result));
+
+        int[] result1 = twoSum1(nums, target);
+        System.out.println(Arrays.toString(result1));
+    }
+
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         int len = nums.length;

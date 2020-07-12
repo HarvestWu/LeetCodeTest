@@ -1,11 +1,27 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-05 13:46
  **/
 
 public class Solution69 {
+
+    @Test
+    public void test69() {
+        int x = 2;
+        int result = new Solution69().mySqrt(x);
+        System.out.println(result);
+
+        result = new Solution69().mySqrt1(x);
+        System.out.println(result);
+
+        result = new Solution69().mySqrt2(x);
+        System.out.println(result);
+    }
+
     public int mySqrt(int x) {
         return (int) Math.sqrt(x);
     }

@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 16:43
  **/
 public class Solution35 {
+
+    @Test
+    public void test35() {
+        int[] nums = new int[]{1, 3, 5, 6};
+        int result = searchInsert(nums, 7);
+        System.out.println(result);
+    }
+
     public int searchInsert(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] >= target) {

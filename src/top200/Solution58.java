@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 17:38
  **/
 public class Solution58 {
+
+    @Test
+    public void test58() {
+        String s = "Hello World";
+        int result = lengthOfLastWord(s);
+        System.out.println(result);
+    }
+
     public int lengthOfLastWord(String s) {
         String[] strs = s.split(" ");
         if (strs.length == 0) {

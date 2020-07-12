@@ -1,10 +1,23 @@
 package top200;
 
+import org.junit.Test;
+
+import java.util.Arrays;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-08 22:25
  **/
 public class Solution189 {
+
+    @Test
+    public void test189() {
+        int[] nums = {1, 2, 3, 4, 5, 6, 7};
+        rotate(nums, 2);
+        System.out.println(Arrays.toString(nums));
+    }
+
+
     public void rotate3(int[] nums, int k) {
         int len = nums.length, pre;
         for (int i = 0; i < k; i++) {

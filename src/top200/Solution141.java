@@ -1,6 +1,7 @@
 package top200;
 
 import construct.ListNode;
+import org.junit.Test;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -10,6 +11,16 @@ import java.util.Set;
  * @Date: 2020-07-07 20:20
  **/
 public class Solution141 {
+
+    @Test
+    public void test141() {
+        ListNode head = new ListNode(1);
+        head.next = new ListNode(2);
+        head.next.next = head;
+        boolean result = hasCycle(head);
+        System.out.println(result);
+    }
+
     public boolean hasCycle(ListNode head) {
         Set<ListNode> set = new HashSet<>();
         while (head != null) {

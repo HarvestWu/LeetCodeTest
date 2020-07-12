@@ -1,5 +1,7 @@
 package top200;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,6 +10,14 @@ import java.util.List;
  * @Date: 2020-07-07 11:18
  **/
 public class Solution119 {
+
+    @Test
+   public void test119() {
+        int rowIndex = 3;
+        List<Integer> result = getRow(rowIndex);
+        System.out.println(result);
+    }
+
     public List<Integer> getRow(int rowIndex) {
         List<Integer> result = new ArrayList<>(), pre_list;
         result.add(1);

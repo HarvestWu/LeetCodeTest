@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-09 10:33
  **/
 public class Solution198 {
+
+    @Test
+    public void test198() {
+        int[] nums = {2, 7, 9, 3, 1};
+        int result = rob(nums);
+        System.out.println(result);
+    }
+
     public int rob(int[] nums) {
         int len = nums.length;
         if (len == 0) {

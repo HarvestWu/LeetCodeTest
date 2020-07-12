@@ -5,6 +5,7 @@
     <inspection_tool class="AlibabaClassNamingShouldBeCamel" enabled="false" level="MAJOR" enabled_by_default="false" />
     <inspection_tool class="AlibabaCommentsMustBeJavadocFormat" enabled="false" level="MAJOR" enabled_by_default="false" />
     <inspection_tool class="AlibabaLowerCamelCaseVariableNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+    <inspection_tool class="AlibabaTestClassShouldEndWithTestNaming" enabled="false" level="MAJOR" enabled_by_default="false" />
     <inspection_tool class="Duplicates" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <Java>
         <minSize>59</minSize>

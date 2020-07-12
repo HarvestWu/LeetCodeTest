@@ -1,5 +1,7 @@
 package top200;
 
+import org.junit.Test;
+
 import java.util.Stack;
 
 /**
@@ -7,7 +9,20 @@ import java.util.Stack;
  * @Date: 2020-07-07 21:43
  **/
 public class Solution155 {
-    public static class MinStack {
+
+    @Test
+    public void test155() {
+        Solution155.MinStack minStack = new Solution155.MinStack();
+        minStack.push(1);
+        minStack.push(2);
+        minStack.push(-1);
+        minStack.push(3);
+        System.out.println(minStack.top());
+        System.out.println(minStack.getMin());
+
+    }
+
+    public class MinStack {
         private Stack<Integer> stack;
         private Stack<Integer> min_stack;
         public MinStack() {

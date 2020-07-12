@@ -1,12 +1,42 @@
 package top200;
 
 import construct.ListNode;
+import org.junit.Test;
 
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-26 17:10
  **/
 public class Solution2 {
+
+    @Test
+    public void test2() {
+        ListNode l1 = new ListNode(2);
+        l1.next = new ListNode(4);
+        l1.next.next = new ListNode(3);
+
+        ListNode l2 = new ListNode(5);
+        l2.next = new ListNode(6);
+        l2.next.next = new ListNode(4);
+
+//        ListNode l1 = new ListNode(9);
+//
+//        ListNode l2 = new ListNode(1);
+//        ListNode p = l2;
+//        for (int i = 0; i < 9; i++) {
+//            p.next = new ListNode(9);
+//            p = p.next;
+//        }
+//        p.next = null;
+
+        ListNode result = addTwoNumbers(l1, l2);
+        while (result != null) {
+            System.out.print(result.val + " ");
+            result = result.next;
+        }
+
+    }
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);
         ListNode p = result;

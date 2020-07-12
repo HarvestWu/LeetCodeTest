@@ -1,5 +1,7 @@
 package top200;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -9,6 +11,14 @@ import java.util.List;
  * @Date: 2020-07-07 10:44
  **/
 public class Solution118 {
+
+    @Test
+    public void test118() {
+        int numRows = 3;
+        List<List<Integer>> result = generate(numRows);
+        System.out.println(result);
+    }
+
     public List<List<Integer>> generate(int numRows) {
         List<Integer> list, pre_list;
         List<List<Integer>> result = new ArrayList<>();

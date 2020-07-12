@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 14:28
  **/
 public class Solution13 {
+
+    @Test
+    public void test13() {
+        String s = "MCMXCIV";
+        int result = romanToInt(s);
+        System.out.println(result);
+    }
+
     public int romanToInt(String s) {
         char[] chars = s.toCharArray();
         int result = 0, len = chars.length;

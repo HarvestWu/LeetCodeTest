@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 14:15
  **/
 public class Solution9 {
+
+    @Test
+    public void test9() {
+        int x = -121;
+        boolean result = isPalindrome(x);
+        System.out.println(result);
+    }
+
     public boolean isPalindrome(int x) {
         if (x < 0) {
             return false;

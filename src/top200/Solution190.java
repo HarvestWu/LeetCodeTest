@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-08 23:40
  **/
 public class Solution190 {
+
+    @Test
+    public void test190() {
+        int n = -3;
+        int result = reverseBits(n);
+        System.out.println(result);
+    }
+
     public int reverseBits1(int n) {
         int result = 0;
         for (int i = 0; i < 32; i++) {

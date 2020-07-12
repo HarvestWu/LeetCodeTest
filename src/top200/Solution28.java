@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 16:21
  **/
 public class Solution28 {
+
+    @Test
+    public void test28() {
+        String haystack = "hello", needle = "ll";
+        int result = strStr(haystack, needle);
+        System.out.println(result);
+    }
+
     public int strStr(String haystack, String needle) {
         int lh = haystack.length(), ln = needle.length();
         for (int i = 0; i < lh - ln + 1; i++) {

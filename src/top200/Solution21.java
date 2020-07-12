@@ -1,12 +1,22 @@
 package top200;
 
 import construct.ListNode;
+import org.junit.Test;
 
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-30 15:51
  **/
 public class Solution21 {
+
+    @Test
+    public void test21() {
+        ListNode l1 = new ListNode(1, new ListNode(2, new ListNode(4, null)));
+        ListNode l2 = new ListNode(1, new ListNode(3, new ListNode(4, null)));
+        ListNode result = mergeTwoLists(l1, l2);
+        ListNode.printf(result);
+    }
+
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode result = new ListNode();
         ListNode p = result;

@@ -1,5 +1,7 @@
 package top200;
 
+import org.junit.Test;
+
 import java.util.LinkedList;
 
 /**
@@ -7,6 +9,14 @@ import java.util.LinkedList;
  * @Date: 2020-06-30 15:34
  **/
 public class Solution20 {
+
+    @Test
+    public void test20() {
+        String s = "{}[]())";
+        boolean result = isValid(s);
+        System.out.println(result);
+    }
+
     public boolean isValid(String s) {
         if (s.length() == 0) {
             return true;

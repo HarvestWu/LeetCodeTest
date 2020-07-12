@@ -1,6 +1,7 @@
 package top200;
 
 import construct.TreeNode;
+import org.junit.Test;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -10,6 +11,16 @@ import java.util.Queue;
  * @Date: 2020-07-06 22:16
  **/
 public class Solution101 {
+
+    @Test
+    public void test101() {
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(2);
+        boolean result = isSymmetric(root);
+        System.out.println(result);
+    }
+
     public boolean isSymmetric(TreeNode root) {
         return check(root, root);
     }

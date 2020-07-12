@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-07 18:18
  **/
 public class Solution125 {
+
+    @Test
+    public void test125() {
+        String s = "A man, a plan, a canal: Panama";
+        boolean result = isPalindrome(s);
+        System.out.println(result);
+    }
+
     public boolean isPalindrome1(String s) {
         s = s.replaceAll("[^0-9a-zA-Z]", "");
         s = s.toLowerCase();

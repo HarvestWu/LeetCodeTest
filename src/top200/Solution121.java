@@ -1,10 +1,20 @@
 package top200;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-07 17:42
  **/
 public class Solution121 {
+
+    @Test
+    public void test121() {
+        int[] prices = {1, 6, 2, 3, 5};
+        int result = maxProfit(prices);
+        System.out.println(result);
+    }
+
     public int maxProfit(int[] prices) {
         int max = 0;
         for (int i = 0; i < prices.length; i++) {
