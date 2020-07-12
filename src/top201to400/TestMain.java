@@ -197,6 +197,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test326() {
+        int n = 82;
+        boolean result = new Solution326().isPowerOfThree(n);
+        System.out.println(result);
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -223,8 +229,9 @@ public class TestMain {
 //        test290();
 //        test292();
 //        test299();
-        test303();
+//        test303();
 //        test309();
+        test326();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
