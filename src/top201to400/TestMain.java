@@ -203,6 +203,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test342() {
+        int n = 2;
+        boolean result = new Solution342().isPowerOfFour(n);
+        System.out.println(result);
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -231,7 +237,8 @@ public class TestMain {
 //        test299();
 //        test303();
 //        test309();
-        test326();
+//        test326();
+        test342();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
