@@ -209,6 +209,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test344() {
+        char[] s = "hello".toCharArray();
+        new Solution344().reverseString(s);
+        System.out.println(s);
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -238,7 +244,8 @@ public class TestMain {
 //        test303();
 //        test309();
 //        test326();
-        test342();
+//        test342();
+        test344();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
