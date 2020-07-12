@@ -1,10 +1,11 @@
-**最新更新于2020.07.11.**
+
+**最新更新于2020.07.12.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 114/1706** - **简单 108** **中等 6** **困难 0**
+**已解决 118/1711** - **简单 112** **中等 6** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -82,7 +83,17 @@
 | [LeetCode 278. 第一个错误的版本](https://blog.csdn.net/HarvestWu/article/details/107287415) |
 | [LeetCode 283. 移动零](https://blog.csdn.net/HarvestWu/article/details/107288404) |
 | [LeetCode 290. 单词规律](https://blog.csdn.net/HarvestWu/article/details/107288431) |
+| [LeetCode 292. Nim 游戏](https://blog.csdn.net/HarvestWu/article/details/107290103) |
+| [LeetCode 299. 猜数字游戏](https://blog.csdn.net/HarvestWu/article/details/107290315) |
+| [LeetCode 303. 区域和检索 - 数组不可变](https://blog.csdn.net/HarvestWu/article/details/107291950) |
 | [LeetCode 309. 最佳买卖股票时机含冷冻期](https://blog.csdn.net/HarvestWu/article/details/107265325) |
+| [LeetCode 326. 3的幂](https://blog.csdn.net/HarvestWu/article/details/107292180) |
+| [LeetCode 342. 4的幂](https://blog.csdn.net/HarvestWu/article/details/107300228) |
+| [LeetCode 344. 反转字符串](https://blog.csdn.net/HarvestWu/article/details/107300271) |
+| [LeetCode 345. 反转字符串中的元音字母](https://blog.csdn.net/HarvestWu/article/details/107300467) |
+| [LeetCode 349. 两个数组的交集](https://blog.csdn.net/HarvestWu/article/details/107300885) |
+| [LeetCode 350. 两个数组的交集 II](https://blog.csdn.net/HarvestWu/article/details/107301245) |
+| [LeetCode 367. 有效的完全平方数](https://blog.csdn.net/HarvestWu/article/details/107301261) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
