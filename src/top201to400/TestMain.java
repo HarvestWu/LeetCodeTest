@@ -221,6 +221,12 @@ public class TestMain {
         System.out.println(result);
     }
 
+    private static void test349() {
+        int[] num1 = {1, 2, 3, 4, 5}, num2 = {7, 8, 9, 1, 5};
+        int[] result = new Solution349().intersection(num1, num2);
+        System.out.println(Arrays.toString(result));
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -252,7 +258,8 @@ public class TestMain {
 //        test326();
 //        test342();
 //        test344();
-        test345();
+//        test345();
+        test349();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
