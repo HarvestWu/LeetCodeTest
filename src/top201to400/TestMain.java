@@ -233,6 +233,12 @@ public class TestMain {
         System.out.println(Arrays.toString(result));
     }
 
+    private static void test367(){
+        int num = 30;
+        boolean result = new Solution367().isPerfectSquare(num);
+        System.out.println(result);
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -266,7 +272,8 @@ public class TestMain {
 //        test344();
 //        test345();
 //        test349();
-        test350();
+//        test350();
+        test367();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
