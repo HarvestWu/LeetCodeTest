@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.Stack;
 
 /**
@@ -7,6 +9,18 @@ import java.util.Stack;
  * @Date: 2020-07-09 22:26
  **/
 public class Solution232 {
+
+    @Test
+    public void test232() {
+        MyQueue queue = new MyQueue();
+        queue.push(1);
+        queue.push(2);
+        System.out.println(queue.peek());
+        System.out.println(queue.pop());
+
+        System.out.println(queue.empty());
+    }
+
     static class MyQueue {
         private Stack<Integer> s1;
         private Stack<Integer> s2;

@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,6 +10,14 @@ import java.util.Map;
  * @Date: 2020-07-09 18:53
  **/
 public class Solution205 {
+
+    @Test
+    public void test205() {
+        String s = "ab", t = "ca";
+        boolean result = isIsomorphic(s, t);
+        System.out.println(result);
+    }
+
     public boolean isIsomorphic(String s, String t) {
         if (s == null && t == null) {
             return true;

@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,6 +10,15 @@ import java.util.Map;
  * @Date: 2020-07-11 17:54
  **/
 public class Solution290 {
+
+    @Test
+    public void test290() {
+        String pattern = "abba";
+        String str = "cat dog dog cat";
+        boolean result = wordPattern(pattern, str);
+        System.out.println(result);
+    }
+
     public boolean wordPattern(String pattern, String str) {
         Map<Character,String> map = new HashMap<>();
         char[] c1 = pattern.toCharArray();

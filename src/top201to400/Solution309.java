@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-10 20:05
  **/
 public class Solution309 {
+
+    @Test
+    public void test309() {
+        int[] prices = {2, 1, 4};
+        int result = maxProfit(prices);
+        System.out.println(result);
+    }
+
     public int maxProfit1(int[] prices) {
         if (prices == null || prices.length < 2) {
             return 0;

@@ -1,10 +1,20 @@
 package top1201to1400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-26 19:52
  **/
 public class Solution1295 {
+
+    @Test
+    public void test1295() {
+        int[] nums = {12, 345, 2, 6, 7896};
+        int result = findNumbers(nums);
+        System.out.println(result);
+    }
+
     public int findNumbers(int[] nums) {
         int result = 0;
         for (int t : nums) {

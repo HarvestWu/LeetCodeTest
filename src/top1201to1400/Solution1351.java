@@ -1,10 +1,20 @@
 package top1201to1400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-28 17:21
  **/
 public class Solution1351 {
+
+    @Test
+    public void test1351() {
+        int[][] grid = new int[][]{{4, 3, 2, -1}, {3, 2, 1, -1}, {1, 1, -1, -2}, {-1, -1, -2, -3}};
+        int result = countNegatives(grid);
+        System.out.println(result);
+    }
+
     public int countNegatives(int[][] grid) {
         int len = grid[0].length;
         int result = 0;

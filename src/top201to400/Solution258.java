@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-10 22:21
  **/
 public class Solution258 {
+
+    @Test
+    public void test258() {
+        int n = 38;
+        int result = addDigits(n);
+        System.out.println(result);
+    }
+
     public int addDigits1(int num) {
         int tmp;
         while (num > 9) {

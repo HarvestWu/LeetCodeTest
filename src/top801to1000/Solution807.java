@@ -1,10 +1,20 @@
 package top801to1000;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-26 18:14
  **/
 public class Solution807 {
+
+    @Test
+    public void test807() {
+        int[][] grid = new int[][]{{3, 0, 8, 4}, {2, 4, 5, 7}, {9, 2, 6, 3}, {0, 3, 1, 0}};
+        int result = maxIncreaseKeepingSkyline(grid);
+        System.out.println(result);
+    }
+
     public int maxIncreaseKeepingSkyline(int[][] grid) {
         int col = grid.length, row = grid[0].length;
         int[] tTb = new int[row], lTr = new int[col];

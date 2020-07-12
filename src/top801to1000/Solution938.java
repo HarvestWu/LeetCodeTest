@@ -1,12 +1,30 @@
 package top801to1000;
 
 import construct.TreeNode;
+import org.junit.Test;
 
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-26 18:46
  **/
 public class Solution938 {
+
+    @Test
+    public void test938() {
+        TreeNode root = new TreeNode(10);
+        root.left = new TreeNode(5);
+        root.right = new TreeNode(15);
+        root.left.left = new TreeNode(3);
+        root.left.right = new TreeNode(7);
+        root.right.left = new TreeNode(13);
+        root.right.right = new TreeNode(18);
+        root.left.left.left = new TreeNode(1);
+        root.left.right.right = new TreeNode(6);
+        int L = 6, R = 10;
+        int result = rangeSumBST(root, L, R);
+        System.out.println(result);
+    }
+
     public int rangeSumBST(TreeNode root, int L, int R) {
         if(root == null){
             return 0;

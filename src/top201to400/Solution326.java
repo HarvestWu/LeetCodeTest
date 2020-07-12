@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-11 22:39
  **/
 public class Solution326 {
+
+    @Test
+    public void test326() {
+        int n = 82;
+        boolean result = isPowerOfThree(n);
+        System.out.println(result);
+    }
+
     public boolean isPowerOfThree1(int n) {
         if (n < 1) {
             return false;

@@ -1,5 +1,8 @@
 package top201to400;
 
+import org.junit.Test;
+
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -8,6 +11,14 @@ import java.util.Set;
  * @Date: 2020-07-12 16:11
  **/
 public class Solution349 {
+
+    @Test
+    public void test349() {
+        int[] num1 = {1, 2, 3, 4, 5}, num2 = {7, 8, 9, 1, 5};
+        int[] result = intersection(num1, num2);
+        System.out.println(Arrays.toString(result));
+    }
+
     public int[] intersection1(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<>();
         Set<Integer> set1 = new HashSet<>();

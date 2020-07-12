@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,6 +10,14 @@ import java.util.List;
  * @Date: 2020-07-12 14:52
  **/
 public class Solution342 {
+
+    @Test
+    public void test342() {
+        int n = 2;
+        boolean result = isPowerOfFour(n);
+        System.out.println(result);
+    }
+
     public boolean isPowerOfFour1(int n) {
         if (n == 0) {
             return false;

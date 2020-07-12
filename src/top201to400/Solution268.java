@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
@@ -9,6 +11,14 @@ import java.util.Set;
  * @Date: 2020-07-11 16:30
  **/
 public class Solution268 {
+
+    @Test
+    public void test268() {
+        int[] nums = {0, 1, 2, 3, 5, 6, 7, 8, 9};
+        int result = missingNumber(nums);
+        System.out.println(result);
+    }
+
     public int missingNumber1(int[] nums) {
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {

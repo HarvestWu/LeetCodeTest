@@ -1,10 +1,22 @@
 package top201to400;
 
+import org.junit.Test;
+
+import java.util.Arrays;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-11 17:19
  **/
 public class Solution283 {
+
+    @Test
+    public void test283() {
+        int[] nums = {1, 2, 0, 4, 5, 0, 1};
+        moveZeroes(nums);
+        System.out.println(Arrays.toString(nums));
+    }
+
     public void moveZeroes1(int[] nums) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {

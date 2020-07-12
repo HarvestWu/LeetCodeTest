@@ -1,5 +1,7 @@
 package top1401to1600;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -7,6 +9,14 @@ import java.util.Arrays;
  * @Date: 2020-06-27 18:35
  **/
 public class Solution1464 {
+
+    @Test
+    public void test1464() {
+        int[] nums = {3, 4, 5, 2};
+        int result = maxProduct(nums);
+        System.out.println(result);
+    }
+
     public int maxProduct(int[] nums) {
         Arrays.sort(nums);
         int len = nums.length;

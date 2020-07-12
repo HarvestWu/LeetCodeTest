@@ -1,6 +1,7 @@
 package top201to400;
 
 import construct.ListNode;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +11,14 @@ import java.util.List;
  * @Date: 2020-07-09 22:43
  **/
 public class Solution234 {
+
+    @Test
+    public void test234() {
+        ListNode head = new ListNode(1, new ListNode(2, new ListNode(2, new ListNode(1))));
+        boolean result = isPalindrome(head);
+        System.out.println(result);
+    }
+
     public boolean isPalindrome1(ListNode head) {
         List<Integer> list = new ArrayList<>();
         while (head != null) {

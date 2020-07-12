@@ -1,10 +1,20 @@
 package top601to800;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-28 22:09
  **/
 public class Solution657 {
+
+    @Test
+    public void test657() {
+        String moves = "LLRR";
+        boolean result = judgeCircle(moves);
+        System.out.println(result);
+    }
+
     public boolean judgeCircle(String moves) {
         char[] chars = moves.toCharArray();
         int x = 0, y = 0;

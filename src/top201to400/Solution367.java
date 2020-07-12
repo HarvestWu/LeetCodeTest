@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-12 16:56
  **/
 public class Solution367 {
+
+    @Test
+    public void test367(){
+        int num = 30;
+        boolean result = isPerfectSquare(num);
+        System.out.println(result);
+    }
+
     public boolean isPerfectSquare1(int num) {
         if (num < 2) {
             return true;

@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-11 16:59
  **/
 public class Solution278 {
+
+    @Test
+    public void test278() {
+        int n = 5;
+        int result = firstBadVersion(n);
+        System.out.println(result);
+    }
+
     public int firstBadVersion1(int n) {
         for (int i = 1; i <= n; i++) {
             if (isBadVersion(i)) {

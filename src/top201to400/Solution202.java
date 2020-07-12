@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -8,6 +10,14 @@ import java.util.Set;
  * @Date: 2020-07-09 10:56
  **/
 public class Solution202 {
+
+    @Test
+    public void test202() {
+        int n = 19;
+        boolean result = isHappy(n);
+        System.out.println(result);
+    }
+
     public boolean isHappy2(int n) {
         Set<Integer> seen = new HashSet<>();
         while (n != 1 && !seen.contains(n)) {

@@ -1,10 +1,20 @@
 package top201to400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-07-09 18:19
  **/
 public class Solution204 {
+
+    @Test
+    public void test204() {
+        int n = 10;
+        int result = countPrimes(n);
+        System.out.println(result);
+    }
+
     public int countPrimes(int n) {
         if (n == 0 || n == 1 || n == 2) {
             return 0;

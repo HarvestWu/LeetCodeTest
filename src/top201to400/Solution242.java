@@ -1,5 +1,7 @@
 package top201to400;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -7,6 +9,14 @@ import java.util.Arrays;
  * @Date: 2020-07-10 21:54
  **/
 public class Solution242 {
+
+    @Test
+    public void test242() {
+        String s = "hello", t = "ohell";
+        boolean result = isAnagram(s, t);
+        System.out.println(result);
+    }
+
     public boolean isAnagram1(String s, String t) {
         if (s.length() != t.length()) {
             return false;

@@ -1,10 +1,22 @@
 package top1201to1400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-29 19:08
  **/
 public class Solution1304 {
+
+    @Test
+    public void test1304() {
+        int n = 5;
+        int[] result = sumZero(n);
+        for (int a : result) {
+            System.out.print(a + " ");
+        }
+    }
+
     public int[] sumZero(int n) {
         int[] result = new int[n];
         int flag = 0;

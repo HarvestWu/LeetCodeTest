@@ -1,5 +1,7 @@
 package top801to1000;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -7,6 +9,14 @@ import java.util.Arrays;
  * @Date: 2020-06-26 19:22
  **/
 public class Solution977 {
+
+    @Test
+    public void test977() {
+        int[] A = new int[]{-4, -1, 0, 3, 10};
+        int[] result = sortedSquares(A);
+        System.out.println(Arrays.toString(result));
+    }
+
     public int[] sortedSquares(int[] A) {
         for (int i = 0; i < A.length; i++) {
             A[i] *= A[i];

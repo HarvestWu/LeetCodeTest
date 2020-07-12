@@ -1,5 +1,7 @@
 package top1201to1400;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -7,6 +9,14 @@ import java.util.Arrays;
  * @Date: 2020-06-29 19:21
  **/
 public class Solution1370 {
+
+    @Test
+    public void test1370() {
+        String s = "aaaabbbbcccc";
+        String result = sortString(s);
+        System.out.println(result);
+    }
+
     public String sortString(String s) {
         char[] chars = s.toCharArray();
         Arrays.sort(chars);

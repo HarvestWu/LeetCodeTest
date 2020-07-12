@@ -1,10 +1,20 @@
 package top1201to1400;
 
+import org.junit.Test;
+
 /**
  * @Author: HarvestWu
  * @Date: 2020-06-27 22:06
  **/
 public class Solution1221 {
+
+    @Test
+    public void test1221() {
+        String s = "RLLLLRRRLR";
+        int result = balancedStringSplit(s);
+        System.out.println(result);
+    }
+
     public int balancedStringSplit(String s) {
         char[] chars = s.toCharArray();
         int L = 0, R = 0;
