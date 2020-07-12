@@ -215,6 +215,12 @@ public class TestMain {
         System.out.println(s);
     }
 
+    private static void test345() {
+        String s = "hello";
+        String result = new Solution345().reverseVowels(s);
+        System.out.println(result);
+    }
+
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
 //        test202();
@@ -245,7 +251,8 @@ public class TestMain {
 //        test309();
 //        test326();
 //        test342();
-        test344();
+//        test344();
+        test345();
         long end = System.currentTimeMillis();
         System.out.println("RunTime: " + (end - start) + "ms");
     }
