@@ -30,6 +30,7 @@ public class Solution326 {
         return n > 0 && MaxPower % n == 0;
     }
 
+
     public boolean isPowerOfThree(int n) {
         int MaxPower = 1162261467;
         return n > 0 && MaxPower % n == 0;
