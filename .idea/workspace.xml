@@ -207,7 +207,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top201to400.*" />
+          <option name="PATTERN" value="top401to600.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,7 +223,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top201to400.*" />
+          <option name="PATTERN" value="top401to600.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,7 +239,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top201to400.*" />
+          <option name="PATTERN" value="top401to600.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +255,12 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top201to400.*" />
+          <option name="PATTERN" value="top401to600.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="top201to400" />
-      <option name="MAIN_CLASS_NAME" value="top201to400.Solution401" />
+      <option name="PACKAGE_NAME" value="top401to600" />
+      <option name="MAIN_CLASS_NAME" value="top401to600.Solution401" />
       <option name="METHOD_NAME" value="test401" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -271,12 +271,12 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top201to400.*" />
+          <option name="PATTERN" value="top401to600.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="top201to400" />
-      <option name="MAIN_CLASS_NAME" value="top201to400.Solution404" />
+      <option name="PACKAGE_NAME" value="top401to600" />
+      <option name="MAIN_CLASS_NAME" value="top401to600.Solution404" />
       <option name="METHOD_NAME" value="test404" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
