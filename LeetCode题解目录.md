@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.12.**
+**最新更新于2020.07.13.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 124/1715** - **简单 118** **中等 6** **困难 0**
+**已解决 134/1715** - **简单 128** **中等 6** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -94,6 +94,16 @@
 | [LeetCode 349. 两个数组的交集](https://blog.csdn.net/HarvestWu/article/details/107300885) |
 | [LeetCode 350. 两个数组的交集 II](https://blog.csdn.net/HarvestWu/article/details/107301245) |
 | [LeetCode 367. 有效的完全平方数](https://blog.csdn.net/HarvestWu/article/details/107301261) |
+| [LeetCode 371. 两整数之和](https://blog.csdn.net/HarvestWu/article/details/107314604) |
+| [LeetCode 374. 猜数字大小](https://blog.csdn.net/HarvestWu/article/details/107315027) |
+| [LeetCode 383. 赎金信](https://blog.csdn.net/HarvestWu/article/details/107315230) |
+| [LeetCode 387. 字符串中的第一个唯一字符](https://blog.csdn.net/HarvestWu/article/details/107315517) |
+| [LeetCode 389. 找不同](https://blog.csdn.net/HarvestWu/article/details/107319410) |
+| [LeetCode 392. 判断子序列](https://blog.csdn.net/HarvestWu/article/details/107320040) |
+| [LeetCode 401. 二进制手表](https://blog.csdn.net/HarvestWu/article/details/107322657) |
+| [LeetCode 404. 左叶子之和](https://blog.csdn.net/HarvestWu/article/details/107323113)|
+| [LeetCode 405. 数字转换为十六进制数](https://blog.csdn.net/HarvestWu/article/details/107323347) |
+| [LeetCode 409. 最长回文串](https://blog.csdn.net/HarvestWu/article/details/107324313) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
