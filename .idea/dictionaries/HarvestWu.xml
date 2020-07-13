@@ -7,6 +7,7 @@
       <w>abcdabcaa</w>
       <w>abcde</w>
       <w>aeiou</w>
+      <w>ahbgdc</w>
       <w>defang</w>
       <w>inor</w>
       <w>leet</w>
@@ -16,6 +17,7 @@
       <w>postorder</w>
       <w>rllllrrrlr</w>
       <w>strs</w>
+      <w>subsequence</w>
     </words>
   </dictionary>
 </component>
