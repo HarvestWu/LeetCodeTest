@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.13.**
+**最新更新于2020.07.14.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 134/1715** - **简单 128** **中等 6** **困难 0**
+**已解决 144/1715** - **简单 137** **中等 7** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -45,6 +45,7 @@
 | [LeetCode 112. 路径总和](https://blog.csdn.net/HarvestWu/article/details/107174964) |
 | [LeetCode 118. 杨辉三角](https://blog.csdn.net/HarvestWu/article/details/107176921) |
 | [LeetCode 119. 杨辉三角 II](https://blog.csdn.net/HarvestWu/article/details/107177892) |
+| [LeetCode 120. 三角形最小路径和](https://blog.csdn.net/HarvestWu/article/details/107333581) |
 | [LeetCode 121. 买卖股票的最佳时机](https://blog.csdn.net/HarvestWu/article/details/107186552) |
 | [LeetCode 122. 买卖股票的最佳时机 II](https://blog.csdn.net/HarvestWu/article/details/107187049) |
 | [LeetCode 125. 验证回文串](https://blog.csdn.net/HarvestWu/article/details/107187357) |
@@ -104,6 +105,15 @@
 | [LeetCode 404. 左叶子之和](https://blog.csdn.net/HarvestWu/article/details/107323113)|
 | [LeetCode 405. 数字转换为十六进制数](https://blog.csdn.net/HarvestWu/article/details/107323347) |
 | [LeetCode 409. 最长回文串](https://blog.csdn.net/HarvestWu/article/details/107324313) |
+| [LeetCode 412. Fizz Buzz](https://blog.csdn.net/HarvestWu/article/details/107334561) |
+| [LeetCode 414. 第三大的数](https://blog.csdn.net/HarvestWu/article/details/107334860) |
+| [LeetCode 415. 字符串相加](https://blog.csdn.net/HarvestWu/article/details/107335629) |
+| [LeetCode 434. 字符串中的单词数](https://blog.csdn.net/HarvestWu/article/details/107335898)|
+| [LeetCode 437. 路径总和 III](https://blog.csdn.net/HarvestWu/article/details/107336016) |
+| [LeetCode 441. 排列硬币](https://blog.csdn.net/HarvestWu/article/details/107336265) |
+| [LeetCode 443. 压缩字符串](https://blog.csdn.net/HarvestWu/article/details/107336547) |
+| [LeetCode 447. 回旋镖的数量](https://blog.csdn.net/HarvestWu/article/details/107337125) |
+| [LeetCode 448. 找到所有数组中消失的数字](https://blog.csdn.net/HarvestWu/article/details/107337749) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
