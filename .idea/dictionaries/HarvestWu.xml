@@ -13,6 +13,7 @@
       <w>abcdef</w>
       <w>aeiou</w>
       <w>ahbgdc</w>
+      <w>asdfghjkl</w>
       <w>defang</w>
       <w>inor</w>
       <w>leet</w>
@@ -20,9 +21,11 @@
       <w>mcmxciv</w>
       <w>paddr</w>
       <w>postorder</w>
+      <w>qwertyuiop</w>
       <w>rllllrrrlr</w>
       <w>strs</w>
       <w>subsequence</w>
+      <w>zxcvbnm</w>
     </words>
   </dictionary>
 </component>
