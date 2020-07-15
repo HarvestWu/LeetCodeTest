@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.14.**
+**最新更新于2020.07.15.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 144/1715** - **简单 137** **中等 7** **困难 0**
+**已解决 154/1715** - **简单 147** **中等 7** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -114,7 +114,16 @@
 | [LeetCode 443. 压缩字符串](https://blog.csdn.net/HarvestWu/article/details/107336547) |
 | [LeetCode 447. 回旋镖的数量](https://blog.csdn.net/HarvestWu/article/details/107337125) |
 | [LeetCode 448. 找到所有数组中消失的数字](https://blog.csdn.net/HarvestWu/article/details/107337749) |
+| [LeetCode 453. 最小移动次数使数组元素相等](https://blog.csdn.net/HarvestWu/article/details/107353596) |
+| [LeetCode 455. 分发饼干](https://blog.csdn.net/HarvestWu/article/details/107353774) |
+| [LeetCode 459. 重复的子字符串](https://blog.csdn.net/HarvestWu/article/details/107354196) |
 | [LeetCode 461. 汉明距离](https://blog.csdn.net/HarvestWu/article/details/107069900) |
+| [LeetCode 463. 岛屿的周长](https://blog.csdn.net/HarvestWu/article/details/107356230) |
+| [LeetCode 475. 供暖器](https://blog.csdn.net/HarvestWu/article/details/107356673) |
+| [LeetCode 476. 数字的补数](https://blog.csdn.net/HarvestWu/article/details/107358069) |
+| [LeetCode 482. 密钥格式化](https://blog.csdn.net/HarvestWu/article/details/107358879) |
+| [LeetCode 485. 最大连续1的个数](https://blog.csdn.net/HarvestWu/article/details/107359136) |
+| [LeetCode 492. 构造矩形](https://blog.csdn.net/HarvestWu/article/details/107359250)|
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
 | [LeetCode 617. 合并二叉树](https://blog.csdn.net/HarvestWu/article/details/107077014) |
@@ -127,6 +136,7 @@
 | [LeetCode 832. 翻转图像](https://blog.csdn.net/HarvestWu/article/details/107090862) |
 | [LeetCode 938. 二叉搜索树的范围和](https://blog.csdn.net/HarvestWu/article/details/107090855) |
 | [LeetCode 977. 有序数组的平方](https://blog.csdn.net/HarvestWu/article/details/107090841) |
+| [LeetCode 1009. 十进制整数的反码](https://blog.csdn.net/HarvestWu/article/details/107358755) |
 | [LeetCode 1021. 删除最外层的括号](https://blog.csdn.net/HarvestWu/article/details/107090833) |
 | [LeetCode 1108. IP 地址无效化](https://blog.csdn.net/HarvestWu/article/details/107090944) |
 | [LeetCode 1221. 分割平衡字符串](https://blog.csdn.net/HarvestWu/article/details/107090958) |
