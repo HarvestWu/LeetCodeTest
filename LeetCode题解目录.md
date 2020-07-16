@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.15.**
+**最新更新于2020.07.16.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 154/1715** - **简单 147** **中等 7** **困难 0**
+**已解决 164/1716** - **简单 155** **中等 9** **困难 0**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -35,6 +35,7 @@
 | [LeetCode 70. 爬楼梯](https://blog.csdn.net/HarvestWu/article/details/107139018) |
 | [LeetCode 83. 删除排序链表中的重复元素](https://blog.csdn.net/HarvestWu/article/details/107139690) |
 | [LeetCode 88. 合并两个有序数组](https://blog.csdn.net/HarvestWu/article/details/107168461) |
+| [LeetCode 96. 不同的二叉搜索树](https://blog.csdn.net/HarvestWu/article/details/107360550) |
 | [LeetCode 100. 相同的树](https://blog.csdn.net/HarvestWu/article/details/107169154) |
 | [LeetCode 101. 对称二叉树](https://blog.csdn.net/HarvestWu/article/details/107169428) |
 | [LeetCode 104. 二叉树的最大深度](https://blog.csdn.net/HarvestWu/article/details/107169964) |
@@ -124,6 +125,14 @@
 | [LeetCode 482. 密钥格式化](https://blog.csdn.net/HarvestWu/article/details/107358879) |
 | [LeetCode 485. 最大连续1的个数](https://blog.csdn.net/HarvestWu/article/details/107359136) |
 | [LeetCode 492. 构造矩形](https://blog.csdn.net/HarvestWu/article/details/107359250)|
+| [LeetCode 496. 下一个更大元素 I](https://blog.csdn.net/HarvestWu/article/details/107370713) |
+| [LeetCode 500. 键盘行](https://blog.csdn.net/HarvestWu/article/details/107371435) |
+| [LeetCode 501. 二叉搜索树中的众数](https://blog.csdn.net/HarvestWu/article/details/107379123) |
+| [LeetCode 504. 七进制数](https://blog.csdn.net/HarvestWu/article/details/107379687) |
+| [LeetCode 506. 相对名次](https://blog.csdn.net/HarvestWu/article/details/107379923) |
+| [LeetCode 507. 完美数](https://blog.csdn.net/HarvestWu/article/details/107380303) |
+| [LeetCode 509. 斐波那契数](https://blog.csdn.net/HarvestWu/article/details/107380547) |
+| [LeetCode 520. 检测大写字母](https://blog.csdn.net/HarvestWu/article/details/107380772) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
 | [LeetCode 617. 合并二叉树](https://blog.csdn.net/HarvestWu/article/details/107077014) |
@@ -131,6 +140,7 @@
 | [LeetCode 700. 二叉搜索树中的搜索](https://blog.csdn.net/HarvestWu/article/details/107077438) |
 | [LeetCode 709. 转换成小写字母](https://blog.csdn.net/HarvestWu/article/details/107077586) |
 | [LeetCode 771. 宝石与石头](https://blog.csdn.net/HarvestWu/article/details/107090813) |
+| [LeetCode 785. 判断二分图](https://blog.csdn.net/HarvestWu/article/details/107377251)|
 | [LeetCode 804. 唯一摩尔斯密码词](https://blog.csdn.net/HarvestWu/article/details/107090874) |
 | [LeetCode 807. 保持城市天际线](https://blog.csdn.net/HarvestWu/article/details/107090867) |
 | [LeetCode 832. 翻转图像](https://blog.csdn.net/HarvestWu/article/details/107090862) |
