@@ -22,7 +22,7 @@ public class Solution532 {
         Map<Integer, Integer> map = new HashMap<>();
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {
-            for (int j = i; j < nums.length; j++) {
+            for (int j = i + 1; j < nums.length; j++) {
                 if (nums[j] == nums[i] + k) {
                     map.put(nums[i], nums[j]);
                 } else if (nums[j] > nums[i] + k) {
