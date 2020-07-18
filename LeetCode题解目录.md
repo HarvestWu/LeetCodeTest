@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.16.**
+**最新更新于2020.07.18.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 164/1716** - **简单 155** **中等 9** **困难 0**
+**已解决 184/1716** - **简单 173** **中等 10** **困难 1**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天）
 
@@ -36,6 +36,7 @@
 | [LeetCode 83. 删除排序链表中的重复元素](https://blog.csdn.net/HarvestWu/article/details/107139690) |
 | [LeetCode 88. 合并两个有序数组](https://blog.csdn.net/HarvestWu/article/details/107168461) |
 | [LeetCode 96. 不同的二叉搜索树](https://blog.csdn.net/HarvestWu/article/details/107360550) |
+| [LeetCode 97. 交错字符串](https://blog.csdn.net/HarvestWu/article/details/107424384) |
 | [LeetCode 100. 相同的树](https://blog.csdn.net/HarvestWu/article/details/107169154) |
 | [LeetCode 101. 对称二叉树](https://blog.csdn.net/HarvestWu/article/details/107169428) |
 | [LeetCode 104. 二叉树的最大深度](https://blog.csdn.net/HarvestWu/article/details/107169964) |
@@ -133,13 +134,31 @@
 | [LeetCode 507. 完美数](https://blog.csdn.net/HarvestWu/article/details/107380303) |
 | [LeetCode 509. 斐波那契数](https://blog.csdn.net/HarvestWu/article/details/107380547) |
 | [LeetCode 520. 检测大写字母](https://blog.csdn.net/HarvestWu/article/details/107380772) |
+| [LeetCode 521. 最长特殊序列 Ⅰ](https://blog.csdn.net/HarvestWu/article/details/107391910) |
+| [LeetCode 530. 二叉搜索树的最小绝对差](https://blog.csdn.net/HarvestWu/article/details/107392127) |
+| [LeetCode 532. 数组中的K-diff数对](https://blog.csdn.net/HarvestWu/article/details/107392991) |
 | [LeetCode 535. TinyURL 的加密与解密](https://blog.csdn.net/HarvestWu/article/details/107070199) |
+| [LeetCode 538. 把二叉搜索树转换为累加树](https://blog.csdn.net/HarvestWu/article/details/107394910) |
+| [LeetCode 541. 反转字符串 II](https://blog.csdn.net/HarvestWu/article/details/107395635) |
+| [LeetCode 543. 二叉树的直径](https://blog.csdn.net/HarvestWu/article/details/107399771) |
+| [LeetCode 551. 学生出勤记录 I](https://blog.csdn.net/HarvestWu/article/details/107399778) |
+| [LeetCode 557. 反转字符串中的单词 III](https://blog.csdn.net/HarvestWu/article/details/107399781) |
+| [LeetCode 559. N叉树的最大深度](https://blog.csdn.net/HarvestWu/article/details/107418281) |
+| [LeetCode 561. 数组拆分 I](https://blog.csdn.net/HarvestWu/article/details/107418626) |
+| [LeetCode 563. 二叉树的坡度](https://blog.csdn.net/HarvestWu/article/details/107418768) |
+| [LeetCode 566. 重塑矩阵](https://blog.csdn.net/HarvestWu/article/details/107419038) |
+| [LeetCode 572. 另一个树的子树](https://blog.csdn.net/HarvestWu/article/details/107419221) |
+| [LeetCode 575. 分糖果](https://blog.csdn.net/HarvestWu/article/details/107425580) |
+| [LeetCode 581. 最短无序连续子数组](https://blog.csdn.net/HarvestWu/article/details/107425935) |
+| [LeetCode 589. N叉树的前序遍历](https://blog.csdn.net/HarvestWu/article/details/107426967) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
+| [LeetCode 594. 最长和谐子序列](https://blog.csdn.net/HarvestWu/article/details/107427337) |
 | [LeetCode 617. 合并二叉树](https://blog.csdn.net/HarvestWu/article/details/107077014) |
 | [LeetCode 657. 机器人能否返回原点](https://blog.csdn.net/HarvestWu/article/details/107077262) |
 | [LeetCode 700. 二叉搜索树中的搜索](https://blog.csdn.net/HarvestWu/article/details/107077438) |
 | [LeetCode 709. 转换成小写字母](https://blog.csdn.net/HarvestWu/article/details/107077586) |
 | [LeetCode 771. 宝石与石头](https://blog.csdn.net/HarvestWu/article/details/107090813) |
+| [LeetCode 783. 二叉搜索树节点最小距离](https://blog.csdn.net/HarvestWu/article/details/107392884) |
 | [LeetCode 785. 判断二分图](https://blog.csdn.net/HarvestWu/article/details/107377251)|
 | [LeetCode 804. 唯一摩尔斯密码词](https://blog.csdn.net/HarvestWu/article/details/107090874) |
 | [LeetCode 807. 保持城市天际线](https://blog.csdn.net/HarvestWu/article/details/107090867) |
@@ -148,6 +167,7 @@
 | [LeetCode 977. 有序数组的平方](https://blog.csdn.net/HarvestWu/article/details/107090841) |
 | [LeetCode 1009. 十进制整数的反码](https://blog.csdn.net/HarvestWu/article/details/107358755) |
 | [LeetCode 1021. 删除最外层的括号](https://blog.csdn.net/HarvestWu/article/details/107090833) |
+| [LeetCode 1038. 从二叉搜索树到更大和树](https://blog.csdn.net/HarvestWu/article/details/107394994) |
 | [LeetCode 1108. IP 地址无效化](https://blog.csdn.net/HarvestWu/article/details/107090944) |
 | [LeetCode 1221. 分割平衡字符串](https://blog.csdn.net/HarvestWu/article/details/107090958) |
 | [LeetCode 1252. 奇数值单元格的数目](https://blog.csdn.net/HarvestWu/article/details/107090981) |
