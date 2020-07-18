@@ -10,7 +10,7 @@ public class Solution97 {
 
     @Test
     public void test97() {
-        String s1 = "aabcc", s2 = "dbbca", s3 = "aadbbcbcac";
+        String s1 = "aabcca", s2 = "dbbca", s3 = "aadbbcbcac";
         System.out.println(isInterleave(s1, s2, s3));
     }
 
