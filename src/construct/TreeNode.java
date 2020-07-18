@@ -13,6 +13,12 @@ public class TreeNode {
         val = x;
     }
 
+    public TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+
     public static void printf(TreeNode root) {
         if (root.left != null) {
             printf(root.left);
