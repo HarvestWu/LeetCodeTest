@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top401to600/Solution605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top601to800/Solution606.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top401to600/Solution605.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top601to800/Solution605.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top401to600/Solution605.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution605.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution606.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/top401to600/Solution441.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution443.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution447.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution448.java" />
@@ -106,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/top401to600/Solution598.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution599.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution605.java" />
+        <option value="$PROJECT_DIR$/src/top601to800/Solution606.java" />
       </list>
     </option>
   </component>
@@ -141,7 +154,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top401to600" type="462c0819:PsiDirectoryNode" />
+              <item name="top601to800" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution605.test605">
+  <component name="RunManager" selected="JUnit.Solution606.test606">
     <configuration name="Solution312.test312" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -205,27 +218,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution594.test594" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top401to600.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top401to600" />
-      <option name="MAIN_CLASS_NAME" value="top401to600.Solution594" />
-      <option name="METHOD_NAME" value="test594" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution598.test598" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top401to600.*" />
+          <option name="PATTERN" value="top601to800.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,7 +238,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top401to600.*" />
+          <option name="PATTERN" value="top601to800.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,13 +254,29 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top401to600.*" />
+          <option name="PATTERN" value="top601to800.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="top401to600" />
-      <option name="MAIN_CLASS_NAME" value="top401to600.Solution605" />
+      <option name="PACKAGE_NAME" value="top601to800" />
+      <option name="MAIN_CLASS_NAME" value="top601to800.Solution605" />
       <option name="METHOD_NAME" value="test605" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution606.test606" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top601to800.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top601to800" />
+      <option name="MAIN_CLASS_NAME" value="top601to800.Solution606" />
+      <option name="METHOD_NAME" value="test606" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -271,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution606.test606" />
         <item itemvalue="JUnit.Solution605.test605" />
         <item itemvalue="JUnit.Solution599.test599" />
         <item itemvalue="JUnit.Solution598.test598" />
         <item itemvalue="JUnit.Solution312.test312" />
-        <item itemvalue="JUnit.Solution594.test594" />
       </list>
     </recent_temporary>
   </component>
@@ -333,14 +346,7 @@
       <workItem from="1594944982024" duration="3217000" />
       <workItem from="1594992973863" duration="4394000" />
       <workItem from="1595037043339" duration="12050000" />
-      <workItem from="1595141031587" duration="4408000" />
-    </task>
-    <task id="LOCAL-00149" summary="新增447">
-      <created>1594708829896</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1594708829896</updated>
+      <workItem from="1595141031587" duration="5826000" />
     </task>
     <task id="LOCAL-00150" summary="新增448">
       <created>1594710355990</created>
@@ -678,43 +684,50 @@
       <option name="project" value="LOCAL" />
       <updated>1595144346073</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="新增605">
+      <created>1595145625219</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1595145625219</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 45m 22s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 08m 57s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 46m 16s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 09m 52s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 46m 24s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 10m 10s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 48m 40s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 11m 08s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 49m 37s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 11m 16s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 52m 05s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 12m 03s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 55m 33s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 13m 21s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 55m 42s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 13m 43s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 55m 57s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 14m 00s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Solution605_test605 - 2020.07.19 at 15h 56m 04s.xml">
-      <configuration name="Solution605.test605" configurationId="JUnit" />
+    <history-entry file="Solution606_test606 - 2020.07.19 at 16h 19m 10s.xml">
+      <configuration name="Solution606.test606" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312046000" />
+    <option name="totallyTimeSpent" value="313464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -786,7 +799,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增509" />
     <MESSAGE value="新增520" />
     <MESSAGE value="新增521" />
     <MESSAGE value="新增530、783" />
@@ -811,7 +823,8 @@
     <MESSAGE value="新增312" />
     <MESSAGE value="新增598" />
     <MESSAGE value="新增599" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增599" />
+    <MESSAGE value="新增605" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增605" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,13 +889,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="2149" column="18" selection-start-line="2149" selection-start-column="18" selection-end-line="2149" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top401to600/Solution482.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -1319,10 +1325,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/top401to600/Solution605.java">
+    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution605.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution606.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
