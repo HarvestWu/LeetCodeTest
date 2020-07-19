@@ -11,7 +11,7 @@ import java.util.Arrays;
 public class Solution628 {
 
     @Test
-    public void test() {
+    public void test628() {
         int[] nums = {-4,-3,-2,-1,60};
         System.out.println(maximumProduct(nums));
     }
