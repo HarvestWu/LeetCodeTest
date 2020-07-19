@@ -90,6 +90,7 @@
 | [LeetCode 299. 猜数字游戏](https://blog.csdn.net/HarvestWu/article/details/107290315) |
 | [LeetCode 303. 区域和检索 - 数组不可变](https://blog.csdn.net/HarvestWu/article/details/107291950) |
 | [LeetCode 309. 最佳买卖股票时机含冷冻期](https://blog.csdn.net/HarvestWu/article/details/107265325) |
+| [LeetCode 312. 戳气球](https://blog.csdn.net/HarvestWu/article/details/107445085) |
 | [LeetCode 326. 3的幂](https://blog.csdn.net/HarvestWu/article/details/107292180) |
 | [LeetCode 342. 4的幂](https://blog.csdn.net/HarvestWu/article/details/107300228) |
 | [LeetCode 344. 反转字符串](https://blog.csdn.net/HarvestWu/article/details/107300271) |
@@ -153,7 +154,16 @@
 | [LeetCode 589. N叉树的前序遍历](https://blog.csdn.net/HarvestWu/article/details/107426967) |
 | [LeetCode 590. N叉树的后序遍历](https://blog.csdn.net/HarvestWu/article/details/107070219) |
 | [LeetCode 594. 最长和谐子序列](https://blog.csdn.net/HarvestWu/article/details/107427337) |
+| [LeetCode 598. 范围求和 II](https://blog.csdn.net/HarvestWu/article/details/107445090) |
+| [LeetCode 599. 两个列表的最小索引总和](https://blog.csdn.net/HarvestWu/article/details/107445100) |
+| [LeetCode 605. 种花问题](https://blog.csdn.net/HarvestWu/article/details/107445110) |
+| [LeetCode 606. 根据二叉树创建字符串](https://blog.csdn.net/HarvestWu/article/details/107445120) |
 | [LeetCode 617. 合并二叉树](https://blog.csdn.net/HarvestWu/article/details/107077014) |
+| [LeetCode 628. 三个数的最大乘积](https://blog.csdn.net/HarvestWu/article/details/107447060) |
+| [LeetCode 633. 平方数之和](https://blog.csdn.net/HarvestWu/article/details/107447074) |
+| [LeetCode 637. 二叉树的层平均值](https://blog.csdn.net/HarvestWu/article/details/107447084) |
+| [LeetCode 643. 子数组最大平均数 I](https://blog.csdn.net/HarvestWu/article/details/107447094) |
+| [LeetCode 645. 错误的集合](https://blog.csdn.net/HarvestWu/article/details/107447111) |
 | [LeetCode 657. 机器人能否返回原点](https://blog.csdn.net/HarvestWu/article/details/107077262) |
 | [LeetCode 700. 二叉搜索树中的搜索](https://blog.csdn.net/HarvestWu/article/details/107077438) |
 | [LeetCode 709. 转换成小写字母](https://blog.csdn.net/HarvestWu/article/details/107077586) |
