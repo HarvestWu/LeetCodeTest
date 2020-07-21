@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/top601to800/Solution717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top601to800/Solution733.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution717.java">
+        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution733.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="11" selection-start-line="11" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="31">
+              <caret line="10" selection-start-line="10" selection-end-line="52" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,31 +33,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution709.java">
+        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution728.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution706.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="13" selection-start-line="13" selection-end-line="60" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top601to800/Solution705.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="206">
+              <caret line="14" selection-start-line="14" selection-end-line="40" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/top401to600/Solution521.java" />
-        <option value="$PROJECT_DIR$/src/top401to600/Solution530.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution783.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution538.java" />
         <option value="$PROJECT_DIR$/src/top1001to1200/Solution1038.java" />
@@ -142,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/top601to800/Solution705.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution706.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution717.java" />
+        <option value="$PROJECT_DIR$/src/top601to800/Solution728.java" />
+        <option value="$PROJECT_DIR$/src/top601to800/Solution733.java" />
       </list>
     </option>
   </component>
@@ -244,39 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution717.test717">
-    <configuration name="Solution704.test704" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top601to800.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top601to800" />
-      <option name="MAIN_CLASS_NAME" value="top601to800.Solution704" />
-      <option name="METHOD_NAME" value="test704" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution705.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top601to800.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top601to800" />
-      <option name="MAIN_CLASS_NAME" value="top601to800.Solution705" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution733.test733">
     <configuration name="Solution705.test705" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -325,13 +272,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution728.test728" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top601to800.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top601to800" />
+      <option name="MAIN_CLASS_NAME" value="top601to800.Solution728" />
+      <option name="METHOD_NAME" value="test728" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution733.test733" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top601to800.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top601to800" />
+      <option name="MAIN_CLASS_NAME" value="top601to800.Solution733" />
+      <option name="METHOD_NAME" value="test733" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution733.test733" />
+        <item itemvalue="JUnit.Solution728.test728" />
         <item itemvalue="JUnit.Solution717.test717" />
         <item itemvalue="JUnit.Solution706.test706" />
         <item itemvalue="JUnit.Solution705.test705" />
-        <item itemvalue="JUnit.Solution705.test" />
-        <item itemvalue="JUnit.Solution704.test704" />
       </list>
     </recent_temporary>
   </component>
@@ -393,21 +372,7 @@
       <workItem from="1595215643947" duration="14182000" />
       <workItem from="1595250027855" duration="1352000" />
       <workItem from="1595251415509" duration="186000" />
-      <workItem from="1595297046103" duration="8419000" />
-    </task>
-    <task id="LOCAL-00175" summary="新增530、783">
-      <created>1594902872292</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1594902872293</updated>
-    </task>
-    <task id="LOCAL-00176" summary="新增532">
-      <created>1594907363921</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1594907363921</updated>
+      <workItem from="1595297046103" duration="10905000" />
     </task>
     <task id="LOCAL-00177" summary="新增538">
       <created>1594908918311</created>
@@ -738,22 +703,24 @@
       <option name="project" value="LOCAL" />
       <updated>1595304320890</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="新增717">
+      <created>1595305486508</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1595305486508</updated>
+    </task>
+    <task id="LOCAL-00225" summary="新增728">
+      <created>1595306386044</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1595306386044</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution705_test - 2020.07.21 at 11h 49m 21s.xml">
-      <configuration name="Solution705.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution705_test705 - 2020.07.21 at 11h 49m 26s.xml">
-      <configuration name="Solution705.test705" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution706_test706 - 2020.07.21 at 11h 59m 37s.xml">
-      <configuration name="Solution706.test706" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution706_test706 - 2020.07.21 at 12h 01m 46s.xml">
-      <configuration name="Solution706.test706" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solution706_test706 - 2020.07.21 at 12h 02m 17s.xml">
       <configuration name="Solution706.test706" configurationId="JUnit" />
     </history-entry>
@@ -772,9 +739,21 @@
     <history-entry file="Solution717_test717 - 2020.07.21 at 12h 17m 36s.xml">
       <configuration name="Solution717.test717" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solution728_test728 - 2020.07.21 at 12h 32m 13s.xml">
+      <configuration name="Solution728.test728" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution728_test728 - 2020.07.21 at 12h 33m 13s.xml">
+      <configuration name="Solution728.test728" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution728_test728 - 2020.07.21 at 12h 34m 13s.xml">
+      <configuration name="Solution728.test728" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution733_test733 - 2020.07.21 at 12h 51m 01s.xml">
+      <configuration name="Solution733.test733" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345059000" />
+    <option name="totallyTimeSpent" value="347545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -797,8 +776,8 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50469166" side_tool="true" weight="0.23371105" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4530831" weight="0.66288954" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.70710456" side_tool="true" weight="0.59490085" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.33579087" weight="0.66288954" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.6642091" side_tool="true" weight="0.66288954" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -846,8 +825,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增599" />
-    <MESSAGE value="新增605" />
     <MESSAGE value="新增606" />
     <MESSAGE value="新增628" />
     <MESSAGE value="新增633" />
@@ -871,7 +848,9 @@
     <MESSAGE value="新增704" />
     <MESSAGE value="新增705" />
     <MESSAGE value="新增706" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增706" />
+    <MESSAGE value="新增717" />
+    <MESSAGE value="新增728" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增728" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -964,23 +943,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top401to600/Solution538.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top401to600/Solution535.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top401to600/Solution561.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1409,8 +1371,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top601to800/Solution717.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="130">
           <caret line="11" selection-start-line="11" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution728.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" selection-start-line="14" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution733.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="10" selection-start-line="10" selection-end-line="52" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
