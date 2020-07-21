@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.20.**
+**最新更新于2020.07.21.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 204/1721** - **简单 192** **中等 10** **困难 2**
+**已解决 214/1721** - **简单 202** **中等 10** **困难 2**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天），累计100道。
 - 2020.07.10 - 2020.07.19，AC + 100道（耗时10天），累计200道。
@@ -176,8 +176,18 @@
 | [LeetCode 682. 棒球比赛](https://blog.csdn.net/HarvestWu/article/details/107463167) |
 | [LeetCode 690. 员工的重要性](https://blog.csdn.net/HarvestWu/article/details/107464553) |
 | [LeetCode 693. 交替位二进制数](https://blog.csdn.net/HarvestWu/article/details/107464573) |
+| [LeetCode 696. 计数二进制子串](https://blog.csdn.net/HarvestWu/article/details/107481709) |
+| [LeetCode 697. 数组的度](https://blog.csdn.net/HarvestWu/article/details/107481732) |
 | [LeetCode 700. 二叉搜索树中的搜索](https://blog.csdn.net/HarvestWu/article/details/107077438) |
+| [LeetCode 703. 数据流中的第K大元素](https://blog.csdn.net/HarvestWu/article/details/107483316) |
+| [LeetCode 704. 二分查找](https://blog.csdn.net/HarvestWu/article/details/107484531)|
+| [LeetCode 705. 设计哈希集合](https://blog.csdn.net/HarvestWu/article/details/107484818) |
+| [LeetCode 706. 设计哈希映射](https://blog.csdn.net/HarvestWu/article/details/107485594) |
 | [LeetCode 709. 转换成小写字母](https://blog.csdn.net/HarvestWu/article/details/107077586) |
+| [LeetCode 717. 1比特与2比特字符](https://blog.csdn.net/HarvestWu/article/details/107485934) |
+| [LeetCode 728. 自除数](https://blog.csdn.net/HarvestWu/article/details/107486121) |
+| [LeetCode 733. 图像渲染](https://blog.csdn.net/HarvestWu/article/details/107486265) |
+| [LeetCode 748. 最短完整词](https://blog.csdn.net/HarvestWu/article/details/107487011) |
 | [LeetCode 771. 宝石与石头](https://blog.csdn.net/HarvestWu/article/details/107090813) |
 | [LeetCode 783. 二叉搜索树节点最小距离](https://blog.csdn.net/HarvestWu/article/details/107392884) |
 | [LeetCode 785. 判断二分图](https://blog.csdn.net/HarvestWu/article/details/107377251)|
