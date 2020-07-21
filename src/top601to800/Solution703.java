@@ -13,7 +13,7 @@ import static org.junit.Assert.assertEquals;
 public class Solution703 {
 
     @Test
-    public void test() {
+    public void test703() {
         int[] nums = {4, 2, 8, 5};
         KthLargest kthLargest = new KthLargest(3, nums);
         assertEquals(4,kthLargest.add(3));
