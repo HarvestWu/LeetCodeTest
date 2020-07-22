@@ -1,11 +1,11 @@
 
-**最新更新于2020.07.21.**
+**最新更新于2020.07.22.**
 
 - 前往[LeetCode主页](https://leetcode-cn.com/u/harvestwu)。
 
 - 前往[GitHub源码](https://github.com/HarvestWu/LeetCodeTest)。
 
-**已解决 214/1721** - **简单 202** **中等 10** **困难 2**
+**已解决 224/1721** - **简单 212** **中等 10** **困难 2**
 
 - 2020.06.30 - 2020.07.09，AC + 100道（耗时10天），累计100道。
 - 2020.07.10 - 2020.07.19，AC + 100道（耗时10天），累计200道。
@@ -188,12 +188,22 @@
 | [LeetCode 728. 自除数](https://blog.csdn.net/HarvestWu/article/details/107486121) |
 | [LeetCode 733. 图像渲染](https://blog.csdn.net/HarvestWu/article/details/107486265) |
 | [LeetCode 748. 最短完整词](https://blog.csdn.net/HarvestWu/article/details/107487011) |
+| [LeetCode 762. 二进制表示中质数个计算置位](https://blog.csdn.net/HarvestWu/article/details/107521459) |
+| [LeetCode 766. 托普利茨矩阵](https://blog.csdn.net/HarvestWu/article/details/107521473) |
 | [LeetCode 771. 宝石与石头](https://blog.csdn.net/HarvestWu/article/details/107090813) |
 | [LeetCode 783. 二叉搜索树节点最小距离](https://blog.csdn.net/HarvestWu/article/details/107392884) |
+| [LeetCode 784. 字母大小写全排列](https://blog.csdn.net/HarvestWu/article/details/107521431) |
 | [LeetCode 785. 判断二分图](https://blog.csdn.net/HarvestWu/article/details/107377251)|
+| [LeetCode 788. 旋转数字](https://blog.csdn.net/HarvestWu/article/details/107521448) |
+| [LeetCode 796. 旋转字符串](https://blog.csdn.net/HarvestWu/article/details/107521481) |
 | [LeetCode 804. 唯一摩尔斯密码词](https://blog.csdn.net/HarvestWu/article/details/107090874) |
+| [LeetCode 806. 写字符串需要的行数](https://blog.csdn.net/HarvestWu/article/details/107522697) |
 | [LeetCode 807. 保持城市天际线](https://blog.csdn.net/HarvestWu/article/details/107090867) |
+| [LeetCode 811. 子域名访问计数](https://blog.csdn.net/HarvestWu/article/details/107522712) |
+| [LeetCode 812. 最大三角形面积](https://blog.csdn.net/HarvestWu/article/details/107522721) |
+| [LeetCode 821. 字符的最短距离](https://blog.csdn.net/HarvestWu/article/details/107522736) |
 | [LeetCode 832. 翻转图像](https://blog.csdn.net/HarvestWu/article/details/107090862) |
+| [LeetCode 852. 山脉数组的峰顶索引](https://blog.csdn.net/HarvestWu/article/details/107522747) |
 | [LeetCode 938. 二叉搜索树的范围和](https://blog.csdn.net/HarvestWu/article/details/107090855) |
 | [LeetCode 977. 有序数组的平方](https://blog.csdn.net/HarvestWu/article/details/107090841) |
 | [LeetCode 1009. 十进制整数的反码](https://blog.csdn.net/HarvestWu/article/details/107358755) |
