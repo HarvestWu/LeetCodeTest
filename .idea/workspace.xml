@@ -312,23 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution897.test897">
-    <configuration name="Solution876.test876" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top801to1000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top801to1000" />
-      <option name="MAIN_CLASS_NAME" value="top801to1000.Solution876" />
-      <option name="METHOD_NAME" value="test876" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution905.test905">
     <configuration name="Solution883.test883" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -393,13 +377,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution905.test905" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top801to1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top801to1000" />
+      <option name="MAIN_CLASS_NAME" value="top801to1000.Solution905" />
+      <option name="METHOD_NAME" value="test905" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution905.test905" />
         <item itemvalue="JUnit.Solution897.test897" />
         <item itemvalue="JUnit.Solution892.test892" />
         <item itemvalue="JUnit.Solution884.test884" />
         <item itemvalue="JUnit.Solution883.test883" />
-        <item itemvalue="JUnit.Solution876.test876" />
       </list>
     </recent_temporary>
   </component>
