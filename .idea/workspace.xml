@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca4dc4a-6806-433e-9776-333cf1912754" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/top801to1000/Solution860.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,32 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution852.java">
+        <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution860.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution812.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="8" selection-start-line="8" selection-end-line="33" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution821.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="10" selection-start-line="10" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="56">
+              <caret line="11" selection-start-line="11" selection-end-line="44" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/construct/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution572.java" />
         <option value="$PROJECT_DIR$/src/top200/Solution97.java" />
         <option value="$PROJECT_DIR$/src/top401to600/Solution575.java" />
@@ -123,7 +101,6 @@
         <option value="$PROJECT_DIR$/src/top601to800/Solution728.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution733.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution748.java" />
-        <option value="$PROJECT_DIR$/LeetCode题解目录.md" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution762.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution766.java" />
         <option value="$PROJECT_DIR$/src/top601to800/Solution784.java" />
@@ -135,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/top801to1000/Solution812.java" />
         <option value="$PROJECT_DIR$/src/top801to1000/Solution821.java" />
         <option value="$PROJECT_DIR$/src/top801to1000/Solution852.java" />
+        <option value="$PROJECT_DIR$/LeetCode题解目录.md" />
+        <option value="$PROJECT_DIR$/src/top801to1000/Solution860.java" />
       </list>
     </option>
   </component>
@@ -169,6 +148,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,8 +176,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,23 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Solution852.test852">
-    <configuration name="Solution811.test811" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="top801to1000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="top801to1000" />
-      <option name="MAIN_CLASS_NAME" value="top801to1000.Solution811" />
-      <option name="METHOD_NAME" value="test811" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Solution860.test860">
     <configuration name="Solution812.test812" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -317,13 +280,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution860.test860" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top801to1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top801to1000" />
+      <option name="MAIN_CLASS_NAME" value="top801to1000.Solution860" />
+      <option name="METHOD_NAME" value="test860" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Solution860.test860" />
         <item itemvalue="JUnit.Solution852.test852" />
         <item itemvalue="JUnit.Solution821.test821" />
         <item itemvalue="JUnit.Solution821" />
         <item itemvalue="JUnit.Solution812.test812" />
-        <item itemvalue="JUnit.Solution811.test811" />
       </list>
     </recent_temporary>
   </component>
@@ -387,14 +366,9 @@
       <workItem from="1595251415509" duration="186000" />
       <workItem from="1595297046103" duration="12909000" />
       <workItem from="1595379566096" duration="4078000" />
-      <workItem from="1595418229844" duration="8657000" />
-    </task>
-    <task id="LOCAL-00190" summary="新增575">
-      <created>1595041923975</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1595041923975</updated>
+      <workItem from="1595418229844" duration="8707000" />
+      <workItem from="1595465331459" duration="369000" />
+      <workItem from="1595480111879" duration="1013000" />
     </task>
     <task id="LOCAL-00191" summary="新增581">
       <created>1595045520923</created>
@@ -732,16 +706,17 @@
       <option name="project" value="LOCAL" />
       <updated>1595426664205</updated>
     </task>
-    <option name="localTasksCounter" value="239" />
+    <task id="LOCAL-00239" summary="更新题解目录">
+      <created>1595427057035</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1595427057035</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Solution811_test811 - 2020.07.22 at 21h 11m 28s.xml">
-      <configuration name="Solution811.test811" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Solution811_test811 - 2020.07.22 at 21h 13m 44s.xml">
-      <configuration name="Solution811.test811" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Solution811_test811 - 2020.07.22 at 21h 13m 47s.xml">
       <configuration name="Solution811.test811" configurationId="JUnit" />
     </history-entry>
@@ -766,15 +741,21 @@
     <history-entry file="Solution852_test852 - 2020.07.22 at 22h 03m 02s.xml">
       <configuration name="Solution852.test852" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Solution860_test860 - 2020.07.23 at 13h 07m 44s.xml">
+      <configuration name="Solution860.test860" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution860_test860 - 2020.07.23 at 13h 07m 58s.xml">
+      <configuration name="Solution860.test860" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362284000" />
+    <option name="totallyTimeSpent" value="363716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.112600535" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1152815" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -854,7 +835,6 @@
     <MESSAGE value="新增728" />
     <MESSAGE value="新增733" />
     <MESSAGE value="新增748" />
-    <MESSAGE value="更新题解目录" />
     <MESSAGE value="新增762" />
     <MESSAGE value="新增766" />
     <MESSAGE value="新增784" />
@@ -865,7 +845,8 @@
     <MESSAGE value="新增812" />
     <MESSAGE value="新增821" />
     <MESSAGE value="新增852" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增852" />
+    <MESSAGE value="更新题解目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新题解目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -958,13 +939,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/top601to800/Solution643.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top601to800/Solution645.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -1287,16 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="492">
-            <caret line="228" column="52" selection-start-line="228" selection-start-column="52" selection-end-line="228" selection-end-column="52" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/top601to800/Solution762.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1402,14 +1366,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution812.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution821.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
+        <state relative-caret-position="200">
           <caret line="10" selection-start-line="10" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1417,13 +1381,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode题解目录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="792">
+            <caret line="238" column="85" selection-start-line="238" selection-start-column="85" selection-end-line="238" selection-end-column="85" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution852.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="200">
           <caret line="8" selection-start-line="8" selection-end-line="23" selection-end-column="1" />
           <folding>
             <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/top801to1000/Solution860.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" selection-start-line="11" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
